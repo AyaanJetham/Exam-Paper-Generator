@@ -1,0 +1,1032 @@
+id,discipline,course name,sme name,institute 1,institute 2,duration,url
+noc25_ae01,Aerospace Engineering,Advanced Aircraft Control Systems with MATLAB/SIMULINK,"Prof. Dipak Kumar Giri
+Prof. Prabhjeet Singh",IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae01/preview
+noc25_ae02,Aerospace Engineering,Aircraft Design,Prof. A.K.Ghosh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae02/preview
+noc25_ae03,Aerospace Engineering,Computational Science in Engineering,Prof. Ashok De,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae03/preview
+noc25_ae04,Aerospace Engineering,Fundamentals of Supersonic and Hypersonic Flow,Prof. Arnab Roy,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae04/preview
+noc25_ae05,Aerospace Engineering,Fundamentals of Theoretical and Experimental Aerodynamics,Prof. Arnab Roy,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae05/preview
+noc25_ae06,Aerospace Engineering,Gasdynamics: Fundamentals and Applications,Prof. Srisha Rao M V,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae06/preview
+noc25_ae07,Aerospace Engineering,Introduction to Aircraft Control System,Prof. Dipak Kumar Giri,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae07/preview
+noc25_ae08,Aerospace Engineering,Introduction to Ancient Indian Technology,Prof. D.P. Mishra,IIT Kanpur,IIT Kanpur,8 Weeks + 4 Weeks (New),https://onlinecourses.nptel.ac.in/noc25_ae08/preview
+noc25_ae09,Aerospace Engineering,Introduction to Experiments in Flight,Prof. A.K.Ghosh,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae09/preview
+noc25_ae10,Aerospace Engineering,Lighter than Air Systems,Prof. Rajkumar S. Pant,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae10/preview
+noc25_ae12,Aerospace Engineering,Wind Energy,Prof. Ashoke De,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae12/preview
+noc25_ae13,Aerospace Engineering,Aerospace Structural Analysis,Prof. Mira Mitra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae13/preview
+noc25_ae14,Aerospace Engineering,Combustion of Solid Fuels and Propellants,Prof. Srinibas Karmakar,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae14/preview
+noc25_ae15,Aerospace Engineering,Introduction to Launch Vehicle Analysis and Design,Prof. Ashok Joshi,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae15/preview
+noc25_ae16,Aerospace Engineering,Engineering Thermodynamics,Prof. D.P. Mishra,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ae16/preview
+noc25_ag03,Agricultural and Food Engineering,Design of Farm Machinery,Prof. Hifjur Raheman,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ag03/preview
+noc25_ag04,Agricultural and Food Engineering,Food Science and Technology,Prof. Hari Niwas Mishra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag04/preview
+noc25_ag05,Agricultural and Food Engineering,Impact of Flow of Fluids in Food Processing and Preservation,"Prof. Kanishka Bhunia
+Prof. Tridib Kumar Goswami",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag05/preview
+noc25_ag07,Agricultural and Food Engineering,Modern Food Packaging Technologies: Regulatory Aspects and Global Trends,Prof. Prem Prakash Srivastav,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ag07/preview
+noc25_ag01,Agriculture Engineering,Basics of Crop Breeding and Plant Biotechnology,Prof. Joydeep Banerjee,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag01/preview
+noc25_ag02,Agriculture Engineering,Cooling Technology: Why and How utilized in Food Processing and allied Industries,Prof. Tridib Kumar Goswami,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag02/preview
+noc25_ag06,Agriculture Engineering,Machine Learning for Soil and Crop Management,Prof. Somsubhra Chakraborty,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag06/preview
+noc25_ag08,Agriculture Engineering,Novel Technologies for Food Processing and Shelf Life Extension,Prof. Hari Niwas Mishra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag08/preview
+noc25_ag09,Agriculture Engineering,Soil and Water Conservation Engineering,Prof. Rajendra Singh,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag09/preview
+noc25_ag10,Agriculture Engineering,Soil Science and Technology,Prof. Somsubhra Chakraborty,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag10/preview
+noc25_ag11,Agriculture Engineering,Traction Engineering,Prof. Hifjur Raheman,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag11/preview
+noc25_ag12,Agriculture Engineering,Water Quality Management Practices,Prof. Gourav Dhar Bhowmick,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ag12/preview
+noc25_ag13,Agriculture Engineering,Watershed Hydrology,Prof. Rajendra Singh,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ag13/preview
+noc25_ce48,Applied Geophysics,Reservoir Geophysics for Hydrocarbon Exploration,Prof. Saurabh Datta Gupta,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ce48/preview
+noc25_me20,Applied Mechanics,Engineering Mechanics - Statics and Dynamics,Prof. Anubhab Roy,IIT Madras,IIT Madras,8 Weeks + 4 Weeks (New),https://onlinecourses.nptel.ac.in/noc25_me20/preview
+noc25_cs71,Applied Statistics/Finance,Time Series Modelling and Forecasting with Applications in R,Prof. Sudeep Bapat,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs71/preview
+noc25_ar01,Architecture and Planning,Engineering/Architectural Graphics - Part I - Orthographic Projection,Prof. Avlokita Agrawal,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar01/preview
+noc25_ar02,Architecture and Planning,Engineering/Architectural Graphics - Part II - Isometric and Axonometric Drawings,Prof. Avlokita Agrawal,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar02/preview
+noc25_ar03,Architecture and Planning,Environmental Impact Assessment,Prof. Harshit Sosan Lakra,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar03/preview
+noc25_ar04,Architecture and Planning,Introduction to History of Architecture in India,Prof. Pushkar Sohoni,IISER Pune,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar04/preview
+noc25_ar05,Architecture and Planning,Research Methodology for Planning and Architectural Studies,Prof. Shubhajit Sadhukhan,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar05/preview
+noc25_ar07,Architecture and Planning,"Structure, Form and Architecture: The Synergy",Prof. Shubhajit Sadhukhan,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar07/preview
+noc25_ar08,Architecture and Planning,Urban Services Planning,Prof. Debapratim Pandit,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar08/preview
+noc25_ar09,Architecture and Planning,User Interface Design,Prof. Saptarshi Kolay,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar09/preview
+noc25_ar11,Architecture and Planning,Disaster Recovery and Build Back Better,"Prof. Ram Sateesh Pasupuleti 
+Prof. Subhojyothi Samaddar",IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar11/preview
+noc25_ar06,"Architecture and Planning, Civil Engineering",Bioclimatic Architecture: Futureproofing with Simple and Advanced Passive Strategies,Prof. Iyer Vijayalaxmi Kasinath,School of Planning and Architecture Vijayawada,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar06/preview
+noc25_ar10,Architecture and Regional Planning,Building Energy Systems and Auditing,Prof. Shankha Pratim Bhattacharya,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ar10/preview
+noc25_de11,"Architecture; Interior Design; Design; History of Design (esp.
+ focusing on India); Indian Knowledge Systems",Interior Design,Prof. Smriti Saraswat,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_de11/preview
+noc25_ge18,"Biological Sciences & Engineering. 
+ (also students from Physics, Computer Science, 
+ Mathematics, and other branches of Engineering)",Introduction to Evolutionary Dynamics,Prof. Supreet Saini,IIT Bombay,IIT Bombay,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ge18/preview
+noc25_bt18,Bioscience and Biotechnology,Environmental Chemistry and Microbiology,"Prof. Anjali Pal
+ Prof. Sudha Goel",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt18/preview
+noc25_bt35,Bioscience and Biotechnology,Molecular Biology,Prof. Vishal Trivedi,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt35/preview
+noc25_bt38,Bioscience and Biotechnology,Pharmacognosy & Metabolic Engineering,Prof. Adinpunya Mitra,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_bt38/preview
+noc25_bt39,Bioscience and Biotechnology,Plant Developmental Biology,Prof. Shri Ram Yadav,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt39/preview
+noc25_bt41,Bioscience and Biotechnology,Structural Biology,Prof. Saugata Hazra,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt41/preview
+noc25_bt43,Bioscience and Biotechnology,Biological Data Analysis and Visualization with R,Prof. Riddhiman Dhar,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt43/preview
+noc25_bt02,Biotechnology and Bioengineering,Basics of Biology,Prof. Vishal Trivedi,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt02/preview
+noc25_bt03,Biotechnology and Bioengineering,Biochemistry - IITM,Prof. Subramaniam K,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt03/preview
+noc25_bt04,Biotechnology and Bioengineering,Bioelectrochemistry,Prof. Mainak Das,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt04/preview
+noc25_bt05,Biotechnology and Bioengineering,Bioengineering: An Interface with Biology and Medicine,Prof. Sanjeeva Srivastava,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt05/preview
+noc25_bt06,Biotechnology and Bioengineering,BioInformatics: Algorithms and Applications,Prof. Michael Gromiha,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt06/preview
+noc25_bt07,Biotechnology and Bioengineering,Biointerface Engineering,Prof. Lalit M. Pandey,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt07/preview
+noc25_bt08,Biotechnology and Bioengineering,Biomechanics,Prof. Varadhan SKM,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt08/preview
+noc25_bt09,Biotechnology and Bioengineering,Bioreactor Design and Analysis,Prof. Smita Srivastava,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt09/preview
+noc25_bt10,Biotechnology and Bioengineering,Biostatistics and Design of experiments,Prof. Mukesh Doble,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt10/preview
+noc25_bt11,Biotechnology and Bioengineering,"Cell Biology: Cellular organization, division and processes",Prof. Shikha Laloraya,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt11/preview
+noc25_bt12,Biotechnology and Bioengineering,Classics in Neuroscience,Prof. Varadhan SKM,IIT Madras,IIT Madras,8 Weeks + 4 Weeks (New),https://onlinecourses.nptel.ac.in/noc25_bt12/preview
+noc25_bt13,Biotechnology and Bioengineering,Computational Genomics,Prof. Vineet Kumar Sharma,IISER Bhopal,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt13/preview
+noc25_bt14,Biotechnology and Bioengineering,Computational Systems Biology,Prof. Karthik Raman,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt14/preview
+noc25_bt16,Biotechnology and Bioengineering,Data Analysis for Biologists,Prof. Biplab Bose,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt16/preview
+noc25_bt17,Biotechnology and Bioengineering,Demystifying the Brain,Prof. Srinivas Chakravarthy,IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt17/preview
+noc25_bt19,Biotechnology and Bioengineering,Enzyme Sciences and Technology,Prof. Vishal Trivedi,IIT Guwahati,IIT Guwahati,12 weeks,https://onlinecourses.nptel.ac.in/noc25_bt19/preview
+noc25_bt21,Biotechnology and Bioengineering,Host-Pathogen Interaction (Immunology),Prof. Himanshu Kumar,IISER Bhopal,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt21/preview
+noc25_bt22,Biotechnology and Bioengineering,Human Physiology,Prof. Nishikant Subhedar,IISER Pune,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt22/preview
+noc25_bt23,Biotechnology and Bioengineering,I Think Biology,"Prof. Kaustubh Rau
+Prof. Sravanti Uppaluri
+Prof. Divya Uma
+Prof. Jayanti Ray Mukherjee
+Prof. Prachi Gupta",Azim Premji University,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt23/preview
+noc25_bt24,Biotechnology and Bioengineering,Interactomics: Basics & Applications,Prof. Sanjeeva Srivastava,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt24/preview
+noc25_bt25,Biotechnology and Bioengineering,Introduction to Complex Biological Systems,"Prof. Soumya De
+Prof. Dibyendu Samanta",IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_bt25/preview
+noc25_bt26,Biotechnology and Bioengineering,Introduction to Professional Scientific Communication,Prof. S. Ganesh,IIT Kanpur,IIT Kanpur,4 weeks,https://onlinecourses.nptel.ac.in/noc25_bt26/preview
+noc25_bt27,Biotechnology and Bioengineering,Introductory Mathematical Methods for Biologists,Prof. Ranjit Padinhateeri,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt27/preview
+noc25_bt28,Biotechnology and Bioengineering,Material and Energy Balances,Prof. Vignesh Muthuvijayan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt28/preview
+noc25_bt29,Biotechnology and Bioengineering,Maternal Infant Young Child Nutrition,Prof. Rupal Dalal,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt29/preview
+noc25_bt30,Biotechnology and Bioengineering,Maternal Infant Young Child Nutrition (Hindi),Prof. Rupal Dalal,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt30/preview
+noc25_bt31,Biotechnology and Bioengineering,Medical Biomaterials,Prof. Mukesh Doble,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt31/preview
+noc25_bt32,Biotechnology and Bioengineering,Metabolic Engineering,"Prof. Pinaki Sar
+Prof. Amit Ghosh",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt32/preview
+noc25_bt33,Biotechnology and Bioengineering,Microbial Biotechnology,Prof. Utpal Bora,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt33/preview
+noc25_bt34,Biotechnology and Bioengineering,"Microsensors, Implantable Devices and Rodent Surgeries for Biomedical Applications","Prof. Shabari Girishan K V 
+Prof. Hardik J. Pandya",IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt34/preview
+noc25_bt36,Biotechnology and Bioengineering,Nanotechnology in Agriculture,Prof. Mainak Das,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt36/preview
+noc25_bt37,Biotechnology and Bioengineering,Optical Spectroscopy and Microscopy : Fundamentals of Optical Measurements and Instrumentation,Prof. Balaji Jayaprakash,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt37/preview
+noc25_bt40,Biotechnology and Bioengineering,RNA Biology,Prof. Rajesh Ramachandran,IISER Mohali,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt40/preview
+noc25_bt42,Biotechnology and Bioengineering,Thermodynamics for Biological Systems : Classical and Statistical Aspect,"Prof. G. K. Suraishkumar
+Prof. Sanjib Senapati",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt42/preview
+noc25_bt01,Biotechnology/Life Sciences,Advanced Fluorescence Microscopy and Image Processing,Prof. Gunjan Mehta,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt01/preview
+noc25_ch31,Chemical / Mechanical / Material Science Engineering,Methods of Adhesion Measurement for Pressure Sensitive Adhesives: Theory and Practice,Prof. Animangsu Ghatak,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch31/preview
+noc25_ch01,Chemical Engineering,Advanced Thermodynamics,Prof. Nanda Kishore,IIT Guwahati,IIT Guwahati,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ch01/preview
+noc25_ch02,Chemical Engineering,Advanced Thermodynamics and Molecular Simulations,Prof. Prateek Kumar Jha,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch02/preview
+noc25_ch03,Chemical Engineering,An Introduction to Cardiovascular Fluid Mechanics,Prof. Raghvendra Gupta,IIT Guwahati,IIT Guwahati,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch03/preview
+noc25_ch05,Chemical Engineering,Applied Time-Series Analysis,Prof. Arun K Tangirala,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch05/preview
+noc25_ch06,Chemical Engineering,Aspen Plus Simulation Software - A Basic Course for Beginners,Prof. Prabirkumar Saha,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch06/preview
+noc25_ch07,Chemical Engineering,Basic Principles and Calculations in Chemical Engineering,Prof. Subrata Kumar Majumdar,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch07/preview
+noc25_ch08,Chemical Engineering,Biological Process Design for Wastewater Treatment,Prof. Vimal Chandra Srivastava,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch08/preview
+noc25_ch09,Chemical Engineering,Biomass Conversion and Biorefinery,Prof. Kaustubha Mohanty,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch09/preview
+noc25_ch10,Chemical Engineering,"Characterization of Polymers, Elastomers and Composites",Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch10/preview
+noc25_ch11,Chemical Engineering,Chemical Engineering Fluid Dynamics and Heat Transfer,"Prof. Rabibrata Mukherjee
+Prof. Arnab Atta",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch11/preview
+noc25_ch12,Chemical Engineering,Chemical Engineering Thermodynamics,Prof. Sasidhar Gumma,IIT Tirupati,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch12/preview
+noc25_ch13,Chemical Engineering,Chemical Engineering Thermodynamics - IITKGP,Prof. Gargi Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch13/preview
+noc25_ch14,Chemical Engineering,Chemical Process Instrumentation,Prof. Debasis Sarkar,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch14/preview
+noc25_ch15,Chemical Engineering,Chemical Process Technology,Prof. Tamal Banerjee,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch15/preview
+noc25_ch16,Chemical Engineering,Chemical Process Utilities,Prof. Shishir Sinha,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch16/preview
+noc25_ch17,Chemical Engineering,Chemical Reaction Engineering II,Prof. Ganesh Vishwanathan,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch17/preview
+noc25_ch18,Chemical Engineering,Computational Fluid Dynamics,Prof. Sreenivas Jayanti,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch18/preview
+noc25_ch20,Chemical Engineering,Computer Aided Applied Single Objective Optimization,Prof. Prakash Kotecha,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch20/preview
+noc25_ch21,Chemical Engineering,Electrochemical Technology in Pollution Control,Prof. J. R. Mudakavi,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch21/preview
+noc25_ch22,Chemical Engineering,Engineering Thermodynamics,Prof. Jayant K. Singh,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch22/preview
+noc25_ch24,Chemical Engineering,Environmental Quality Monitoring & Analysis,Prof. Ravi Krishna R,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch24/preview
+noc25_ch25,Chemical Engineering,Fluid Flow Operations,Prof. Subrata Kumar Majumdar,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch25/preview
+noc25_ch26,Chemical Engineering,Heat Transfer,Prof. Ganesh Viswanathan,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch26/preview
+noc25_ch28,Chemical Engineering,Introduction To Process Modeling In The Membrane Separation Process,Prof. Sirshendu De,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch28/preview
+noc25_ch29,Chemical Engineering,Matlab Programming for Numerical Computation,Prof. Niket Kaisare,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch29/preview
+noc25_ch30,Chemical Engineering,Membrane Technology,Prof. Kaustubha Mohanty,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch30/preview
+noc25_ch32,Chemical Engineering,Modeling Stochastic phenomena for Engineering applications: Part-1,Prof. Yelia Shankaranarayana Mayya,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch32/preview
+noc25_ch34,Chemical Engineering,Momentum Transfer in Fluids,"Prof. Somenath Ganguly
+Prof. Sunando Das Gupta",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch34/preview
+noc25_ch35,Chemical Engineering,Multiphase Flows,Prof. Rajesh Kumar Upadhyay,IIT(BHU) Varanasi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch35/preview
+noc25_ch36,Chemical Engineering,Physical And Electrochemical Characterizations In Chemical Engineering,Prof. Tamal Banerjee,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch36/preview
+noc25_ch37,Chemical Engineering,Physico-chemical processes for wastewater treatment,Prof. Vimal Chandra Srivastava,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch37/preview
+noc25_ch38,Chemical Engineering,Polymer Reaction Engineering,Prof. Shishir Sinha,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch38/preview
+noc25_ch39,Chemical Engineering,Process Equipment Design,Prof. Shabina Khanam,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch39/preview
+noc25_ch40,Chemical Engineering,"Renewable Energy Engineering: Solar, Wind And Biomass Energy Systems","Prof. Vaibhav Vasant Goud
+Prof. R. Anandalakshmi",IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch40/preview
+noc25_ch41,Chemical Engineering,Soft Nano Technology,Prof. Rabibrata Mukherjee,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch41/preview
+noc25_ch42,Chemical Engineering,Thermodynamics Of Fluid Phase Equilibria,Prof. Jayant K. Singh,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch42/preview
+noc25_ch43,Chemical Engineering,Transport Phenomena,Prof. Sunando Dasgupta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch43/preview
+noc25_ch44,Chemical Engineering,Transport Processes,Prof. V. Kumaran,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch44/preview
+noc25_ch45,Chemical Engineering,Unit operations of particulate matter,Prof. Shabina Khanam,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch45/preview
+noc25_ch46,Chemical Engineering,Waste to Energy Conversion,Prof. P. Mondal,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch46/preview
+noc25_ch47,Chemical Engineering,Computational process design,"Prof. Hariprasad Kodamana
+Prof. Manojkumar Ramteke",IIT Delhi,IIT Delhi,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch47/preview
+noc25_ch48,Chemical Engineering,Interfacial Engineering,Prof. Manigandan,IIT Ropar,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch48/preview
+noc25_ch27,"Chemical Engineering, Biotechnology, Food Technology, Textile Engineering",Inorganic Chemical Technology,Prof. Nanda Kishore,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch27/preview
+noc25_ch04,"Chemical Engineering, Mechanical Engineering, Physics and Chemistry",Applied Statistical Thermodynamics,Prof. Tamal Banerjee,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch04/preview
+noc25_cy01,Chemistry,A Study Guide In Organic Retrosynthesis: Problem Solving Approach,Prof. Samik Nanda,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_cy01/preview
+noc25_cy02,Chemistry,Advanced Chemical Thermodynamics and Kinetics,Prof. Arijit Kumar De,IISER Mohali,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy02/preview
+noc25_cy03,Chemistry,Advanced Transition Metal Organometallic Chemistry,Prof. P. Ghosh,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy03/preview
+noc25_cy04,Chemistry,Basic thermodynamics: Classical and Statistical Approaches,Prof. Arnab Mukherjee,IISER Pune,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy04/preview
+noc25_cy05,Chemistry,Basics in Inorganic Chemistry,Prof. D. Maiti,IIT Bombay,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy05/preview
+noc25_cy06,Chemistry,Basics of Fluroscence Spectroscopy,Prof. Pratik Sen,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy06/preview
+noc25_cy07,Chemistry,Biochemistry,Prof. Swagata Dasgupta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy07/preview
+noc25_cy08,Chemistry,Bioinorganic Chemistry,Prof. S. P. Rath,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy08/preview
+noc25_cy09,Chemistry,Chemical Applications of Symmetry and Group Theory,Prof. Manabendra Chandra,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy09/preview
+noc25_cy10,Chemistry,Chemistry Of Main Group Elements,Prof. M.S. Balakrishna,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy10/preview
+noc25_cy11,Chemistry,Co-Ordination Chemistry (Chemistry Of Transition Elements),Prof. Debashis Ray,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy11/preview
+noc25_cy12,Chemistry,Elementary Electrochemistry,Prof. Angshuman Roy Choudhury,IISER Mohali,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy12/preview
+noc25_cy13,Chemistry,Elementary Thermodynamics for All,Prof. Srabani Taraphder,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy13/preview
+noc25_cy14,Chemistry,Essentials Of Biomolecules : Nucleic Acids And Peptides,Prof. Lal Mohan Kundu,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy14/preview
+noc25_cy15,Chemistry,"Essentials of Oxidation, Reduction and C-C Bond Formation. Application in Organic Synthesis",Prof. Yashwant D Vankar,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy15/preview
+noc25_cy16,Chemistry,Experimental Biochemistry,"Prof. Swagata Dasgupta
+Prof. Soumya De",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy16/preview
+noc25_cy17,Chemistry,Fundamentals of Spectroscopy,"Prof. Sayan Bagchi
+Prof. Anirban Hazra","NCL Pune, 
+  IISER Pune",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy17/preview
+noc25_cy18,Chemistry,Industrial Inorganic Chemistry,Prof. Debashis Ray,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy18/preview
+noc25_cy19,Chemistry,Interpretative molecular spectroscopy,Prof. M S Balakrishna,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy19/preview
+noc25_cy20,Chemistry,Introduction To Molecular Thermodynamics,Prof. Srabani Taraphder,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy20/preview
+noc25_cy21,Chemistry,Many body methods in quantum chemistry,"Prof. Sourav Pal
+Prof. Achintya Kumar Dutta",IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy21/preview
+noc25_cy22,Chemistry,Medicinal Chemistry,Prof. Harinath Chakrapani,IISER Pune,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy22/preview
+noc25_cy23,Chemistry,Metallocene and Metal-carbene based Organometallic Compounds as Industrially Important Advanced Polyolefin Catalysts,Prof. Sanjib K. Patra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy23/preview
+noc25_cy24,Chemistry,Molecular Spectroscopy: A Physical Chemist’s perspective,Prof. Anindya Datta,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy24/preview
+noc25_cy25,Chemistry,Nuclear and Radiochemistry,"Prof. B.S.Tomar
+Prof. P.K.Mohapatra",IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy25/preview
+noc25_cy26,Chemistry,One and Two dimensional NMR Spectroscopy: Concepts and Spectral Analysis,Prof. N Suryaprakash,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy26/preview
+noc25_cy27,Chemistry,Organic Chemistry I (Tamil),Prof. Srinivasan Venkataraman,IISER PUNE,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy27/preview
+noc25_cy28,Chemistry,Organometallic Chemistry,Prof. D. Maiti,IIT Bombay,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy28/preview
+noc25_cy29,Chemistry,Pericyclic Reactions and Organic Photochemistry,Prof. Sankararaman,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy29/preview
+noc25_cy30,Chemistry,Reactive Intermediates Carbene And Nitrene,Prof. Rajarshi Samanta,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy30/preview
+noc25_cy31,Chemistry,Symmetry and Group Theory,Prof. Jeetender Chugh,IISER PUNE,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy31/preview
+noc25_cy32,Chemistry,"Symmetry, Stereochemistry and Applications",Prof. Angshuman Roy Choudhury,IISER Mohali,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy32/preview
+noc25_cy33,Chemistry,Thermodynamics: Classical To Statistical,Prof. Sandip Paul,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy33/preview
+noc25_cy34,Chemistry,Transition Metal Organometallics in Catalysis and Biology,Prof. P. Ghosh,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy34/preview
+noc25_cy35,Chemistry,Ultrafast laser spectroscopy,Prof. Anindya Datta,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy35/preview
+noc25_cy36,Chemistry,Introductory Organic Chemistry I,"Prof. Neeraja Dashaputre
+Prof. Harinath Chakrapani",IISER Pune,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy36/preview
+noc25_cy37,Chemistry,Supramolecular Chemistry-I,Prof. Parimal Kanti Bharadwaj,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cy37/preview
+noc25_ch19,"Chemistry, Material Science. Biology",Computational Quantum Chemistry,Prof. Achintya Kumar Dutta,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ch19/preview
+noc25_ce02,Civil Engineering,Advanced Soil Mechanics,Prof. Sreedeep S,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce02/preview
+noc25_ce04,Civil Engineering,Air Pollution and Control,Prof. Bhola Ram Gurjar,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce04/preview
+noc25_ce05,Civil Engineering,Applied Environmental Microbiology,Prof. Gargi Singh,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce05/preview
+noc25_ce06,Civil Engineering,Applied Seismology for Engineers,Prof. Abhishek Kumar,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce06/preview
+noc25_ce07,Civil Engineering,Basic Construction Materials,"Prof. Manu Santhanam
+Prof. Radhakrishna G. Pillai",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce07/preview
+noc25_ce10,Civil Engineering,Concrete Technology,Prof. B. Bhattacharjee,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce10/preview
+noc25_ce11,Civil Engineering,Construction Methods and Equipment Management,Prof. Indu Siva Ranjani Gandhi,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce11/preview
+noc25_ce12,Civil Engineering,Development and Applications of Special Concretes,Prof. Sudhir Misra,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce12/preview
+noc25_ce13,Civil Engineering,Digital Land Surveying and Mapping (DLS&M),"Prof. J. K. Ghosh(Late)
+Prof. Siddhartha Khare",IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce13/preview
+noc25_ce14,Civil Engineering,Earthquake Resistant Design of Foundations,Prof. B. K. Maheshwari,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce14/preview
+noc25_ce15,Civil Engineering,Electronic Waste Management - Issues and Challenges,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce15/preview
+noc25_ce16,Civil Engineering,"Energy Efficiency, Acoustics and Daylighting in Building",Prof. B. Bhattacharjee,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce16/preview
+noc25_ce17,Civil Engineering,Engineering Hydrology,Prof. Sreeja Pekkat,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce17/preview
+noc25_ce19,Civil Engineering,Environmental Remediation of Contaminated Sites,"Prof. Bhanu Prakash Vellanki
+Prof. Thomas Boving",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce19/preview
+noc25_ce20,Civil Engineering,Expansive Soil,Prof. Anil Kumar Mishra,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce20/preview
+noc25_ce21,Civil Engineering,Finite Element Method,"Prof. Biswanath Banerjee
+Prof. Amit Shaw",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce21/preview
+noc25_ce22,Civil Engineering,Free Surface Flows,Prof. Mohammad Saud Afzal,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce22/preview
+noc25_ce23,Civil Engineering,Geographic Information Systems,Prof. A. K. Saraf,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce23/preview
+noc25_ce24,Civil Engineering,Geology and Soil Mechanics,Prof. Priyanka Ghosh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce24/preview
+noc25_ce26,Civil Engineering,Geomorphology,Prof. Pitambar Pati,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce26/preview
+noc25_ce28,Civil Engineering,Geosynthetics and Reinforced Soil Structures,Prof. K.Rajagopal,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce28/preview
+noc25_ce29,Civil Engineering,Geotechnical Engineering - 1,Prof. D. N. Singh,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce29/preview
+noc25_ce30,Civil Engineering,Geotechnical Engineering II Foundation Engineering,Prof. Dilip Kumar Baidya,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce30/preview
+noc25_ce31,Civil Engineering,GPS Surveying,"Prof. J. K. Ghosh (late)
+Prof. Ajanta Goswami",IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce31/preview
+noc25_ce32,Civil Engineering,Hydraulic Engineering,Prof. Mohammad Saud Afzal,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce32/preview
+noc25_ce33,Civil Engineering,Industrial Wastewater Treatment,Prof Alok Sinha Prof S K Gupta,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ce33/preview
+noc25_ce34,Civil Engineering,Introduction to Accounting and Finance for Civil Engineers,"Prof. K. N. Jha
+Prof. Sudhir Misra",IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce34/preview
+noc25_ce35,Civil Engineering,Introduction to Civil Engineering Profession,"Prof. Ravindra Gettu
+Prof. Koshy Varghese",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce35/preview
+noc25_ce36,Civil Engineering,Introduction to Lean Construction (Module 1 - Lean Basics),"Prof. Koshy Varghese
+Prof. N Raghavan",IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce36/preview
+noc25_ce38,Civil Engineering,Maintenance and Repair of Concrete Structures,Prof. Radhakrishna G. Pillai,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce38/preview
+noc25_ce39,Civil Engineering,Mechanical Characterization of Bituminous Materials,"Prof. M. R. Nivitha (MRN)
+Prof. Neethu Roy(NR)
+Prof. A. Padmarekha(APR)
+Prof. J. Murali Krishnan(JMK)","PSG Tech., Coimbatore
+  MBCET, Trivandrum 
+  SRM IST, Kattankulathur
+  IIT Madras",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce39/preview
+noc25_ce40,Civil Engineering,Microwave Remote Sensing in Hydrology,Prof. J. Indu,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce40/preview
+noc25_ce41,Civil Engineering,Modern Construction Materials,"Prof. Ravindra Gettu
+Prof. Aslam Kunhi Mohamed",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce41/preview
+noc25_ce45,Civil Engineering,Plastic Waste Management,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce45/preview
+noc25_ce46,Civil Engineering,Remote Sensing and GIS for Rural Development,Prof. Pennan Chinnasamy,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce46/preview
+noc25_ce47,Civil Engineering,Remote Sensing Essentials,Prof. A. K. Saraf,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce47/preview
+noc25_ce49,Civil Engineering,Retrofitting and Rehabilitation of Civil Infrastructure,"Prof. Swati Maitra
+Prof. Sriman Bhattacharya",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce49/preview
+noc25_ce50,Civil Engineering,Rock Engineering,Prof. Priti Maheshwari,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce50/preview
+noc25_ce51,Civil Engineering,Soil Dynamics,Prof. Paramita Bhattacharya,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce51/preview
+noc25_ce52,Civil Engineering,Soil Structure Interaction,Prof. Kousik Deb,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce52/preview
+noc25_ce53,Civil Engineering,Stability Aspects of Structural Steel Design: Concepts and Applications,Prof. Mahendrakumar Madhavan,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce53/preview
+noc25_ce54,Civil Engineering,Structural Analysis-I,Prof. Amit Shaw,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce54/preview
+noc25_ce55,Civil Engineering,Structural Dynamics,Prof. Ramancharala Pradeep Kumar,IIIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce55/preview
+noc25_ce56,Civil Engineering,Structural Vibration,Prof. Arunasis Chakraborty,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce56/preview
+noc25_ce57,Civil Engineering,Surface Water Hydrology,Prof. Rajib Maity,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce57/preview
+noc25_ce58,Civil Engineering,Sustainable Engineering Concepts and Life Cycle Analysis,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce58/preview
+noc25_ce60,Civil Engineering,Traffic Engineering,Prof. Bhargab Maitra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce60/preview
+noc25_ce61,Civil Engineering,Unsaturated Soil Mechanics,Prof. Tadikonda Venkata Bharat,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce61/preview
+noc25_ce62,Civil Engineering,Urban Transportation Systems Planning,Prof. Bhargab Maitra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce62/preview
+noc25_ce63,Civil Engineering,Water and Waste Water Treatment,Prof. Bhanu Prakash Vellanki,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce63/preview
+noc25_ce64,Civil Engineering,Advanced Topics in Science and Technology of Concrete,"Prof. Manu Santhanam
+Prof. Ravindra Gettu",IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce64/preview
+noc25_ce65,Civil Engineering,Design of Connections in Steel Structures,Prof. Anil Agarwal,IIT Hyderabad,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce65/preview
+noc25_ce69,Civil Engineering,Structural Dynamics for Civil Engineers - SDOF Systems,Prof. Riya Catherine George,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce69/preview
+noc25_ce70,Civil Engineering,निर्माण प्रबंधन (Construction Management) के सिद्धांत [Nirman prabandhan (Construction Management) ke Siddhant],Prof. Sudhir Misra,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce70/preview
+noc25_ce66,Civil Engineering/ Mechanical Engineering/ Environmental Sciences,Environmental Fluid Mechanics,Prof. Chunendra K Sahu,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce66/preview
+noc25_ce27,Civil Engineering/Geology/Engineering Geology,Geophysical Exploration Methods,Prof. Elango Lakshmanan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce27/preview
+noc25_cs76,Computer Science,Large Applications Practicum,Prof. Varun Dutt,IIT Mandi,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs76/preview
+noc25_cs01,Computer Science and Engineering,Advanced Computer Architecture,Prof. Smruti R.Sarangi,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs01/preview
+noc25_cs02,Computer Science and Engineering,Advanced Computer Networks,"Prof. Neminath Hubballi
+Prof. Sameer Kulkarni","IIT Indore
+ IIT Gandhi Nagar",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs02/preview
+noc25_cs03,Computer Science and Engineering,Advanced Graph Theory,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs03/preview
+noc25_cs04,Computer Science and Engineering,Affective Computing,"Prof. Jainendra Shukla
+Prof. Abhinav Dhall",IIIT Delhi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs04/preview
+noc25_cs05,Computer Science and Engineering,AI:Constraint Satisfaction,Prof. Deepak Khemani,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs05/preview
+noc25_cs07,Computer Science and Engineering,Artificial Intelligence: Knowledge Representation And Reasoning,Prof. Deepak Khemani,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs07/preview
+noc25_cs08,Computer Science and Engineering,Blockchain and its Applications,"Prof. Sandip Chakraborty
+Prof. Shamik Sural",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs08/preview
+noc25_cs09,Computer Science and Engineering,Business Intelligence & Analytics,Prof. Saji K Mathew,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs09/preview
+noc25_cs10,Computer Science and Engineering,Circuit Complexity Theory,Prof. Raghunath Tewari,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs10/preview
+noc25_cs11,Computer Science and Engineering,Cloud Computing,Prof. Soumya Kanti Ghosh,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs11/preview
+noc25_cs12,Computer Science and Engineering,Cloud Computing and Distributed Systems,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs12/preview
+noc25_cs13,Computer Science and Engineering,Compiler Design,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs13/preview
+noc25_cs14,Computer Science and Engineering,Computational Number Theory and Algebra,Prof. Nitin Saxena,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs14/preview
+noc25_cs15,Computer Science and Engineering,Computer Networks And Internet Protocol,"Prof. Soumya Kanti Ghosh
+Prof. Sandip Chakraborty",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs15/preview
+noc25_cs16,Computer Science and Engineering,Cryptography and Network Security,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs16/preview
+noc25_cs17,Computer Science and Engineering,Data Analytics with Python,Prof. A Ramesh,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs17/preview
+noc25_cs18,Computer Science and Engineering,Data Base Management System,"Prof. Partha Pratim Das
+Prof. Samiran Chattopadhyay",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs18/preview
+noc25_cs19,Computer Science and Engineering,Data Mining,Prof. Pabitra Mitra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs19/preview
+noc25_cs20,Computer Science and Engineering,Data Science for Engineers,"Prof. Ragunathan Rengasamy
+Prof. Shankar Narasimhan",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs20/preview
+noc25_cs21,Computer Science and Engineering,Deep Learning - IIT Ropar,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs21/preview
+noc25_cs23,Computer Science and Engineering,Design and analysis of algorithms,Prof. Madhavan Mukund,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs23/preview
+noc25_cs24,Computer Science and Engineering,Design and Engineering of Computer Systems,Prof. Mythili Vutukuru,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs24/preview
+noc25_cs25,Computer Science and Engineering,Digital Design with Verilog,"Prof. Chandan Karfa, 
+Prof. Aryabartta Sahu",IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs25/preview
+noc25_cs26,Computer Science and Engineering,Discrete Mathematics,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs26/preview
+noc25_cs28,Computer Science and Engineering,Edge Computing,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs28/preview
+noc25_cs29,Computer Science and Engineering,Embedded System Design with ARM,"Prof. Indranil Sengupta
+Prof .Kamalika Dutta",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs29/preview
+noc25_cs30,Computer Science and Engineering,Embedded Systems Design,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs30/preview
+noc25_cs31,Computer Science and Engineering,Foundations of Cryptography,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs31/preview
+noc25_cs32,Computer Science and Engineering,Foundations of Cyber Physical Systems,Prof. Soumyajit Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs32/preview
+noc25_cs33,Computer Science and Engineering,Fundamental Algorithms: Design and Analysis,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs33/preview
+noc25_cs34,Computer Science and Engineering,Fundamentals of Object Oriented Programming,Prof. Balasubramanian Raman,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs34/preview
+noc25_cs35,Computer Science and Engineering,Games and Information,Prof. Ankur A. Kulkarni,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs35/preview
+noc25_cs36,Computer Science and Engineering,Getting Started with Competitive Programming,Prof. Neeldhara Misra,IIT Gandhinagar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs36/preview
+noc25_cs37,Computer Science and Engineering,GPU Architectures and Programming,Prof. Soumyajit Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs37/preview
+noc25_cs38,Computer Science and Engineering,Human Computer Interaction (In English),Prof. Rajiv Ratn Shah,IIIT Delhi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs38/preview
+noc25_cs39,Computer Science and Engineering,Information Security - 5 - Secure Systems Engineering,Prof. Chester Robeiro,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs39/preview
+noc25_cs40,Computer Science and Engineering,Introduction to Database Systems,Prof. Sreenivasa Kumar,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs40/preview
+noc25_cs41,Computer Science and Engineering,Introduction to Embedded System Design,"Prof. Dhananjay V. Gadre
+Prof. Badri N Subudhi",IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs41/preview
+noc25_cs42,Computer Science and Engineering,Introduction To Haskell Programming,Prof. S. P Suresh,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs42/preview
+noc25_cs43,Computer Science and Engineering,Introduction To Industry 4.0 And Industrial Internet Of Things,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs43/preview
+noc25_cs44,Computer Science and Engineering,Introduction To Internet Of Things,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs44/preview
+noc25_cs46,Computer Science and Engineering,Introduction to Machine Learning,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs46/preview
+noc25_cs47,Computer Science and Engineering,Introduction to Machine Learning (Tamil),Prof. Arun Rajkumar,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs47/preview
+noc25_cs48,Computer Science and Engineering,Introduction To Soft Computing,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs48/preview
+noc25_cs49,Computer Science and Engineering,Machine Learning for Engineering and science applications,"Prof. Balaji Srinivasan
+Prof. Ganapathy Krishnamurthi",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs49/preview
+noc25_cs50,Computer Science and Engineering,"Machine Learning, ML",Prof. Carl Gustaf Jansson,"KTH Royal Institute of Technology, Sweden",IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs50/preview
+noc25_cs51,Computer Science and Engineering,Natural Language Processing,Prof. Pawan Goyal,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs51/preview
+noc25_cs52,Computer Science and Engineering,"Object Oriented System Development Using UML, Java And Patterns",Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs52/preview
+noc25_cs53,Computer Science and Engineering,Optimisation for Machine Learning: Theory and Implementation (Hindi),Prof. Pravesh Biyani,IIIT Delhi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs53/preview
+noc25_cs54,Computer Science and Engineering,Parallel Computer Architecture,Prof. Hemangee K. Kapoor,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs54/preview
+noc25_cs56,Computer Science and Engineering,Problem Solving Through Programming In C,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs56/preview
+noc25_cs57,Computer Science and Engineering,Programming In Java,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs57/preview
+noc25_cs58,Computer Science and Engineering,Programming in Modern C++,Prof. Partha Pratim Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs58/preview
+noc25_cs59,Computer Science and Engineering,"Programming, Data Structures And Algorithms Using Python",Prof. Madhavan Mukund,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs59/preview
+noc25_cs60,Computer Science and Engineering,Python for Data Science,Prof. Ragunathan Rengasamy,IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs60/preview
+noc25_cs61,Computer Science and Engineering,Quantum Algorithms and Cryptography,Prof. Shweta Agrawal,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs61/preview
+noc25_cs62,Computer Science and Engineering,Reinforcement Learning,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs62/preview
+noc25_cs63,Computer Science and Engineering,Secure Computation: Part I,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs63/preview
+noc25_cs64,Computer Science and Engineering,Selected Topics in Algorithms,Prof. Palash Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs64/preview
+noc25_cs65,Computer Science and Engineering,Social Networks,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs65/preview
+noc25_cs66,Computer Science and Engineering,Software Testing,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs66/preview
+noc25_cs67,Computer Science and Engineering,Switching Circuits and Logic Design,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs67/preview
+noc25_cs68,Computer Science and Engineering,Systems and Usable Security,Prof. Neminath Hubballi,IIT Indore,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs68/preview
+noc25_cs69,Computer Science and Engineering,The Joy of Computing using Python,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs69/preview
+noc25_cs70,Computer Science and Engineering,Theory of Computation,Prof. Subrahmanyam Kalyanasundaram,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs70/preview
+noc25_cs72,Computer Science And Engineering,User-centric Computing For Human-Computer Interaction,Prof. Samit Bhattacharya,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs72/preview
+noc25_cs73,Computer Science and Engineering,VLSI Physical Design,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs73/preview
+noc25_cs74,Computer Science and Engineering,Wireless Ad Hoc and Sensor Networks,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs74/preview
+noc25_cs75,Computer Science and Engineering,Foundation of Cloud IoT Edge ML,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs75/preview
+noc25_cs77,Computer Science and Engineering,Linear programming and its applications to computer science,Prof. Rajat Mittal,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs77/preview
+noc25_cs78,Computer Science and Engineering,Real Time Operating System,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs78/preview
+noc25_ee16,Computer Science and Engineering,Deep Learning,Prof. Prabir Kumar Biswas,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee16/preview
+noc25_cs79,Computer Science and Engineering,Privacy and Security in Online Social Media,Prof. Ponnurangam Kumaraguru,IIIT Hyderabad,IIT Madras,12 weeks,https://onlinecourses.nptel.ac.in/noc25_cs79/preview
+noc25_cs45,"Computer Science and Engineering, Electrical Engineering, Electronics and Communication Engineering, Information Technology, Mathematics",Introduction to Large Language Models (LLMs),"Prof. Tanmoy Chakraborty
+Prof. Soumen Chakraborti",IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs45/preview
+noc25_cs27,"Computer Science and Engineering, Mathematics",Discrete Mathematics for CS,Prof. Nitin Saxena,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs27/preview
+noc25_cs06,"Computer Science, Genomics, Molecular Biology (Interdisciplinary course)",Algorithms in Computational Biology and Sequence Analysis,Prof. Chirag Jain,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs06/preview
+noc25_ce01,Cvil Engineering,Advanced Foundation Engineering,Prof. Kousik Deb,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce01/preview
+noc25_de12,Design,Introduction to Graphic Design,Prof. Mohammad Shahid and Prof. Saurav Khuttiya Deori,IIT Hyderabad,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_de12/preview
+noc25_de09,Design / Architecture and Planning,Augmenting Design Thinking with Human-Computer Interaction,Prof. Sonal Atreya,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_de09/preview
+noc25_de01,Design Engineering,"Design, Technology and Innovation",Prof. B.K. Chakravarthy,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_de01/preview
+noc25_de02,Design Engineering,Fundamentals of Automotive Systems,Prof. C. S. Shankar Ram,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_de02/preview
+noc25_de03,Design Engineering,Innovation by Design,Prof. B.K. Chakravarthy,IIT Bombay,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_de03/preview
+noc25_de04,Design Engineering,Strategies for Sustainable Design,Prof. Shiva Ji,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_de04/preview
+noc25_de05,Design Engineering,Understanding Design,Prof. Nina Sabnani,IIT Bombay,IIT Bombay,4 weeks,https://onlinecourses.nptel.ac.in/noc25_de05/preview
+noc25_de06,Design Engineering,Understanding Ethnography,Prof. Nina Sabnani,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_de06/preview
+noc25_de07,Design Engineering,Understanding Incubation and Entrepreneurship,Prof. B.K. Chakravarthy,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_de07/preview
+noc25_de08,Design Engineering,Usability Engineering,Prof. Debayan Dhar,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_de08/preview
+noc25_de10,Design Engineering,Design Practices for Intelligent Product Design,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_de10/preview
+noc25_ce25,Earth Sciences,Geomorphic Processes: Landforms and Landscapes,Prof. Javed N. Malik,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce25/preview
+noc25_ce42,Earth Sciences,Natural Hazards,"Prof. Javed N. Malik
+Prof. Santiswarup Sahoo",IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce42/preview
+noc25_ce59,Earth Sciences,The Evolution of the Earth and Life,Prof. Devapriya Chattopadhyay,IISER Pune,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce59/preview
+noc25_ce67,Earth Sciences,Laboratory Practices in Earth Sciences: Landscape Mapping,Prof. Javed N Malik,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce67/preview
+noc25_ce43,Earth Sciences/Civil Engineering,Natural Hazards (Hindi),Prof. Javed N. Malik,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce43/preview
+noc25_ge14,Ecology,Fundamentals of Ecology,"Prof. Vishwesha Guttal
+Prof. Kavita Isvaran
+Prof. Kartik Shanker
+Prof. Umesh Srinivasan
+Prof. Maria Thaker
+Prof. Saskya van Nouhuys",IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge14/preview
+noc25_ec01,Economic Sciences,Applied Econometrics,Prof. Sabuj Kumar Mandal,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec01/preview
+noc25_ec02,Economic Sciences,Foundations of Accounting & Finance,Prof. Arun Kumar Gopalaswamy,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec02/preview
+noc25_ec03,Economic Sciences,Health Economics,Prof. Pratap C. Mohanty,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec03/preview
+noc25_ec04,Economic Sciences,Indian Economy: Some Contemporary Perspectives,Prof. Wasim Ahmad,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec04/preview
+noc25_ec05,Economic Sciences,Introduction to Econometrics,Prof. Sabuj Kumar Mandal,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec05/preview
+noc25_ec06,Economic Sciences,Microfoundations of Macroeconomics,Prof. Wasim Ahmad,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec06/preview
+noc25_ec07,Economic Sciences,Predictive Analytics - Regression and Classification,Prof. Sourish Das,CMI,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ec07/preview
+noc25_ma58,Economic Sciences,Probability and Stochastic for Finance,Prof. Joydeep Dutta,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma58/preview
+noc25_cs22,Electrical and Electronics Engineering,Deep Learning for Natural Language Processing,Prof. Pawan Goyal,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_cs22/preview
+noc25_ee01,Electrical and Electronics Engineering,A brief introduction of Micro - Sensors,Prof. Santanu Talukder,IISER Bhopal,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee01/preview
+noc25_ee03,Electrical and Electronics Engineering,An Introduction to Information Theory,Prof. Adrish Banerjee,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee03/preview
+noc25_ee04,Electrical and Electronics Engineering,Analog Circuits,Prof. Jayanta Mukherjee,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee04/preview
+noc25_ee05,Electrical and Electronics Engineering,Analog Electronic Circuits - IITM,Prof. Shanthi Pavan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee05/preview
+noc25_ee06,Electrical and Electronics Engineering,Analog Ic Design,"Prof. Aniruddhan S
+Prof. Nagendra Krishnapura",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee06/preview
+noc25_ee07,Electrical and Electronics Engineering,Applied Linear Algebra,Prof. Dwaipayan Mukherjee,IIT Bombay,IIT Bombay,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ee07/preview
+noc25_ee08,Electrical and Electronics Engineering,Basics of Semiconductor Microwave Devices,Prof. Digbijoy N. Nath,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee08/preview
+noc25_ee09,Electrical and Electronics Engineering,Biomedical Signal Processing,Prof. Sudipta Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee09/preview
+noc25_ee10,Electrical and Electronics Engineering,Circuit Analysis for Analog Designers,Prof. Shanthi Pavan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee10/preview
+noc25_ee11,Electrical and Electronics Engineering,CMOS Digital VLSI Design,Prof. Sudeb Dasgupta,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee11/preview
+noc25_ee12,Electrical and Electronics Engineering,Communication Networks,Prof. Goutam Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee12/preview
+noc25_ee13,Electrical and Electronics Engineering,Computer Vision And Image Processing - Fundamentals And Applications,Prof. M. K. Bhuyan,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee13/preview
+noc25_ee14,Electrical and Electronics Engineering,Computer-Aided Design of Electrical Machines,Prof. Bhim Singh,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee14/preview
+noc25_ee15,Electrical and Electronics Engineering,Control engineering,Prof. Ramkrishna Pasumarthy,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee15/preview
+noc25_ee17,Electrical and Electronics Engineering,Deep Learning For Visual Computing,Prof. Debdoot Sheet,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee17/preview
+noc25_ee18,Electrical and Electronics Engineering,Design and Analysis of VLSI Subsystems,Prof. Madhav Rao,IIIT Bangalore,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee18/preview
+noc25_ee19,Electrical and Electronics Engineering,Digital Communication using GNU Radio,Prof. Kumar Appaiah,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee19/preview
+noc25_ee20,Electrical and Electronics Engineering,Digital Electronic Circuits,Prof. Goutam Saha,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee20/preview
+noc25_ee21,Electrical and Electronics Engineering,Digital IC Design,Prof. Janakiraman,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee21/preview
+noc25_ee22,Electrical and Electronics Engineering,Digital Protection of Power System,Prof. Bhaveshkumar R. Bhalja,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee22/preview
+noc25_ee23,Electrical and Electronics Engineering,Digital Signal Processing and its Applications,Prof. V. M. Gadre,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee23/preview
+noc25_ee24,Electrical and Electronics Engineering,Digital System Design,Prof. Neeraj Goel,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee24/preview
+noc25_ee25,Electrical and Electronics Engineering,Digital VLSI Testing,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee25/preview
+noc25_ee26,Electrical and Electronics Engineering,Discrete Time Signal Processing,Prof. Mrityunjoy Chakraborty,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee26/preview
+noc25_ee27,Electrical and Electronics Engineering,Electrical Machines - II,Prof. Tapas Kumar Bhattacharya,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee27/preview
+noc25_ee28,Electrical and Electronics Engineering,Electromagnetic Waves in Guided and Wireless Media,Prof. Pradeep Kumar K,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee28/preview
+noc25_ee29,Electrical and Electronics Engineering,Electronics Enclosures Thermal issues,Prof. N.V Chalapathi Rao,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee29/preview
+noc25_ee30,Electrical and Electronics Engineering,Electronics equipment integration and Prototype building,Prof. N.V Chalapathi Rao,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee30/preview
+noc25_ee31,Electrical and Electronics Engineering,"Embedded Sensing, Actuation and Interfacing Systems",Prof. Banibrata Mukherjee,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee31/preview
+noc25_ee32,Electrical and Electronics Engineering,"EMI /EMC and Signal Integrity: Principles, Techniques and Applications",Prof. Amitabha Bhattacharya,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee32/preview
+noc25_ee33,Electrical and Electronics Engineering,EV - Vehicle Dynamics and Electric Motor Drives,"Prof. Amit Jain
+Prof. Avanish Tripathi",IIT Delhi,IIT Delhi,8 Weeks + 4 Weeks (New),https://onlinecourses.nptel.ac.in/noc25_ee33/preview
+noc25_ee34,Electrical and Electronics Engineering,Evolution of Air Interface towards 5G,Prof. Suvra Sekhar Das,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee34/preview
+noc25_ee35,Electrical and Electronics Engineering,Facts Devices,Prof. Avik Bhattacharya,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee35/preview
+noc25_ee36,Electrical and Electronics Engineering,Foundations of Wavelets and Multirate Digital Signal Processing,Prof. V. M. Gadre,IIT Bombay,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee36/preview
+noc25_ee37,Electrical and Electronics Engineering,Fundamental of Power Electronics,Prof. L.Umanand,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee37/preview
+noc25_ee38,Electrical and Electronics Engineering,Fundamentals of MIMO Wireless Communication,Prof. Suvra Sekhar Das,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee38/preview
+noc25_ee39,Electrical and Electronics Engineering,Fundamentals of semiconductor devices,Prof. Digbijoy N. Nath,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee39/preview
+noc25_ee40,Electrical and Electronics Engineering,"Fuzzy Sets, Logic and Systems & Applications",Prof. Nishchal Kumar Verma,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee40/preview
+noc25_ee42,Electrical and Electronics Engineering,Industrial Automation and Control,Prof. Alokkanti Deb,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee42/preview
+noc25_ee43,Electrical and Electronics Engineering,Integrated Circuits and Applications,Prof. Shaik Rafi Ahamed,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee43/preview
+noc25_ee44,Electrical and Electronics Engineering,"Integrated Circuits, Mosfets, OP-Amps and their Applications",Prof. Hardik Jeetendra Pandya,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee44/preview
+noc25_ee45,Electrical and Electronics Engineering,Introduction to Electrical Engineering,Prof. Bhim Singh,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee45/preview
+noc25_ee46,Electrical and Electronics Engineering,Linear Dynamical Systems,Prof. Tushar Jain,IIT Mandi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee46/preview
+noc25_ee47,Electrical and Electronics Engineering,Medical Image Analysis,Prof. Debdoot Sheet,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee47/preview
+noc25_ee48,Electrical and Electronics Engineering,Microprocessors and Interfacing,Prof. Shaik Rafi Ahamed,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee48/preview
+noc25_ee49,Electrical and Electronics Engineering,Microprocessors and Microcontrollers,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee49/preview
+noc25_ee50,Electrical and Electronics Engineering,Microwave Integrated Circuits,Prof. Jayanta Mukherjee,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee50/preview
+noc25_ee51,Electrical and Electronics Engineering,Modern Computer Vision,Prof. A. N. Rajagopalan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee51/preview
+noc25_ee52,Electrical and Electronics Engineering,Multirate DSP,Prof. R. David Koilpillai,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee52/preview
+noc25_ee53,Electrical and Electronics Engineering,Network Analysis,Prof. Tapas Kumar Bhattacharya,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee53/preview
+noc25_ee56,Electrical and Electronics Engineering,Nonlinear and Adaptive Control,Prof. Shubhendu Bhasin,IIT Delhi,IIT Delhi,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee56/preview
+noc25_ee57,Electrical and Electronics Engineering,Operation and Planning Of Power Distribution Systems,Prof. Sanjib Ganguly,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee57/preview
+noc25_ee58,Electrical and Electronics Engineering,Optical Fiber Sensors,Prof Balaji Srinivasan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee58/preview
+noc25_ee59,Electrical and Electronics Engineering,Optical Wireless Communications for Beyond 5G Networks and IoT,Prof. Anand Srivastava,IIIT Delhi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee59/preview
+noc25_ee60,Electrical and Electronics Engineering,Optimal control,Prof. Barjeev Tyagi,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee60/preview
+noc25_ee61,Electrical and Electronics Engineering,Photonic integrated circuit,Prof. Shankar Kumar Selvaraja,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee61/preview
+noc25_ee62,Electrical and Electronics Engineering,Physics of Nanoscale Devices,Prof. Vishvendra Singh Poonia,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee62/preview
+noc25_ee63,Electrical and Electronics Engineering,Power Management Integrated Circuits,Prof. Qadeer Ahmad Khan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee63/preview
+noc25_ee64,Electrical and Electronics Engineering,Power Quality,Prof. Bhim Singh,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee64/preview
+noc25_ee65,Electrical and Electronics Engineering,Power Quality Improvement Technique,Prof. Avik Bhattacharya,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee65/preview
+noc25_ee67,Electrical and Electronics Engineering,Power System Engineering,Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee67/preview
+noc25_ee68,Electrical and Electronics Engineering,Principles of Communication Systems - I,Prof. Aditya Jagannatham,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee68/preview
+noc25_ee69,Electrical and Electronics Engineering,Principles of Digital Communication,Prof. Abhishek Dixit,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee69/preview
+noc25_ee70,Electrical and Electronics Engineering,Principles of Signals and Systems,Prof. Aditya Jagannatham,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee70/preview
+noc25_ee71,Electrical and Electronics Engineering,Recent Advances in Transmission Insulators,Prof. Subba Reddy B,IISc Bangalore,IISc Bangalore,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee71/preview
+noc25_ee72,Electrical and Electronics Engineering,RF and Microwave Networks,Prof. Bratin Ghosh,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee72/preview
+noc25_ee73,Electrical and Electronics Engineering,RF Transceiver Design,Prof. Darshak Bhatt,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee73/preview
+noc25_ee74,Electrical and Electronics Engineering,Semiconductor device modeling and Simulation,Prof. Vivek Dixit,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee74/preview
+noc25_ee76,Electrical and Electronics Engineering,Sensors and Actuators,Prof. Hardik Jeetendra Pandya,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee76/preview
+noc25_ee77,Electrical and Electronics Engineering,Signal Processing Techniques And Its Applications,Prof. Shyamal Das Mandal,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee77/preview
+noc25_ee78,Electrical and Electronics Engineering,Signals and Systems,"Prof. Hitesh Shrimali
+Prof. Kushal K. Shah",IIT Mandi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee78/preview
+noc25_ee79,Electrical and Electronics Engineering,Smart Grid: Basics to Advanced Technologies,"Prof. N.P. Padhy
+Prof. Premalata Jena",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee79/preview
+noc25_ee81,Electrical and Electronics Engineering,State space Approach to Control System Analysis and Design,Prof A P Tiwari,IIT Mandi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee81/preview
+noc25_ee82,Electrical and Electronics Engineering,Transducers for Instrumentation,Prof. Ankur Gupta,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee82/preview
+noc25_ee83,Electrical and Electronics Engineering,VLSI Physical Design with Timing Analysis,Prof. Bishnu Prasad Das,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee83/preview
+noc25_ee84,Electrical and Electronics Engineering,VLSI Signal Processing,Prof. Mrityunjoy Chakraborty,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee84/preview
+noc25_ee85,Electrical and Electronics Engineering,Advanced topics in Wireless Communication (Hindi),Prof. Vivek Ashok Bohara,IIIT Delhi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee85/preview
+noc25_ee87,Electrical and Electronics Engineering,Design Of Power Electronic Converters,Prof. Shabari Nath,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee87/preview
+noc25_ee88,Electrical and Electronics Engineering,Enabling Technologies for 6G Communications Networks (Hindi),Prof. Vivek Ashok Bohara,IIIT Delhi,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee88/preview
+noc25_ee02,Electrical Engineering,Advance Power Electronics,Prof. Bhim Singh,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee02/preview
+noc25_ee54,Electrical Engineering,Network Security,Prof. Gaurav S. Kasbekar,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee54/preview
+noc25_ee66,Electrical Engineering,"Power System Dynamics, Control and Monitoring",Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee66/preview
+noc25_ee89,Electrical Engineering,Intelligent Control of Robotic Systems,Prof. M. Felix Orlando,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee89/preview
+noc25_ee86,Electrical Engineering/Systems and Control,Behavioural Theory of Systems with a View Toward Data Driven Control,Prof. Debasattam Pal,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee86/preview
+noc25_ee80,Electronics and Communication Engineering,Spread Spectrum Communications And Jamming,Prof. Debarati Sen,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee80/preview
+noc25_ee75,Electronics and Electrical Engineering,Semiconductor Devices for Next Generation Field Effect Transistors (More than Moore): A Physics Perspective,Prof. Sudeb Dasgupta,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee75/preview
+noc25_hs06,Engineering / Science / Management,Computer Aided Decision Systems - Industrial practices using Big Analytics,"Prof. Deepu Philip
+Prof. Amandeep Singh Oberoi",IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs06/preview
+noc25_hs77,"English Studies, Cultural Studies",The Novel and Change,Prof. Avishek Parui,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs77/preview
+noc25_ce09,Environmental Science,Climate Change Science,Prof. J.Srinivasan,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce09/preview
+noc25_ce18,Environmental Science,Environmental Geosciences,Prof. Prasoon Kumar Singh,IIT-ISM Dhanbad,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce18/preview
+noc25_ag14,Food Process Engineering,Food Microbiology for Safe and Sustainable Food Systems,Prof. Prem Prakash Srivastav,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ag14/preview
+noc25_mm06,Fuel Minerals And Metallurgical Engineering,Clean Coal Technology,Prof. Barun Kumar Nandi,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_mm06/preview
+noc25_ma27,"General Engineering and Sciences, Applied Mathematics",High Performance Scientific Computing,"Prof. Shivasubramanian Gopalakrishnan
+Prof. Om Jadhav
+Prof. S Vamshi Krishna
+Prof. Ashish Kuvelkar",IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma27/preview
+noc25_ce71,Geology and Geophysics,Tectonics and Geodynamics,Prof. Saibal Gupta,IIT Kharagpur,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ce71/preview
+noc25_ce68,Geophysics,Mathematical Geophysics,Prof. Swarandeep Sahoo,IIT-ISM Dhanbad,IIT Kharagpur,8 weeks,https://onlinecourses.nptel.ac.in/noc25_ce68/preview
+noc25_hs09,Humanities and Social Science,Development of Sociology in India,Prof. Ashish Saxena,University of Allahabad,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs09/preview
+noc25_hs12,Humanities and Social Science,Education for Sustainable Development,Prof. Atasi Mohanty,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs12/preview
+noc25_hs15,Humanities and Social Science,Elements of Literature and Creative Communication,Prof. H.S. Komalesha,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs15/preview
+noc25_hs16,Humanities and Social Science,Emotional Intelligence,Prof. Rabindra Kumar Pradhan,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs16/preview
+noc25_hs17,Humanities and Social Science,Employment Communication A Lab based course,Prof. Seema Singh,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs17/preview
+noc25_hs38,Humanities and Social Science,Introduction On Intellectual Property To Engineers And Technologists,Prof. Tapas Kumar Bandyopadhyay,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs38/preview
+noc25_hs52,Humanities and Social Science,Legal Compliance for Incorporating Startup,Prof. Indrajit Dube,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs52/preview
+noc25_hs62,Humanities and Social Science,Petroleum Economics and Management,Prof. Anwesha Aditya,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs62/preview
+noc25_hs72,Humanities and Social Science,Soft Skill Development,"Prof. Priyadarshi Patnaik
+Prof. V. N. Giri
+Prof. D. Suar",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs72/preview
+noc25_hs73,Humanities and Social Science,Strategic Performance Management,Prof. K B L Srivastava,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs73/preview
+noc25_hs78,Humanities and Social Science,Training and Development,"Prof. Susmita Mukhopadhyay
+ Prof. S. Srinivasan",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs78/preview
+noc25_hs82,Humanities and Social Science,Victorian Literature: An Interdisciplinary Introduction,"Prof. Aruni Mahapatra
+ Prof. Smita Jha",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs82/preview
+noc25_hs101,"Humanities and Social Science, Psychology, Neuroscience, Cognitive Science",Social Behavior and the Brain: An Introduction to Social Neuroscience,Prof. Ark Verma,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs101/preview
+noc25_hs01,Humanities and Social Sciences,Advanced Level of Spoken Sanskrit,Prof. Anuradha Choudry,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs01/preview
+noc25_hs02,Humanities and Social Sciences,An Introduction to Microeconomics,Prof. Vimal Kumar,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs02/preview
+noc25_hs03,Humanities and social sciences,Appreciating Hindustani Music,Prof. Lakshmi Sreeram,Ahmedabad University,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs03/preview
+noc25_hs04,Humanities and Social Sciences,Basics of language Science,Prof. Rajesh Kumar,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs04/preview
+noc25_hs05,Humanities and Social Sciences,Bilingualism: A cognitive and psycholinguistic perspective,Prof. Bidisha Som,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs05/preview
+noc25_hs07,Humanities and Social Sciences,Contemporary Literature,Prof. Aysha Viswamohan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs07/preview
+noc25_hs08,Humanities and Social Sciences,Contextualizing Gender,Prof. Rashmi Gaur,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs08/preview
+noc25_hs11,Humanities and Social Sciences,Economic Growth And Development,Prof. Rajshree Bedamatta,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs11/preview
+noc25_hs13,Humanities and Social Sciences,Educational Technology and ICT,Prof. Sarita Anand,Visva-Bharati,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_hs13/preview
+noc25_hs14,Humanities and Social Sciences,Effective Writing,Prof. Binod Mishra,IIT Roorkee,IIT Roorkee,4 Weeks + 4 Weeks (New),https://onlinecourses.nptel.ac.in/noc25_hs14/preview
+noc25_hs18,Humanities and Social Sciences,"Energy Resources, Economics and Environment",Prof. Rangan Banerjee,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs18/preview
+noc25_hs19,Humanities and Social Sciences,English language for competitive exams,Prof. Aysha Viswamohan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs19/preview
+noc25_hs21,Humanities and Social Sciences,"English Literature of the Romantic Period, 1798-1832",Prof. Pramod K Nayar,University of Hyderabad,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs21/preview
+noc25_hs23,Humanities and Social Sciences,Exploring Survey Data on Health Care,Prof. Pratap C. Mohanty,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs23/preview
+noc25_hs24,Humanities and Social Sciences,Feminism : Concepts and Theories,Prof. Mathangi Krishnamurthy,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs24/preview
+noc25_hs25,Humanities and Social Sciences,German - I,Prof. Milind Brahme,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs25/preview
+noc25_hs26,Humanities and Social Sciences,German - II,Prof. Milind Brahme,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs26/preview
+noc25_hs27,Humanities and Social Sciences,German - III,Prof. Milind Brahme,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs27/preview
+noc25_hs28,Humanities and Social Sciences,Globalization: Theoretical Perspectives,Prof. R. Santhosh,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs28/preview
+noc25_hs29,Humanities and Social Sciences,Great Experiments in Psychology,Prof. Rajlakshmi Guha,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs29/preview
+noc25_hs30,Humanities and Social Sciences,Group Dynamics,Prof. Pooja Garg,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs30/preview
+noc25_hs31,Humanities and Social Sciences,Health Research Fundamentals,Prof. P. Manickam,NIE,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs31/preview
+noc25_hs32,Humanities And Social Sciences,Indian Business History,Prof. Vipul Dutta,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs32/preview
+noc25_hs33,Humanities and Social Sciences,Indian Feminisms: Concepts and Issues,Prof. Anandita Pan,IIT Hyderabad,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs33/preview
+noc25_hs35,Humanities and Social Sciences,Indian Poetry in English,Prof. Binod Mishra,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs35/preview
+noc25_hs36,Humanities and Social Sciences,Intellectual Property,Prof. Feroz Ali,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs36/preview
+noc25_hs37,Humanities and Social Sciences,Introducing Modern Western Art: Movements and Artists,Prof. Soumik Nandy Majumdar,"Visva Bharati University, Santiniketan",IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs37/preview
+noc25_hs39,Humanities and Social Sciences,Introduction to Brain and Behaviour,Prof. Ark Verma,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs39/preview
+noc25_hs40,Humanities And Social Sciences,Introduction To Cognitive Psychology,Prof. Naveen Kashyap,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs40/preview
+noc25_hs41,Humanities and Social Sciences,Introduction to Cultural Studies,Prof. Avishek Parui,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs41/preview
+noc25_hs42,Humanities and Social Sciences,Introduction to Environmental Economics,"Prof. Diptimayee Nayak
+Prof. S. P. Singh",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs42/preview
+noc25_hs43,Humanities and Social Sciences,Introduction to Japanese Language and Culture,Prof. Vatsala Misra,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs43/preview
+noc25_hs44,Humanities And Social Sciences,Introduction To Modern Indian Political Thought,Prof. Mithilesh Kumar Jha,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs44/preview
+noc25_hs45,Humanities and social sciences,Introduction to Pāṇinian grammar,Prof. Malhar Kulkarni,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs45/preview
+noc25_hs46,Humanities And Social Sciences,Introduction To Political Theory,Prof. Mithilesh Kumar Jha,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs46/preview
+noc25_hs47,Humanities and Social Sciences,Introduction to Psychology,Prof. Braj Bhushan,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs47/preview
+noc25_hs48,Humanities and Social Sciences,Introduction to World Literature,Prof. Merin Simi Raj,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs48/preview
+noc25_hs49,Humanities and Social Sciences,Japani Bhasha - Saral swaroop,Prof. Vatsala Misra,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs49/preview
+noc25_hs50,Humanities And Social Sciences,"Language, Culture And Cognition: An Introduction",Prof. Bidisha Som,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs50/preview
+noc25_hs51,Humanities and Social Sciences,Learning English in Hindi,Prof. Rajesh Kumar,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs51/preview
+noc25_hs54,Humanities and Social Sciences,Literary Criticism (From Plato to Leavis),Prof. Merin Simi Raj,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs54/preview
+noc25_hs55,Humanities and Social Sciences,Literature and Coping Skills,Prof. Ajit K Mishra,IIT(BHU) Varanasi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs55/preview
+noc25_hs56,Humanities and Social Sciences,Literature and Life,Prof. S P Dhanavel,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs56/preview
+noc25_hs57,Humanities and Social Sciences,Modern Indian Writing in Translation,Prof. Divya A,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs57/preview
+noc25_hs58,Humanities and Social Sciences,"Narrative Mode and Fiction renamed as 'Fiction: Epics, Novels and Poetry'",Prof. Sarbani Banerjee,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs58/preview
+noc25_hs59,Humanities and Social Sciences,Online Communication in the Digital Age,Prof. Rashmi Gaur,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs59/preview
+noc25_hs60,Humanities and Social Sciences,Patent Drafting for Beginners,Prof. Feroz Ali,IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs60/preview
+noc25_hs61,Humanities and Social Sciences,Patent Law for Engineers and Scientists,Prof. Feroz Ali,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs61/preview
+noc25_hs63,Humanities And Social Sciences,Philosophical Foundations Of Social Research,Prof. Sambit Mallick,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs63/preview
+noc25_hs64,Humanities and Social Sciences,Philosophy and Critical Thinking,Prof. Gyan Prakash,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_hs64/preview
+noc25_hs65,Humanities And Social Sciences,Phonetics And Phonology: A Broad Overview,Prof. Shakuntala Mahanta,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs65/preview
+noc25_hs66,Humanities and Social Sciences,Psychiatry - An Overview and How the Brain Creates Mind,Prof. Alok Bajpai,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs66/preview
+noc25_hs67,Humanities and Social Sciences,Psychology of Personality and Individual Differences: Theory and Applications,Prof. Dilwar Hussain,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs67/preview
+noc25_hs68,Humanities And Social Sciences,"Psychology Of Stress, Health And Well-Being",Prof. Dilwar Hussain,IIT Guwahati,IIT Guwahati,12 weeks,https://onlinecourses.nptel.ac.in/noc25_hs68/preview
+noc25_hs70,Humanities and Social Sciences,Science Communication: Research Productivity and Data Analytics using Open Source Software,"Prof. Nabi Hasan
+Prof. Mohit Garg",IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs70/preview
+noc25_hs71,Humanities And Social Sciences,Sociological Perspectives On Modernity,Prof. Sambit Mallick,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs71/preview
+noc25_hs74,Humanities and Social Sciences,Strength & Conditioning for the Indian Population,"Prof. Deckline Leitao
+Prof. Varun Suresh Kumar",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs74/preview
+noc25_hs75,Humanities and Social Sciences,Technology Transfer Through Joint Venture,Prof. Indrajit Dube,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs75/preview
+noc25_hs76,Humanities and Social Sciences,The Nineteenth - Century English Novel,Prof. Divya A,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs76/preview
+noc25_hs79,Humanities and Social Sciences,Trauma and Literature,Prof. Avishek Parui,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs79/preview
+noc25_hs80,Humanities and Social Sciences,Twentieth Century Fiction,Prof. Avishek Parui,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs80/preview
+noc25_hs81,Humanities and Social Sciences,United Nations Sustainable Development Goals (UN SDGs),Prof. Shiva Ji,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs81/preview
+noc25_hs83,Humanities and Social Sciences,समास samāsa in Pāṇinian grammar- I,Prof. Malhar Kulkarni,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs83/preview
+noc25_hs84,Humanities and Social Sciences,Cognitive Ergonomics,Prof. M. K. Asthana,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs84/preview
+noc25_hs85,Humanities and Social Sciences,Complete guide for campus interviews: Step by step preparation for Internships and Full-time jobs,"Prof. Vinod Aravindakshan
+Prof. Vibin Aravindakshan","IIT Palakkad
+ Careerbolt",IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs85/preview
+noc25_hs87,Humanities and Social Sciences,Enhancing Soft Skills and Personality,Prof. T. Ravichandran,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs87/preview
+noc25_hs88,Humanities and Social Sciences,Essentials of Sports Injury Prevention & Rehabilitation,"Col (Dr) Anup Krishnan (Retd)
+Wg Cdr (Dr) CS Guru
+Lt Col (Dr) Atul Sharma",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs88/preview
+noc25_hs89,Humanities and Social Sciences,Forensic Linguistics,Prof. Deepak Mashru,National Forensic Sciences Universtiy (INI),IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs89/preview
+noc25_hs91,Humanities And Social Sciences,Human Behaviour,Prof. Naveen Kashyap,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs91/preview
+noc25_hs92,Humanities and Social Sciences,Human Movement Science,"Prof. Shruti Bhandurge
+Prof. Subham Badhyal",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs92/preview
+noc25_hs94,Humanities And Social Sciences,Introduction To Modern Indian Drama,Prof. Kiran Keshavamurthy,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs94/preview
+noc25_hs95,Humanities and Social Sciences,Language and Mind,Prof. Rajesh Kumar,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs95/preview
+noc25_hs96,Humanities and Social Sciences,Mastering Speaking and Presentations: A case Based Approach,Prof. Seema Singh,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs96/preview
+noc25_hs97,Humanities and Social Sciences,Modern Indian Art From the Colonial Period to the Present,Prof. Soumik Nandy Majumdar,"Visva Bharati University, Santiniketan",IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs97/preview
+noc25_hs98,Humanities and Social Sciences,Modernisation and Creative Communication,"Prof. Saswat Samay Das
+Prof. Ananya Roy Pratihar",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs98/preview
+noc25_hs99,Humanities and Social Sciences,Psychology Of Bilingualism And Multilingualism,Prof. Ark Verma,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs99/preview
+noc25_hs102,Humanities and Social Sciences,Sociology and Sanitation: An Introduction,Prof. Ashish Saxena,University of Allahabad,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs102/preview
+noc25_hs103,Humanities and Social Sciences,The Science of Happiness and Wellbeing,"Prof. Priyadarshi Patnaik
+Prof. Manas K Mandal",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs103/preview
+noc25_hs104,Humanities and Social Sciences,Towards an Ethical Digital Society: From Theory to Practice,Prof. Amit Prakash,IIIT Bangalore,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs104/preview
+noc25_hs105,Humanities and Social Sciences,Anti-Doping Awareness in Sports,"Prof. Ankush Gupta
+Prof. Jay Singh
+Col (Dr) Anup Krishnan (Retd)
+Prof. Dobson Dominic",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs105/preview
+noc25_hs106,Humanities and Social Sciences,Toolkit of PE Teachers: Basic,"Prof. Sunil Purohit
+Prof. Divyadeep Hada
+Prof. Azad Khan",IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs106/preview
+noc25_hs107,Humanities and Social Sciences,Advanced Course in Performance Traditions of the Mahabharata in Tamil Nadu- 2,Prof. Sashikanth Ananthachari,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs107/preview
+noc25_hs108,Humanities and Social Sciences,Korean II,Prof. Soo Jin Shim,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs108/preview
+noc25_hs93,Humanities and Social Sciences (Economics),Introduction to Economic Growth- I,Prof. Sohini Sahu,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs93/preview
+noc25_hs69,"Humanities and Social Sciences,English","Refugee, Migration, Diaspora",Prof. Sarbani Banerjee,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs69/preview
+noc25_hs90,Humanities/Urban Studies/Gender Studies,Gender Inclusive Urban Spaces: Issues and Questions,Prof. Binitha V Thampi,IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs90/preview
+noc25_hs86,Hydro and Renewable Energy,"Energy Resources, Economics, and Sustainability",Prof. Pratham Arora,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs86/preview
+noc25_lw01,Law,"Advanced Contracts, Tendering and Public Procurement",Prof. Sairam Bhat,NLSIU,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_lw01/preview
+noc25_lw02,Law,Constitution Law and Public Administration in India,Prof. Sairam Bhat,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_lw02/preview
+noc25_lw03,Law,IP Management & Technology Transfer,Prof. Gouri Gargate,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_lw03/preview
+noc25_lw04,Law,Centre-State Relations in India,Prof. Uday Shankar,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_lw04/preview
+noc25_lw05,Law,Directive Principles of State Policy and Fundamental Duties: Constitutional Imperative,Prof. Uday Shankar,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_lw05/preview
+noc25_lw06,Law,International Trade Law,Prof. Raju KD,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_lw06/preview
+noc25_mg02,Management,Advanced Financial Instruments for Sustainable Business and Decentralized Markets,Prof. Abhinava Tripathi,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg02/preview
+noc25_mg03,Management,Advances in Strategic Human Resource Management (HRM),Prof. Ashish Pandey,IIT Bombay,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg03/preview
+noc25_mg04,Management,Advertising & Promotions Management,Prof. Mrinalini Pandey,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_mg04/preview
+noc25_mg05,Management,AI in Human Resource Management,Prof. Abraham Cyril Issac,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg05/preview
+noc25_mg06,Management,AI in Marketing,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg06/preview
+noc25_mg07,Management,AI in Product Management,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg07/preview
+noc25_mg08,Management,Artificial Intelligence (AI) for Investments,Prof. Abhinava Tripathi,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg08/preview
+noc25_mg09,Management,Business analytics and data mining Modeling using R,Prof. Gaurav Dixit,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg09/preview
+noc25_mg10,Management,Business Analytics For Management Decision,Prof. Rudra P Pradhan,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg10/preview
+noc25_mg11,Management,Business Development: From Start to Scale,Prof. C Bhaktavatsala Rao,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg11/preview
+noc25_mg12,Management,Business Ethics,Prof. Susmita Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg12/preview
+noc25_mg14,Management,Business Law for Managers,"Prof. S. Srinivasan
+Prof. Kaushik Mukherjee",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg14/preview
+noc25_mg15,Management,Business Statistics,Prof. Mukesh Kumar Barua,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg15/preview
+noc25_mg16,Management,Consumer Behaviour,Prof. Srabanti Mukherjee,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg16/preview
+noc25_mg17,Management,Data Analysis and Decision Making - I,Prof. Raghu Nandan Sengupta,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg17/preview
+noc25_mg18,Management,Design Thinking - A Primer,"Prof. Ashwin Mahalingam
+Prof. Bala Ramadurai",IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg18/preview
+noc25_mg19,Management,E-Business,Prof. Mamata Jenamani,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg19/preview
+noc25_mg20,Management,Financial accounting - IITMandi,Prof. Puran Singh,IIT Mandi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg20/preview
+noc25_mg21,Management,Financial Derivatives & Risk Management,Prof. J. P. Singh,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg21/preview
+noc25_mg22,Management,Financial Institutions and Markets,Prof. Jitendra Mahakud,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg22/preview
+noc25_mg23,Management,Financial Management For Managers,Prof. Anil K. Sharma,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg23/preview
+noc25_mg24,Management,Financial Statement Analysis and Reporting,Prof. Anil K. Sharma,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg24/preview
+noc25_mg25,Management,Foundation Course in Managerial Economics,Prof. Barnali Nag,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg25/preview
+noc25_mg26,Management,Global Marketing Management,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg26/preview
+noc25_mg27,Management,Infrastructure Economics,Prof. Nalin Bharti,IIT Patna,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg27/preview
+noc25_mg28,Management,Innovation in Marketing and Marketing of Innovation,Prof. Vinay Sharma,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg28/preview
+noc25_mg29,Management,Integrated Marketing Communication,Prof. Vinay Sharma,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg29/preview
+noc25_mg30,Management,Integrated Marketing Management,Prof. R. Srinivasan,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg30/preview
+noc25_mg31,Management,International Business,Prof. Jogendra K. Nayak,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg31/preview
+noc25_mg32,Management,International Marketing,Prof. Biswarup Ghosh,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg32/preview
+noc25_mg34,Management,Introduction to Operations Research,Prof. G. Srinivasan,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg34/preview
+noc25_mg35,Management,Introduction to probability and Statistics,Prof. G. Srinivasan,IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg35/preview
+noc25_mg36,Management,Introduction to Stochastic Processes,Prof. Manjesh Hanawal,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg36/preview
+noc25_mg37,Management,Introduction to System Dynamics Modeling,Prof. Jayendran Venkateswaran,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg37/preview
+noc25_mg38,Management,Leadership and Team Effectiveness,Prof. Santosh Rangnekar,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg38/preview
+noc25_mg39,Management,Leadership for India Inc: Practical Concepts and Constructs,Prof. C Bhaktavatsala Rao,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg39/preview
+noc25_mg40,Management,Management of Commercial Banking,Prof. Jitendra Mahakud,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg40/preview
+noc25_mg41,Management,Management of Field Sales,Prof. Jayanta Chatterjee,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg41/preview
+noc25_mg42,Management,Management of Inventory Systems,Prof. Pradip Kumar Ray,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg42/preview
+noc25_mg43,Management,Management of New Products and Services,Prof. Jayanta Chatterjee,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg43/preview
+noc25_mg44,Management,Managing change in organizations,Prof. KBL Srivastava,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg44/preview
+noc25_mg45,Management,Marketing Analytics,Prof. Swagato Chatterjee,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg45/preview
+noc25_mg46,Management,Marketing Research and Analysis-II,Prof. Jogendra K. Nayak,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg46/preview
+noc25_mg47,Management,MCDM Techniques Using R,Prof. Gaurav Dixit,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg47/preview
+noc25_mg48,Management,Modelling and Analytics for Supply Chain Management,"Prof. Kunal Kanti Ghosh
+Prof. Anupam Ghosh",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg48/preview
+noc25_mg49,Management,Multivariate Procedures with R (in English language),Prof. Shalabh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg49/preview
+noc25_mg50,Management,Organizational Behaviour: Individual Dynamics in Organization,Prof. Abraham Cyril Issac,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg50/preview
+noc25_mg51,Management,Organizational Design Change and Transformation,"Prof. Susmita Mukhopadhyay
+Prof. Sangeeta Sahney
+Prof. S. Srinivasan",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg51/preview
+noc25_mg52,Management,Principles of Management,Prof. Usha Lenka,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg52/preview
+noc25_mg53,Management,Production and Operation Management,Prof. Rajat Agrawal,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg53/preview
+noc25_mg54,Management,Public Organization and Management,Prof Vaneet Kashyap,IIT Tirupati,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg54/preview
+noc25_mg55,Management,Quality Design And Control,Prof. Pradip Kumar Ray,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg55/preview
+noc25_mg56,Management,Retail Management,Prof. Swagato Chatterjee,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg56/preview
+noc25_mg57,Management,Safety and Risk Analytics,Prof. Jhareswar Maiti,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg57/preview
+noc25_mg58,Management,Services Marketing: A Practical Approach,Prof. Biplab Datta,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg58/preview
+noc25_mg59,Management,Simulation of Business Systems: An Applied Approach,Prof. Deepu Philip,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg59/preview
+noc25_mg60,Management,Strategic Services Marketing,Prof. Kalpak Kulkarni,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg60/preview
+noc25_mg61,Management,Strategic Sourcing,Prof. Arshinder Kaur,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg61/preview
+noc25_mg62,Management,Supply Chain Digitization,"Prof. Priyanka Verma
+Prof. Sushmita Narayana
+Prof. Debabrata Das",IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg62/preview
+noc25_mg63,Management,Systems Engineering: Theory & Practice,Prof. Deepu Philip,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg63/preview
+noc25_mg64,Management,Talent Acquisition and Management,Prof. Santosh Rangnekar,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg64/preview
+noc25_mg65,Management,Technology Forecasting for strategic decision making - An Introduction,"Prof. Dmitry Kucharavy
+Prof. Bala Ramadurai","EM Strasbourg Business School (University of Strasbourg)
+  and IITM",IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg65/preview
+noc25_mg66,Management,Business Forecasting,Prof. Pankaj Dutta,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg66/preview
+noc25_mg67,Management,Ethics in Engineering Practice,Prof. Susmita Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg67/preview
+noc25_mg68,Management,Marketing Management - II,"Prof.Jayanta Chatterjee
+Prof. Shashi Shekhar Mishra",IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg68/preview
+noc25_mg69,Management,"Mergers, Acquisitions and Corporate Restructuring",Prof. Chandra Sekhar Mishra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg69/preview
+noc25_mg71,Management,Project Management,Prof. Ramesh Anbanandam,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg71/preview
+noc25_mg72,Management,Quality Control and Improvement with MINITAB,Prof. Indrajit Mukherjee,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg72/preview
+noc25_mg73,Management,Sales and Distribution Management,Prof. Sangeeta Sahney,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg73/preview
+noc25_mg74,Management,Total Quality Management - I,Prof. Raghu Nandan Sengupta,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg74/preview
+noc25_mg75,Management,Yoga and Positive Psychology for Managing Career and Life,Prof. Ashish Pandey,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg75/preview
+noc25_mg70,"Management 
+ (Operations Management/Supply Chain Management)
+ Science",Operations and Revenue Analytics,Prof. Rajat Agrawal,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg70/preview
+noc25_mg01,Management (Finance),Advanced Financial Analytics,Prof. Abhinava Tripathi,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg01/preview
+noc25_mg13,Management & Entrepreneurship,Business Fundamentals for Entrepreneurs,Prof. Devdip Purkayastha,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mg13/preview
+noc25_mm02,Materials Science,Advances in Additive Manufacturing of Materials: Current status and emerging opportunities,Prof. Bikramjit Basu,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm02/preview
+noc25_me61,Materials Science and Engineering,Phase Transformation in Materials,Prof. Krishanu Biswas,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me61/preview
+noc25_mm09,Materials Science and Engineering,"Crystal Symmetry, X-Ray Diffraction and Physical Properties",Prof. Sandeep Sangal,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm09/preview
+noc25_mm20,Materials Science and Engineering,Mechanical Behavior of Materials (Hindi),Prof. Niraj Mohan Chawake,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm20/preview
+noc25_mm25,Materials Science and Engineering,Phase Diagrams in Materials Science and Engineering,Prof. Krishanu Biswas,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm25/preview
+noc25_ma25,Mathematical Sciences,Functional Analysis and its Applications,Prof. Akhilesh Prasad,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ma25/preview
+noc25_ma03,Mathematics,Advanced Linear Algebra,Prof. Premananda Bera,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma03/preview
+noc25_ma04,Mathematics,Advanced Probability Theory,Prof. Niladri Chatterjee,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma04/preview
+noc25_ma05,Mathematics,Algebra - II,"Prof. Sankaran Viswanath
+Prof. Amritanshu Prasad",IMSc,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma05/preview
+noc25_ma07,Mathematics,Algebraic Combinatorics,"Prof. Amritanshu Prasad
+Prof. Sankaran Viswanath",IMSc,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma07/preview
+noc25_ma08,Mathematics,Algebraic Number Theory,Prof. Mahesh Kakde,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma08/preview
+noc25_ma09,Mathematics,An Introduction to Hyperbolic Geometry,Prof. Abhijit Pal,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma09/preview
+noc25_ma10,Mathematics,An introduction to Point-Set-Topology Part-I,Prof. Anant R Shastri,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma10/preview
+noc25_ma14,Mathematics,Basic Linear Algebra,Prof. I.K.Rana,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma14/preview
+noc25_ma15,Mathematics,Basic Real Analysis,Prof. I. K. Rana,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma15/preview
+noc25_ma16,Mathematics,Computational Mathematics with SageMath,Prof. Ajit Kumar,"Institute of Chemical Technology, Mumbai",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma16/preview
+noc25_ma17,Mathematics,Constrained And Unconstrained Optimization,"Prof. A. Goswami
+Prof. Debjani Chakraborty",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma17/preview
+noc25_ma18,Mathematics,Dynamical System and Control,"Prof. N. Sukavanam
+ Prof. D. N Pandey",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma18/preview
+noc25_ma19,Mathematics,Engineering Mathematics II,Prof. Jitendra Kumar,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma19/preview
+noc25_ma20,Mathematics,Essentials of Data Science With R Software-1: Probability and Statistical Inference,Prof. Shalabh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma20/preview
+noc25_ma21,Mathematics,Essentials of Data Science With R Software-2: Sampling Theory and Linear Regression Analysis,Prof. Shalabh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma21/preview
+noc25_ma22,Mathematics,First Course on Partial Differential Equations - I,"Prof. A. K. Nandakumaran
+Prof. P. S. Datti",IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma22/preview
+noc25_ma23,Mathematics,Fourier Analysis and its applications,Prof. G. K Srinivasan,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma23/preview
+noc25_ma24,Mathematics,Functional Analysis,Prof. Kesavan,IMSc,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma24/preview
+noc25_ma26,Mathematics,Graph Theory,Prof. Soumen Maity,IISER PUNE,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma26/preview
+noc25_ma28,Mathematics,Introduction to Algebraic Geometry and Commutative Algebra,Prof. Dilip P. Patil,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma28/preview
+noc25_ma29,Mathematics,Introduction to Galois Theory,Prof. Krishna Hanumanthu,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma29/preview
+noc25_ma30,Mathematics,Introduction to Group Theory,Prof. R Venkatesh,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma30/preview
+noc25_ma31,Mathematics,Introduction to Lie Algebras,Prof. R Venkatesh,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma31/preview
+noc25_ma33,Mathematics,Introduction to Probability Theory and Statistics,Prof. S Dharmaraja,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma33/preview
+noc25_ma34,Mathematics,Introduction To Queueing Theory,Prof. N. Selvaraju,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma34/preview
+noc25_ma35,Mathematics,Introduction To Rings And Fields,Prof. Krishna Hanumanthu,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma35/preview
+noc25_ma36,Mathematics,Introduction to Statistics,Prof. Sameen Naqvi,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma36/preview
+noc25_ma37,Mathematics,Linear Algebra,Prof. Pranav Haridas,Kerala School of Mathematics,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma37/preview
+noc25_ma38,Mathematics,Mathematical Modelling: Analysis and Applications,Prof. Ameeya Kumar Nayak,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma38/preview
+noc25_ma39,Mathematics,Multivariable Calculus,"Prof. S. K. Gupta 
+Prof. Sanjeev Kumar",IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma39/preview
+noc25_ma41,Mathematics,Numerical Analysis,Prof. S. Baskar,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma41/preview
+noc25_ma42,Mathematics,Numerical Linear Algebra,"Prof. P.N. Agrawal
+Prof. D. N Pandey",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma42/preview
+noc25_ma43,Mathematics,Numerical Linear Algebra and Application,Prof. Srinivasa Rao Pentyala,IIT-ISM Dhanbad,IIT Kharagpur,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ma43/preview
+noc25_ma44,Mathematics,Numerical Methods: Finite difference approach,Prof. Ameeya Kumar Nayak,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma44/preview
+noc25_ma45,Mathematics,Ordinary and Partial Differential Equations and Applications,"Prof. P.N. Agrawal
+Prof. D. N Pandey",IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma45/preview
+noc25_ma46,Mathematics,Partial Differential Equations (PDE) For Engineers: Solution By Separation Of Variables,Prof. Sirshendu De,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma46/preview
+noc25_ma47,Mathematics,Probabilistic Methods in PDE,Prof. Anindya Goswami,IISER Pune,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma47/preview
+noc25_ma48,Mathematics,Probability -I with Examples Using R,Prof. Siva Athreya,ISI Bangalore,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma48/preview
+noc25_ma49,Mathematics,Probability and Statistics,Prof. Somesh Kumar,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma49/preview
+noc25_ma50,Mathematics,Real Analysis I,Prof. Jaikrishnan J,IIT Palakkad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma50/preview
+noc25_ma51,Mathematics,Scientific Computing using Matlab,"Prof. Mani Mehra
+Prof. Vivek K. Aggarwal",IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma51/preview
+noc25_ma52,Mathematics,Scientific Computing using Python (In Hindi),"Prof. Mani Mehra
+Prof. Vivek K. Aggarwal",IIT Delhi,IIT Delhi,12 weeks,https://onlinecourses.nptel.ac.in/noc25_ma52/preview
+noc25_ma53,Mathematics,Set Theory and Mathematical Logic,Prof. Amit Kuber,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma53/preview
+noc25_ma55,Mathematics,Statistical Inference,Prof. Niladri Chatterjee,IIT Delhi,IIT Delhi,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma55/preview
+noc25_ma56,Mathematics,Transform Calculus and its applications in Differential Equations,Prof. Adrijit Goswami,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma56/preview
+noc25_ma57,Mathematics,Advanced Course on Partial Differential Equations - II,"Prof. A K Nandakumaran
+Prof. P S Datti",IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma57/preview
+noc25_ma59,Mathematics / Statistics / Economics,Optimization Algorithms: Theory and Software Implementation,Prof. Thirumulanathan D,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma59/preview
+noc25_ma40,Mathematics & Statistics,Multivariate Procedures with R (in Hindi Language),Prof. Shalabh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma40/preview
+noc25_ma54,Mathematics and Computing,Soft Computing Techniques,Prof. Santimoy Kundu,IIT-ISM Dhanbad,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma54/preview
+noc25_ma01,Mathemetics,Advanced Computational Techniques,Prof. Somnath Bhattacharyya,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma01/preview
+noc25_ma02,Mathemetics,Advanced Engineering Mathematics,Prof. H S Mahato,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma02/preview
+noc25_ma11,Mathemetics,Applied Linear Algebra in AI and ML,Prof. Swanand Khare,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma11/preview
+noc25_ma12,Mathemetics,Applied Multivariate Statistical Modeling,Prof. Jhareswar Maiti,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ma12/preview
+noc25_me55,Mechanical & Industrial Engineering,Noise Control in Mechanical Systems,Prof. Sneha Singh,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me55/preview
+noc25_me01,Mechanical Engineering,Acoustic Materials And Metamaterials,Prof. Sneha Singh,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me01/preview
+noc25_me02,Mechanical Engineering,Advanced Machining Processes,Prof. Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me02/preview
+noc25_me04,Mechanical Engineering,Advanced Robotics,Prof. Ashish Dutta,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me04/preview
+noc25_me05,Mechanical Engineering,Applied Ergonomics,"Prof. Shantanu Bhattacharya
+Prof. Ankur Gupta",IIT Kanpur/IITJodhpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me05/preview
+noc25_me06,Mechanical Engineering,Applied Thermodynamics,Prof. V. Raghavan,IIT Madras,IIT Madras,12 weeks,https://onlinecourses.nptel.ac.in/noc25_me06/preview
+noc25_me07,Mechanical Engineering,Automatic Control,Prof. Anil Kumar,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me07/preview
+noc25_me08,Mechanical Engineering,Basics of Finite Element Analysis - II,Prof. Nachiketa Tiwari,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me08/preview
+noc25_me09,Mechanical Engineering,Basics of Mechanical Engineering - 2,"Prof. Janakranjan Ramkumar
+Prof. Amandeep Singh Oberoi",IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me09/preview
+noc25_me10,Mechanical Engineering,Computational Fluid Dynamics For Incompressible Flows,Prof. Amaresh Dalal,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me10/preview
+noc25_me11,Mechanical Engineering,Computer Integrated Manufacturing,"Prof. J. Ramkumar
+Prof. Amandeep Singh",IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me11/preview
+noc25_me12,Mechanical Engineering,Conduction And Convection Heat Transfer,"Prof. Suman Chakraborty
+Prof. Sankar Kumar Som",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me12/preview
+noc25_me13,Mechanical Engineering,Convective Heat Transfer,Prof. Arup Kumar Das,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me13/preview
+noc25_me14,Mechanical Engineering,Data-Enabled Tribological Engineering: From Experiments to Predictive Models,Prof. (HAG) Harish Hirani,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me14/preview
+noc25_me15,Mechanical Engineering,Design of Mechanical Transmission Systems,Prof. Ramkumar,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me15/preview
+noc25_me16,Mechanical Engineering,Design Practice,Prof. Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me16/preview
+noc25_me17,Mechanical Engineering,Dynamics and Control of Mechanical Systems,Prof. Ashitava Ghosal,IISc Bangalore,IISc Bangalore,12 weeks,https://onlinecourses.nptel.ac.in/noc25_me17/preview
+noc25_me18,Mechanical Engineering,Electronic Packaging and Manufacturing,Prof. Anandaroop Bhattacharya Prof. Goutam Chakraborty,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me18/preview
+noc25_me19,Mechanical Engineering,Engine system and performance,Prof. Pranab K. Mondal,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me19/preview
+noc25_me21,Mechanical Engineering,Engineering Thermodynamics in Hindi,Prof. Jayant K. Singh,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me21/preview
+noc25_me22,Mechanical Engineering,Evolutionary Computation For Single And Multi-Objective Optimization,Prof. Deepak Sharma,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me22/preview
+noc25_me23,Mechanical Engineering,Experimental Stress Analysis,Prof. K. Ramesh,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me23/preview
+noc25_me25,Mechanical Engineering,Failure Analysis And Prevention,Prof. D. K. Dwivedi,IIT Roorkee,IIT Roorkee,8 Weeks + 4 Weeks (New),https://onlinecourses.nptel.ac.in/noc25_me25/preview
+noc25_me26,Mechanical Engineering,Financial Mathematics,Prof. P. K. Jha,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me26/preview
+noc25_me27,Mechanical Engineering,Finite Element Modeling Of Welding Processes,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me27/preview
+noc25_me28,Mechanical Engineering,Fundamental Of Welding Science And Technology,Prof. Pankaj Biswas,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me28/preview
+noc25_me29,Mechanical Engineering,Fundamentals of Combustion,Prof. V. Raghavan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me29/preview
+noc25_me30,Mechanical Engineering,Fundamentals of combustion for propulsion,"Prof. S.Varunkumar
+Prof. H.S.Mukunda","IIT Madras
+ IISc Bangalore",IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me30/preview
+noc25_me31,Mechanical Engineering,Fundamentals Of Compressible Flow,Prof. Niranjan Sahoo,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me31/preview
+noc25_me32,Mechanical Engineering,Fundamentals Of Nuclear Power Generation,Prof. Dipankar N. Basu,IIT Guwahati,IIT Guwahati,12 weeks,https://onlinecourses.nptel.ac.in/noc25_me32/preview
+noc25_me33,Mechanical Engineering,"Fundamentals of Surface Engineering: Mechanisms, Processes and Characterizations",Prof. D. K. Dwivedi,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me33/preview
+noc25_me34,Mechanical Engineering,Fundamentals of thermo-mechanical & fatigue analysis of welded structure,Prof. Pankaj Biswas,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me34/preview
+noc25_me35,Mechanical Engineering,Heat Transfer and Combustion in Multiphase Systems,Prof. Saptarshi Basu,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me35/preview
+noc25_me36,Mechanical Engineering,IC Engines And Gas Turbines,"Prof. Pranab K. Mondal,
+Prof. Vinayak N. Kulkarni",IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me36/preview
+noc25_me37,Mechanical Engineering,Ideal fluid flows using complex analysis,Prof. Amit Gupta,IIT Delhi,IIT Delhi,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me37/preview
+noc25_me38,Mechanical Engineering,Industrial Hydraulics and Automation,"Prof. Niranjan Kumar
+Prof. Ajit Kumar",IIT-ISM Dhanbad,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me38/preview
+noc25_me39,Mechanical Engineering,Inspection And Quality Control In Manufacturing,Prof. Kaushik Pal,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me39/preview
+noc25_me40,Mechanical Engineering,Introduction to Abrasive Machining and Finishing Processes,Prof. Mamilla Ravi Sankar,IIT Tirupati,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me40/preview
+noc25_me41,Mechanical Engineering,Introduction to Fluid Mechanics,Prof. Suman Chakraborty,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me41/preview
+noc25_me42,Mechanical Engineering,Introduction to Machining and Machining Fluids,Prof. Mamilla Ravi Sankar,IIT Tirupati,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me42/preview
+noc25_me43,Mechanical Engineering,Introduction To Mechanical Micro Machining,Prof. Ajay M Sidpara,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me43/preview
+noc25_me44,Mechanical Engineering,Introduction to Soft Matter,Prof. Aloke Kumar,IISc Bangalore,IISc Bangalore,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me44/preview
+noc25_me45,Mechanical Engineering,Introduction To Uncertainty Analysis And Experimentation,Prof. S.R. Kale,IIT Delhi,IIT Delhi,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me45/preview
+noc25_me46,Mechanical Engineering,Kinematics of Mechanisms and Machines,Prof. Anirvan Dasgupta,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me46/preview
+noc25_me47,Mechanical Engineering,Machinery Fault Diagnosis And Signal Processing,Prof. Amiya Ranjan Mohanty,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me47/preview
+noc25_me48,Mechanical Engineering,Machining Science,Prof. Sounak Kumar Choudhury,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me48/preview
+noc25_me49,Mechanical Engineering,Manufacturing Automation,Prof. Sounak Kumar Choudhury,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me49/preview
+noc25_me50,Mechanical Engineering,Manufacturing Guidelines For Product Design,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me50/preview
+noc25_me51,Mechanical Engineering,Manufacturing Process Technology I & II,Prof.Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me51/preview
+noc25_me52,Mechanical Engineering,Mechanical Measurement Systems,Prof. Ravi Kumar,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me52/preview
+noc25_me53,Mechanical Engineering,Mechanics Of Machining,Prof. Uday S. Dixit,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me53/preview
+noc25_me54,Mechanical Engineering,Nature and Properties of Materials,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me54/preview
+noc25_me56,Mechanical Engineering,Noise Management & Control,Prof. Nachiketa Tiwari,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me56/preview
+noc25_me57,Mechanical Engineering,Nonlinear Vibration,Prof. S. K. Dwivedy,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me57/preview
+noc25_me58,Mechanical Engineering,Oil Hydraulics and Pneumatics,Prof. Somashekhar S,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me58/preview
+noc25_me59,Mechanical Engineering,Operations Management,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me59/preview
+noc25_me60,Mechanical Engineering,Optimization from fundamentals,Prof. Ankur A. Kulkarni,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me60/preview
+noc25_me62,Mechanical Engineering,Power Plant System Engineering,Prof. Niranjan Sahoo,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me62/preview
+noc25_me63,Mechanical Engineering,Principles Of Casting Technology,Prof. P. K. Jha,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me63/preview
+noc25_me64,Mechanical Engineering,Principles Of Industrial Engineering,Prof. D. K. Dwivedi,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me64/preview
+noc25_me65,Mechanical Engineering,Principles Of Mechanical Measurement,Prof. Dipankar N. Basu,IIT Guwahati,IIT Guwahati,12 weeks,https://onlinecourses.nptel.ac.in/noc25_me65/preview
+noc25_me66,Mechanical Engineering,Processing of Polymers and Polymer Composites,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me66/preview
+noc25_me67,Mechanical Engineering,Product Design and Manufacturing,"Prof. J.Ramkumar
+Prof. Amandeep Singh",IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me67/preview
+noc25_me68,Mechanical Engineering,Product Engineering and Design Thinking,"Prof. Pranab K Dan
+Prof. Prabir Sarkar",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me68/preview
+noc25_me69,Mechanical Engineering,Robotics and Control : Theory and Practice,"Prof. N. Sukavanam
+Prof. M. Felix Orlando",IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me69/preview
+noc25_me70,Mechanical Engineering,Robotics: Basics and Selected Advanced Concepts,Prof. Ashitava Ghosal,Ahmedabad University,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me70/preview
+noc25_me71,Mechanical Engineering,Statistical Thermodynamics for Engineers,Prof. Saptarshi Basu,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me71/preview
+noc25_me72,Mechanical Engineering,Steam And Gas Power Systems,Prof. Ravi Kumar,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me72/preview
+noc25_me73,Mechanical Engineering,Strength Of Materials - IITM,Prof. K.Ramesh,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me73/preview
+noc25_me74,Mechanical Engineering,Surface Engineering Of Nanomaterials,Prof. Kaushik Pal,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me74/preview
+noc25_me75,Mechanical Engineering,Theory Of Composite Shells,Prof. Poonam Kumari,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me75/preview
+noc25_me76,Mechanical Engineering,Theory of Rectangular Plates-Part1,Prof. Poonam Kumari,IIT Guwahati,IIT Guwahati,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me76/preview
+noc25_me77,Mechanical Engineering,Thermal Engineering: Basic and Applied,Prof. Pranab K. Mondal,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me77/preview
+noc25_me78,Mechanical Engineering,Thermodynamics,Prof. S.R. Kale,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me78/preview
+noc25_me79,Mechanical Engineering,Turbulent Combustion: Theory and Modelling,Prof. Ashoke De,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me79/preview
+noc25_me80,Mechanical Engineering,Two Phase Flow And Heat Transfer,Prof. Arup Kumar Das,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me80/preview
+noc25_me81,Mechanical Engineering,Two-Phase Flow With Phase Change In Conventional And Miniature Channels,Prof. Manmohan Pandey,IIT Guwahati,IIT Guwahati,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me81/preview
+noc25_me82,Mechanical Engineering,Viscous Fluid Flow,Prof. Amaresh Dalal,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me82/preview
+noc25_me83,Mechanical Engineering,Welding Metallurgy,Prof. P. K. Jha,IIT Roorkee,IIT Roorkee,12 weeks,https://onlinecourses.nptel.ac.in/noc25_me83/preview
+noc25_me84,Mechanical Engineering,Wheeled Mobile Robots,"Prof. Asokan Thondiyath
+Prof. Santhakumar Mohan","IITM
+ IIT Palakkad",IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me84/preview
+noc25_me85,Mechanical Engineering,Advanced Robotics Applications,Prof. Ashish Dutta,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me85/preview
+noc25_me86,Mechanical Engineering,Collaborative Robots (COBOTS): Theory and Practice,Prof. Arun Dayal Udai,IIT-ISM Dhanbad,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me86/preview
+noc25_me87,Mechanical Engineering,Cryogenic Hydrogen Technology,Prof. Indranil Ghosh,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me87/preview
+noc25_me88,Mechanical Engineering,Introduction to Solidification Processing,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me88/preview
+noc25_me90,Mechanical Engineering,Mechanics of Sheet Metal Forming,Prof. R Ganesh Narayanan,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me90/preview
+noc25_me91,Mechanical Engineering,Mechatronics,Prof. Pushparaj Mani Pathak,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me91/preview
+noc25_me92,Mechanical Engineering,Metal Cutting And Machine Tools,Prof. Asimava Roy Choudhury,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me92/preview
+noc25_me93,Mechanical Engineering,Modelling And Simulation Of Dynamic Systems,Prof. Pushparaj Mani Pathak,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me93/preview
+noc25_me95,Mechanical Engineering,Smart Materials and Intelligent System Design,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me95/preview
+noc25_me89,Mechanical Engineering- Manufacturing,"Manufacturing of turbines (gas, steam, hydro and wind)",Prof. Sunny Zafar,IIT Mandi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_me89/preview
+noc25_me03,"Mechanical Engineering, Chemical Engineering, Aerospace Engineering, Physics",Advanced Measurement Techniques in Fluid Mechanics and Heat Transfer,Prof Saptarshi Basu,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_me03/preview
+noc25_me94,"Mechanical Engineering, Materials Engineering",Navigating the Latest Trends in Additive Manufacturing Landscape,"Prof. Alankar
+Prof. Akshatha Hulmani Dayananda",IIT Bombay-Wipro 3D,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_me94/preview
+noc25_mm03,Metallurgical and Materials Engineering,Aqueous Corrosion and Its Control,Prof. V.S. Raja,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm03/preview
+noc25_mm05,Metallurgical and Materials Engineering,Carbon Materials and Manufacturing,Prof. Swati Sharma,IIT Mandi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm05/preview
+noc25_mm07,Metallurgical and Materials Engineering,Corrosion - Part I,Prof. Kallol Mondal,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm07/preview
+noc25_mm08,Metallurgical and Materials Engineering,Corrosion Protection Methods,Prof. Kallol Mondal,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm08/preview
+noc25_mm10,Metallurgical and Materials Engineering,"Dealing with materials data : collection, analysis and interpretation","Prof. M P Gururajan
+Prof. Hina Gokhale",IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm10/preview
+noc25_mm11,Metallurgical and Materials Engineering,Defects in Crystalline Solids (Part-II),Prof. Shashank Shekhar,IIT Kanpur,IIT Kanpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm11/preview
+noc25_mm12,Metallurgical and Materials Engineering,Diffusion in Multicomponent Solids,Prof. Kaustubh Kulkarni,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm12/preview
+noc25_mm15,Metallurgical and Materials Engineering,Fundamentals Of Electronic Materials And Devices,Prof. Parasuraman Swaminathan,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm15/preview
+noc25_mm16,Metallurgical and Materials Engineering,Introduction To Crystal Elasticity And Crystal Plasticity,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm16/preview
+noc25_mm17,Metallurgical and Materials Engineering,Introduction to materials science and engineering,Prof. Rajesh Prasad,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm17/preview
+noc25_mm18,Metallurgical and Materials Engineering,Material Characterization,Prof.S. Sankaran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm18/preview
+noc25_mm19,Metallurgical and Materials Engineering,Materials Science and Engineering,Prof. Vivek Pancholi,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm19/preview
+noc25_mm21,Metallurgical and Materials Engineering,Mechanical Behaviour of Materials (Part - I),"Prof. Shashank Shekhar
+Prof. Sudhanshu Shekhar Singh",IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm21/preview
+noc25_mm22,Metallurgical and Materials Engineering,Mine Automation and Data Analytics,Prof. Radhakanta Koner,IIT-ISM Dhanbad,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm22/preview
+noc25_mm26,Metallurgical and Materials Engineering,Principles of Extractive Metallurgy,Prof. Tarun Kumar Kundu,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm26/preview
+noc25_mm27,Metallurgical and Materials Engineering,"Solar Photovoltaics: Principles, Technologies & Materials",Prof. Ashish Garg,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm27/preview
+noc25_mm28,Metallurgical and Materials Engineering,Surface Engineering for Corrosion and Wear Resistance Application,"Prof. Indranil Manna
+Prof. Jyotsna Dutta Majumdar",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm28/preview
+noc25_mm29,Metallurgical and Materials Engineering,Theory and Practice of Non Destructive Testing,Prof. Ranjit Bauri,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm29/preview
+noc25_mm30,Metallurgical and Materials Engineering,Transport Phenomena in Materials,Prof. G. Phanikumar,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm30/preview
+noc25_mm31,Metallurgical and Materials Engineering,Welding Processes,Prof. Murugaiyan Amirthalingam,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm31/preview
+noc25_mm32,Metallurgical and Materials Engineering,Cathodic Protection Engineering,Prof. V.S. Raja,IIT Bombay,IIT Bombay,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm32/preview
+noc25_mm34,Metallurgical and Materials Engineering,Properties of Materials (Nature and Properties of Materials : III),Prof. Ashish Garg,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm34/preview
+noc25_mm04,Metallurgy and Mererial Science,Bulk Material Transport and Handling Systems,Prof. Khanindra Pathak,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm04/preview
+noc25_mm01,"Metallurgy, Material science, and Manufacturing",Advanced Manufacturing and Process Modelling,Prof. Prosenjit Das,IISc Bangalore,IISc Bangalore,12 weeks,https://onlinecourses.nptel.ac.in/noc25_mm01/preview
+noc25_mm13,"Metallurgy, Materials Science and Engineering",Diffusion in Solids,Prof. Mayur Vaidya,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm13/preview
+noc25_ce37,Mining Engineering,Introduction to Mineral Processing,Prof. Arun Kumar Majumder,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ce37/preview
+noc25_mm14,Mining Engineering,Drilling And Blasting Technology,Prof. Kaushik Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm14/preview
+noc25_mm23,Mining Engineering,Mineral Economics and Business,"Prof. Bibhuti Bhusan Mandal
+Prof. Shantanu Kumar Patel",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm23/preview
+noc25_mm24,Mining Engineering,Mining Machinery,Prof. Khanindra Pathak,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm24/preview
+noc25_mm33,Mining Engineering,Network Analysis For Mines And Mineral Engineering,Prof. Kaushik Dey,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_mm33/preview
+noc25_bt15,Multidisciplinary,Conservation Economics,Prof. Ankur Awadhiya,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt15/preview
+noc25_bt20,Multidisciplinary,Forests and their Management,Prof. Ankur Awadhiya,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt20/preview
+noc25_ee55,Multidisciplinary,Neural Science for Engineers,Prof. Vikas V,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee55/preview
+noc25_ge01,Multidisciplinary,"An Overview on Maternal Health Antenatal, Intranatal and Postnatal Care",Prof. Barnali Ghosh,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge01/preview
+noc25_ge02,Multidisciplinary,Basic Certificate in Palliative Care - 2,"Prof. Geeta Joshi
+Prof. Piyush Gupta","International Institute of Distance Learning, An Initiative of NAPCAIM",IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge02/preview
+noc25_ge03,Multidisciplinary,Basic Course in Ornithology,"Prof. Mousumi Ghosh
+Prof. Manjari Jain
+Prof. R Jayapal
+Prof. Suhel Quader
+Prof. V.V. Robin
+Prof. Umesh Srinivasan","NCF
+  IISER Mohali
+  SACON
+  NCF
+  IISER Tirupati
+  IISc",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge03/preview
+noc25_ge04,Multidisciplinary,Basics of Mental Health & Clinical Psychiatry,"Prof. Arijita Banerjee
+Prof. Sumit Kumar",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge04/preview
+noc25_ge05,Multidisciplinary,Biophotonics,Prof. Basudev Lahiri,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge05/preview
+noc25_ge07,Multidisciplinary,Comprehensive Molecular Diagnostics and Advanced Gene Expression Analysis,"Prof. Aritri Bir
+Prof. Arindam Ghosh",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge07/preview
+noc25_ge08,Multidisciplinary,Designing Learner-Centric MOOCs,"Prof. Sahana Murthy
+Prof. Jayakrishnan M
+Prof. Sameer Sahasrabudhe",IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge08/preview
+noc25_ge09,Multidisciplinary,Effective Engineering Teaching In Practice,"Prof. G. K. Suraishkumar
+Prof. Edamana Prasad 
+Prof. Richa Verma",IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge09/preview
+noc25_ge10,Multidisciplinary,Engineering Statistics,Prof. Manjesh Hanawal,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge10/preview
+noc25_ge11,Multidisciplinary,Entrepreneurship Essentials,Prof. Manoj Kumar Mondal,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge11/preview
+noc25_ge12,Multidisciplinary,Foundation Certificate In Palliative Care - 1,"Prof. Geeta Joshi
+Prof. Piyush Gupta","International Institute of Distance Learning, An Initiative of NAPCAIM",IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge12/preview
+noc25_ge13,Multidisciplinary,Fundamental Of Fluid Mechanics For Chemical And Biomedical Engineers,Prof. Raghvendra Gupta,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge13/preview
+noc25_ge15,Multidisciplinary,Fuzzy Logic and Neural Networks,Prof. Dilip Kumar Pratihar,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge15/preview
+noc25_ge16,Multidisciplinary,Groundwater hydrology and management,Prof. Pennan Chinnasamy,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge16/preview
+noc25_ge17,Multidisciplinary,Introduction to Environmental Engineering and Science - Fundamental and Sustainability Concepts,Prof. Brajesh K Dubey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge17/preview
+noc25_ge19,Multidisciplinary,Introduction to Reliability Engineering,Prof. Neeraj Kumar Goyal,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge19/preview
+noc25_ge20,Multidisciplinary,Management of Medical Emergencies in Dental Practice,Multifaculty,Tagore Dental College & Hospital & IITM,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge20/preview
+noc25_ge21,Multidisciplinary,Multi-Criteria Decision Making and Applications,Prof. Raghu Nandan Sengupta,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge21/preview
+noc25_ge22,Multidisciplinary,Nanobio Technology Enabled Point-of-Care Devices,Prof. Gorachand Dutta,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge22/preview
+noc25_ge23,Multidisciplinary,NBA Accreditation and Teaching and learning in Engineering (NATE),"Prof. N J Rao
+Prof. K Rajanikanth",IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge23/preview
+noc25_ge24,Multidisciplinary,Non-conventional energy Resources,Prof. Prathap Haridoss,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge24/preview
+noc25_ge25,Multidisciplinary,One Health,Multi Faculty,"ICMR - Regional Medical Research Centre, Bhubaneswar",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge25/preview
+noc25_ge26,Multidisciplinary,Oral Biology,Prof. Ramya and Team,Saveetha Dental College & IITM,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge26/preview
+noc25_ge27,Multidisciplinary,Qualitative Research Methods and Research Writing,Prof. Aradhna Malik,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge27/preview
+noc25_ge28,Multidisciplinary,Research Methodology,"Prof. Edamana Prasad
+Prof. Prathap Haridoss",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge28/preview
+noc25_ge29,Multidisciplinary,Research Methodology in Natural Sciences,Prof. Soumitro Banerjee,IISER Kolkata,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge29/preview
+noc25_ge30,Multidisciplinary,Roadmap for patent creation,Prof. Gouri Gargate,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge30/preview
+noc25_ge31,Multidisciplinary,Rural Water Resources Management,Prof. Pennan Chinnasamy,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge31/preview
+noc25_ge32,Multidisciplinary,Sustainable Mining and Geoinformation,"Prof. B. K. Prusty
+Prof. M. D. Behera",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge32/preview
+noc25_ge33,Multidisciplinary,Teaching And Learning in Engineering (TALE),Prof. N J Rao,IISc Bangalore,IISc Bangalore,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge33/preview
+noc25_ge34,Multidisciplinary,An Introduction to Urban Ecological Heritage: Theories and Applications,Prof. Jenia Mukherjee,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge34/preview
+noc25_ge35,Multidisciplinary,Experimental Robotics,Prof. Dilip Kumar Pratihar,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge35/preview
+noc25_ge36,Multidisciplinary,Medical Law,"Prof. Chaitanya Mittal
+Prof. Narendran Thiruthy",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge36/preview
+noc25_ge37,Multidisciplinary,Outcome based pedagogic principles for effective teaching,Prof. Shyamal Kumar Das Mandal,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge37/preview
+noc25_ge38,Multidisciplinary,Pulmonary Function tests - Interpretation and application in clinical practice,Multifaculty,Chettinad Hospital and Research Institute,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge38/preview
+noc25_ge39,Multidisciplinary,Recommender Systems,Prof. Mamata Jenamani,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge39/preview
+noc25_ge40,Multidisciplinary,Vulnerability Studies: An Introduction,Prof. Pramod K Nayar,University of Hyderabad,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge40/preview
+noc25_ge41,Multidisciplinary,Local Anaesthesia in Dentistry,"Prof. Ramakrishna Shenoi
+Prof. Bhagawan Das Rai
+Prof. Ashi Chug
+Prof. Madan Mishra
+Prof. Sneha
+Prof. S. Jimson
+Prof. Kannan Balaraman
+Prof. Sobhan Mishra",Multi-Institute,IIT Madras,8 weeks,https://onlinecourses.nptel.ac.in/noc25_ge41/preview
+noc25_ge06,"Multidisciplinary, Palliative Care",Certificate in Integrative Palliative Care - 3,"Prof. Piyush Gupta
+Prof. Geeta Joshi
+Prof. Yashavant Joshi","International Institute of Distance Learning, An Initiative of NAPCAIM",IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ge06/preview
+noc25_oe01,Ocean Engineering,Advanced design of steel structures,Prof. Srinivasan Chandrasekaran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_oe01/preview
+noc25_oe02,Ocean Engineering,Offshore Structures Under Special Environmental Loads Including Fire Resistance,Prof. Srinivasan Chandrasekaran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_oe02/preview
+noc25_oe04,Ocean Engineering,Surface Facilities for Oil and Gas Handling,Prof. Abdus Samad,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_oe04/preview
+noc25_oe03,Ocean Engineering and Naval Architecture,Seakeeping of Ships and Offshore Structures,Prof. Ranadev Datta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_oe03/preview
+noc25_bt44,"Physical / Chemical / Life sciences, any relevant engineering disciplines Biotechnology, Biomedical engineering, Nanotechnology, Chemical engineering, Polymer engineering, or equivalent Pharma / Medical students,",Experimental Nanobiotechnology,Prof. P.Gopinath,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_bt44/preview
+noc25_ph01,Physics,A Brief Course On Superconductivity,Prof. Saurabh Basu,IIT Guwahati,IIT Guwahati,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph01/preview
+noc25_ph02,Physics,Advanced NMR Techniques in Solution and Solid-State,Prof. N. Suryaprakash,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph02/preview
+noc25_ph03,Physics,An Introduction to Lasers and Laser Systems,"Prof. Dhruba J. Biswas
+Prof. J. Padma Nilaya",IIT Bombay-Homi Bhabha National Institute(HBNI),IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph03/preview
+noc25_ph04,Physics,Atomic And Molecular Physics,Prof. Amal Kumar Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph04/preview
+noc25_ph06,Physics,Electronic Theory of Solids,Prof. Arghya Taraphder,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph06/preview
+noc25_ph07,Physics,Elements of Modern Physics,Prof. Saurabh Basu,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph07/preview
+noc25_ph08,Physics,Experimental Physics - II,Prof. Amal Kumar Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph08/preview
+noc25_ph09,Physics,Fluid Dynamics for Astrophysics,Prof. Prasad Subramanian,IISER Pune,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph09/preview
+noc25_ph10,Physics,Foundations of quantum theory: Relativistic approach,Prof. Kinjalk Lochan,IISER Mohali,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph10/preview
+noc25_ph11,Physics,Fundamentals of Attosecond Science and Technology (FAST),Prof. Sivarama Krishnan,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph11/preview
+noc25_ph12,Physics,Group Theory methods in Physics,Prof. P. Ramadevi,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph12/preview
+noc25_ph13,Physics,Introduction to Atmospheric and Space Sciences,Prof. M V Sunil Krishna,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph13/preview
+noc25_ph14,Physics,Introduction To Statistical Mechanics,Prof. Girish S. Setlur,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph14/preview
+noc25_ph15,Physics,Mathematical Methods in Physics 1,Prof. Auditya Sharma,IISER Bhopal,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph15/preview
+noc25_ph16,Physics,Nuclear Astrophysics,Prof. Anil Kumar Gourishetty,IIT Roorkee,IIT Roorkee,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph16/preview
+noc25_ph17,Physics,Particle Physics and the Standard Model,Prof. Nirmal Raj,IISc Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph17/preview
+noc25_ph18,Physics,Physics of Biological Systems,Prof. Mithun Mitra,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph18/preview
+noc25_ph19,Physics,Physics of Linear And Nonlinear Optical Waveguides,Prof. Samudra Roy,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph19/preview
+noc25_ph20,Physics,Physics through Computational Thinking,Prof. Auditya Sharma,IISER Bhopal,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph20/preview
+noc25_ph21,Physics,Plasma Physics and Applications,Prof. M.V. Sunil Krishna,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph21/preview
+noc25_ph22,Physics,Quantum Mechanics I,Prof. P. Ramadevi,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph22/preview
+noc25_ph23,Physics,Quantum Transport,Prof. Madhu Thalakulam,IISER Thiruvananthapuram,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph23/preview
+noc25_ph24,Physics,Statistical Mechanics,Prof. Dipanjan Chakraborty,IISER Mohali,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph24/preview
+noc25_ph25,Physics,"Tapestry of Field theory: Classical & Quantum, Equilibrium & Nonequilibrium Perspectives",Prof. Mahendra K. Verma,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph25/preview
+noc25_ph27,Physics,Thermal physics,Prof. Debamalya Banerjee,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph27/preview
+noc25_ph28,Physics,"Quantum Entanglement: Fundamentals, measures and applications",Prof. Amarendra Kumar Sarma,IIT Guwahati,IIT Guwahati,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph28/preview
+noc25_ph29,Physics,Topology and Condensed Matter Physics,Prof. Saurabh Basu,IIT Guwahati,IIT Guwahati,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph29/preview
+noc25_ph26,Physics / Engineering,The Science of Light Amplification: An Extensive Laser course,Prof. Paramita Deb,Bhabha Atomic Research Centre(BARC)-IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ph26/preview
+noc25_cs55,Science and Engineering,Practical High-Performance Computing,Prof. Mahendra Verma,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs55/preview
+noc25_hs53,Sports (Cricket Specialization),Level-O Certificate Course in Cricket Coaching,Prof. Abhijit Thander,Visva-Bharati,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs53/preview
+noc25_hs22,Sports Biomechanics,Exercise and Sports Biomechanics,"Prof. Viswanath Sundar
+Prof. P.Rajinikumar
+Prof. Rahul Tiwari",Visva-Bharati,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_hs22/preview
+noc25_te01,Textile Engineering,Advanced Textile Printing Technology,Prof. Kushal Sen,IIT Delhi,IIT Delhi,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_te01/preview
+noc25_te02,Textile Engineering,Evaluation of Textiles Materials,Prof. Apurba Das,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_te02/preview
+noc25_te04,Textile Engineering,Testing of Functional and Technical Textiles,Prof. Apurba Das,IIT Delhi,IIT Delhi,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_te04/preview
+noc25_te05,Textile Engineering,Textile Product Design and Development,Prof. R Chattopadhyay,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_te05/preview
+noc25_te06,Textile Engineering,Textured Yarn Technology,Prof. Kushal Sen,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_te06/preview
+noc25_te07,Textile Engineering,Theory of Yarn Structure,Prof. Dipayan Das,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_te07/preview
+noc25_te03,Textile Technology,New Spinning Technologies,Prof. R Chattopadhyay,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_te03/preview
