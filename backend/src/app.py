@@ -19,6 +19,7 @@ import uvicorn
 from fastapi.responses import JSONResponse
 import os
 import shutil
+from utils.generate_paper import TutorVisionAPI
 
 UPLOAD_DIR = "artifacts/question_papers"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
@@ -199,11 +200,37 @@ async def upload_question_paper(
         threshold_path = os.path.join(UPLOAD_DIR, "threshold.txt")
         with open(threshold_path, "w") as f:
             f.write(str(threshold))
-
+        tutor = TutorVisionAPI()
+        result = tutor.process_with_api()
+        if result.get('success'):
+            summary = result.get('summary', {})
+        
+            print(f"\n SUCCESS!")
+            print(f"\n SUMMARY:")
+            print(f"  Total: {summary.get('total_questions', 0)}")
+            print(f"  Curated: {summary.get('curated_count', 0)}")
+            print(f"  AI-Generated: {summary.get('ai_generated_count', 0)}")
+            
+            print(f"\n CURATED QUESTIONS:")
+            for q in result.get('curated_questions', [])[:3]:
+                print(f"\nQ{q['number']}. {q['question'][:100]}...")
+                print(f"   {q['frequency']}x | {q['years_appeared']} | {q['importance_score']}%")
+            
+            print(f"\n AI-GENERATED:")
+            for q in result.get('ai_generated_questions', [])[:3]:
+                print(f"\nQ{q['number']}. {q['question'][:100]}...")
+                print(f" {q['syllabus_topic']}")
+            
+            tutor.save_output()
+        
+        else:
+            print(f"\nError: {result.get('error')}")
+        
+        print("\n" + "="*70)
         return JSONResponse(content={
-            "message": "Question papers uploaded successfully!",
-            "saved_files": saved_files,
-            "threshold": threshold
+                "message": "Question papers uploaded successfully!",
+                "saved_files": saved_files,
+                "threshold": threshold
         })
 
     except Exception as e:

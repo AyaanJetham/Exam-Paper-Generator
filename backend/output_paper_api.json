@@ -1,0 +1,189 @@
+{
+  "analysis": {
+    "total_questions_found": 25,
+    "unique_question_groups": 20,
+    "papers_analyzed": [
+      {
+        "filename": "BE-Comps_SEM7_CSS_MAY19.pdf",
+        "year": 2019,
+        "questions_extracted": 15
+      },
+      {
+        "filename": "BE-Comps_SEM7_CSS_MAY18.pdf",
+        "year": 2018,
+        "questions_extracted": 10
+      }
+    ]
+  },
+  "curated_questions": [
+    {
+      "number": 1,
+      "question": "What is the purpose of S-boxes in DES? Explain the avalanche effect?",
+      "frequency": 2,
+      "years_appeared": [
+        2018,
+        2019
+      ],
+      "importance_score": 80,
+      "marks": 5
+    },
+    {
+      "number": 2,
+      "question": "Explain Kerberos protocol that supports authentication in distributed system.",
+      "frequency": 2,
+      "years_appeared": [
+        2018,
+        2019
+      ],
+      "importance_score": 85,
+      "marks": 10
+    },
+    {
+      "number": 3,
+      "question": "What characteristics are needed in secure hash function? Explain the operation of secure hash algorithm on 512 bit block.",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 70,
+      "marks": 10
+    },
+    {
+      "number": 4,
+      "question": "Why E-commerce transactions need security? Which tasks are performed by payment gateway in E-commerce transaction? Explain the SET (Secure Electronic Transaction) protocol.",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 75,
+      "marks": 10
+    },
+    {
+      "number": 5,
+      "question": "How can we achieve web security? Explain with example.",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 65,
+      "marks": 10
+    },
+    {
+      "number": 6,
+      "question": "Use Hill cipher to encrypt the text 'short'. The key to be used is 'hill'.",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 60,
+      "marks": 10
+    }
+  ],
+  "ai_generated_questions": [
+    {
+      "number": 1,
+      "question": "What are the different types of attacks on encrypted messages?",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 2,
+      "question": "Explain the need for message authentication and list various techniques used for message authentication.",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 3,
+      "question": "Describe the public key distribution scenario and explain the key distribution scenario.",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 4,
+      "question": "What is the private key of a user in RSA system given the public key e=7 & n=187?",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 5,
+      "question": "Elaborate various kinds of attacks on RSA algorithm?",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 6,
+      "question": "What is the role of segmentation and reassembly function in PGP?",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "easy",
+      "marks": 5
+    },
+    {
+      "number": 7,
+      "question": "List and explain various types of attacks on encrypted message.",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "number": 8,
+      "question": "Explain the operation of secure hash algorithm on 512 bit block.",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 9,
+      "question": "What are the tasks performed by payment gateway in E-commerce transaction?",
+      "syllabus_topic": "E-commerce Security",
+      "difficulty": "easy",
+      "marks": 5
+    },
+    {
+      "number": 10,
+      "question": "Explain the SET (Secure Electronic Transaction) protocol.",
+      "syllabus_topic": "E-commerce Security",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 11,
+      "question": "How can we achieve web security?",
+      "syllabus_topic": "Web Security",
+      "difficulty": "easy",
+      "marks": 5
+    },
+    {
+      "number": 12,
+      "question": "Explain web security with an example.",
+      "syllabus_topic": "Web Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 13,
+      "question": "What is the need for message authentication?",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "easy",
+      "marks": 5
+    },
+    {
+      "number": 14,
+      "question": "List various techniques used for message authentication.",
+      "syllabus_topic": "Cryptography",
+      "difficulty": "medium",
+      "marks": 5
+    }
+  ],
+  "summary": {
+    "threshold_used": 30,
+    "curated_count": 6,
+    "ai_generated_count": 14,
+    "total_questions": 20
+  },
+  "success": true
+}

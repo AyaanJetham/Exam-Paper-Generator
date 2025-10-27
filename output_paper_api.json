@@ -1,0 +1,189 @@
+{
+  "analysis": {
+    "total_questions_found": 25,
+    "unique_question_groups": 20,
+    "papers_analyzed": [
+      {
+        "filename": "BE-Comps_SEM7_CSS_MAY19.pdf",
+        "year": 2019,
+        "questions_extracted": 15
+      },
+      {
+        "filename": "BE-Comps_SEM7_CSS_MAY18.pdf",
+        "year": 2018,
+        "questions_extracted": 10
+      }
+    ]
+  },
+  "curated_questions": [
+    {
+      "number": 1,
+      "question": "What is the purpose of S-boxes in DES? Explain the avalanche effect?",
+      "frequency": 2,
+      "years_appeared": [
+        2018,
+        2019
+      ],
+      "importance_score": 85.5,
+      "marks": 5
+    },
+    {
+      "number": 2,
+      "question": "Give examples of replay attacks. List three general approaches for dealing with replay attacks.",
+      "frequency": 2,
+      "years_appeared": [
+        2018,
+        2019
+      ],
+      "importance_score": 80,
+      "marks": 5
+    },
+    {
+      "number": 3,
+      "question": "Why is the segmentation and reassembly function in PGP(Pretty Good Privacy) needed?",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 60,
+      "marks": 5
+    },
+    {
+      "number": 4,
+      "question": "List and explain various types of attacks on encrypted message.",
+      "frequency": 1,
+      "years_appeared": [
+        2019
+      ],
+      "importance_score": 55,
+      "marks": 5
+    },
+    {
+      "number": 5,
+      "question": "What is the need for message authentication? List various techniques used for message authentication. Explain any one.",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 70,
+      "marks": 10
+    },
+    {
+      "number": 6,
+      "question": "Explain Kerberos protocol that supports authentication in distributed system.",
+      "frequency": 1,
+      "years_appeared": [
+        2018
+      ],
+      "importance_score": 65,
+      "marks": 10
+    }
+  ],
+  "ai_generated_questions": [
+    {
+      "number": 1,
+      "question": "What are the different types of cyber attacks and how can they be prevented?",
+      "syllabus_topic": "Introduction to AI and Cyber Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 2,
+      "question": "Explain the working of a secure hash function and its applications.",
+      "syllabus_topic": "Cryptography and System Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 3,
+      "question": "Describe the process of key distribution and management in a network.",
+      "syllabus_topic": "Cryptography and System Security",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 4,
+      "question": "What is the role of a payment gateway in e-commerce transactions and how does it ensure security?",
+      "syllabus_topic": "E-commerce and Web Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 5,
+      "question": "Explain the concept of digital signatures and their use in cryptography.",
+      "syllabus_topic": "Cryptography and System Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 6,
+      "question": "Describe the SET (Secure Electronic Transaction) protocol and its working.",
+      "syllabus_topic": "E-commerce and Web Security",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 7,
+      "question": "What are the different types of attacks on RSA algorithm and how can they be prevented?",
+      "syllabus_topic": "Cryptography and System Security",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 8,
+      "question": "Explain the process of web security and its importance in e-commerce.",
+      "syllabus_topic": "E-commerce and Web Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 9,
+      "question": "Describe the Hill cipher and its application in cryptography.",
+      "syllabus_topic": "Cryptography and System Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 10,
+      "question": "What are the different types of machine learning algorithms and their applications?",
+      "syllabus_topic": "Machine Learning Basics",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 11,
+      "question": "Explain the concept of natural language processing and its applications.",
+      "syllabus_topic": "Advanced AI Topics",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 12,
+      "question": "Describe the process of computer vision and its applications.",
+      "syllabus_topic": "Advanced AI Topics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "number": 13,
+      "question": "What are the ethical considerations in AI and their importance?",
+      "syllabus_topic": "Introduction to AI and Cyber Security",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "number": 14,
+      "question": "Explain the concept of artificial intelligence and its applications.",
+      "syllabus_topic": "Introduction to AI and Cyber Security",
+      "difficulty": "medium",
+      "marks": 10
+    }
+  ],
+  "summary": {
+    "threshold_used": 30,
+    "curated_count": 6,
+    "ai_generated_count": 14,
+    "total_questions": 20
+  },
+  "success": true
+}

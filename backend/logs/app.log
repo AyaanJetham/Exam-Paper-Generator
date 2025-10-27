@@ -3666,3 +3666,198 @@ System Security
 2025-10-12 20:39:10,100 - INFO - Similarity Computed!
 2025-10-12 20:39:10,125 - INFO - Courses are ready to display!
 2025-10-12 20:39:10,126 - INFO - Courses: [{'id': 'noc25_cs31', 'title': 'Foundations of Cryptography', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs31/preview', 'similarity': 0.6985818147659302}, {'id': 'noc25_cs68', 'title': 'Systems and Usable Security', 'instructors': 'Prof. Neminath Hubballi', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs68/preview', 'similarity': 0.6691710352897644}, {'id': 'noc25_cs16', 'title': 'Cryptography and Network Security', 'instructors': 'Prof. Sourav Mukhopadhyay', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs16/preview', 'similarity': 0.6248016953468323}, {'id': 'noc25_ee54', 'title': 'Network Security', 'instructors': 'Prof. Gaurav S. Kasbekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee54/preview', 'similarity': 0.5913159847259521}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.5740447044372559}, {'id': 'noc25_cs08', 'title': 'Blockchain and its Applications', 'instructors': 'Prof. Sandip Chakraborty\nProf. Shamik Sural', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs08/preview', 'similarity': 0.5309274196624756}, {'id': 'noc25_cs15', 'title': 'Computer Networks And Internet Protocol', 'instructors': 'Prof. Soumya Kanti Ghosh\nProf. Sandip Chakraborty', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs15/preview', 'similarity': 0.4795202910900116}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.44016721844673157}]
+2025-10-14 00:48:52,852 - INFO - Extracted Content: Module 
+ 
+Content 
+Hrs
+1 
+ 
+Introduction to Networking 
+4 
+ 
+1.1 Introduction  to   computer   network,   network  application,   network 
+software and hardware components (Interconnection networking devices), 
+Network topology, protocol hierarchies, design issues for the layers, 
+connection oriented and connectionless  services 
+ 
+ 
+1.2 Reference models:  Layer details of OSI, TCP/IP models. Communication 
+between layers. 
+ 
+2 
+ 
+Physical Layer 
+3 
+ 
+2.1 Introduction to Communication Electromagnetic Spectrum 
+ 
+ 
+2.2 Guided Transmission Media: Twisted pair, Coaxial, Fiber optics.  
+ 
+3 
+ 
+Data Link Layer 
+8 
+ 
+3.1 DLL Design Issues (Services, Framing, Error Control, Flow Control),
+Error Detection and Correction(Hamming Code, CRC, Checksum) , 
+Elementary Data Link protocols , Stop and Wait, Sliding Window(Go
+Back N, Selective Repeat) 
+ 
+ 
+ 
+3.2
+Medium Access Control sublayer 
+Channel Allocation problem, Multiple access Protocol( Aloha, Carrier
+Sense Multiple Access (CSMA/CD) 
+ 
+4 
+ 
+Network layer 
+12 
+ 
+4.1 Network Layer design issues, Communication Primitives: Unicast,
+Multicast, 
+Broadcast. 
+IPv4 
+Addressing 
+(classfull 
+and 
+classless),
+Subnetting, Supernetting design problems ,IPv4 Protocol, Network
+Address Translation (NAT), IPv6 
+ 
+ 
+ 
+4.2
+Routing algorithms : Shortest Path 
+ Link state routing, 
+Distance Vector Routing 
+ 
+ 
+4.3 Protocols - ARP,RARP, ICMP, IGMP 
+ 
+ 
+4.4 Congestion control algorithms: Open loop congestion control, Closed
+loop congestion control, QoS parameters, Token & Leaky bucket algorithms
+5 
+ 
+Transport Layer 
+6 
+ 
+5.1 The Transport Service: Transport service primitives, Berkeley Sockets,
+Connection management (Handshake), UDP, TCP, TCP state transition,
+TCP timers 
+ 
+ 
+5.2 TCP Flow control (sliding Window), TCP Congestion Control: Slow Start
+ 
+6 
+ 
+Application Layer 
+6 
+ 
+6.1 DNS: Name Space, Resource Record and Types of Name Server.  HTTP,
+SMTP, Telnet, FTP, DHCP
+2025-10-14 00:48:52,993 - INFO - After preprocessing: module content hrs introduction network computer application software hardware component interconnection networking device topology protocol hierarchy design issue layer connection orient connectionless service reference model detail osi tcp ip communication physical electromagnetic spectrum guide transmission medium twisted pair coaxial fiber optic datum link dll framing error control flow detection code crc checksum elementary data stop wait slide n selective repeat access sublayer channel allocation problem multiple aloha carrier sense csma cd primitive unicast multicast broadcast address classfull classless subnette supernette translation nat routing algorithm short path state distance vector route arp rarp icmp igmp congestion open loop closed qos parameter token leaky bucket transport berkeley socket management handshake udp transition timer window slow start dns space resource record type server http smtp telnet ftp dhcp
+2025-10-14 00:48:53,010 - INFO - Query being searched: window wait vector unicast udp type twisted transport transmission translation
+2025-10-14 00:48:53,737 - INFO - Results are ready!
+2025-10-14 00:48:53,737 - INFO - Results: [{'title': 'COMPUTER NETWORKS (R20A0510)', 'link': 'https://mrcet.com/downloads/digital_notes/ECE/III%20Year/05082022/Computer%20Networks.pdf', 'snippet': 'UNIT IV: Network Layer: Logical addressing, internetworking, tunneling, address mapping, ICMP, IGMP,. Forwarding, Unicast routing protocols, multicast routing\xa0...', 'relevance_score': 0.137801283752715}, {'title': 'Andrew S. Tanenbaum - Computer Networks.', 'link': 'https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf', 'snippet': '... TRANSMISSION MEDIA, 95. 2.2.1 Magnetic Media, 95. 2.2.2 Twisted Pairs, 96. 2.2 ... Wait Protocol for an Error-Free Channel, 221. 3.3.3 A Simplex Stop-and\xa0...', 'relevance_score': 0.08435967220802526}, {'title': "RFC 1983 - Internet Users' Glossary", 'link': 'https://datatracker.ietf.org/doc/rfc1983/', 'snippet': 'Jul 29, 2025 ... twisted pair A type of cable in which pairs of conductors are ... [Source: NWNET] User Datagram Protocol (UDP) An Internet Standard transport\xa0...', 'relevance_score': 0.06776175043439159}, {'title': 'COMPUTER NETWORKS [R15A0513] LECTURE NOTES MALLA ...', 'link': 'https://mrcet.com/downloads/digital_notes/CSE/III%20Year/COMPUTER%20NETWORKS%20NOTES.pdf', 'snippet': 'The performance of a network depends on a number of factors, including the number of users, the type of transmission medium, the ... not wait for the window to be\xa0...', 'relevance_score': 0.05004943518918044}, {'title': 'Network+ Practice Test B Flashcards | Quizlet', 'link': 'https://quizlet.com/578800040/network-practice-test-b-flash-cards/', 'snippet': 'BGP is a path-vector routing protocol, meaning that it can use as its metric the number of autonomous system hops that must be transited to reach a destination\xa0...', 'relevance_score': 0.04754907228723305}, {'title': "AXIS 214 PTZ Network Camera User's Manual", 'link': 'https://www.axis.com/dam/public/21/79/57/axis-214-ptz--users-manual-en-US-37630.pdf', 'snippet': 'Unicast RTP. This unicast method (RTP over UDP) should be your ... a) For AMC: Check the radio button Configure Include Windows to set the type of window.', 'relevance_score': 0.044928024063026095}, {'title': 'Intel Ethernet Adapters and Devices User Guide', 'link': 'https://dl.dell.com/manuals/all-products/esuprt_data_center_infra_int/esuprt_data_center_infra_network_adapters/intel-pro-adapters_users-guide_en-us.pdf', 'snippet': 'gnostics window displays tabs for each type of test. Click the appropriate ... Transmission Mode/Connector Twisted copper/RJ-45. Cabling. 1000Base-T\xa0...', 'relevance_score': 0.03567867951749149}, {'title': 'sockets - Python send UDP packet - Stack Overflow', 'link': 'https://stackoverflow.com/questions/18743962/python-send-udp-packet', 'snippet': 'Sep 11, 2013 ... I am trying to write a program to send UDP packets, as in ... window first so it is waiting for the message. Share. Share a link to\xa0...', 'relevance_score': 0.02831196165861952}, {'title': 'Untitled', 'link': 'https://www.rfc-editor.org/rfc/rfc1983.txt', 'snippet': 'See also: gateway, router. Malkin Informational [Page 9] RFC 1983 Glossary August 1996 broadband A transmission medium capable of supporting a wide range of\xa0...', 'relevance_score': 0.020004709600505134}, {'title': 'Networking Fundamentals, Exam 98-366', 'link': 'https://fti.uajy.ac.id/wp-content/uploads/2018/02/Networking-Fundamentals.pdf', 'snippet': 'No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photocopying,\xa0...', 'relevance_score': 0.0}]
+2025-10-14 00:49:17,118 - INFO - Extracted Content: Module 
+ 
+Content 
+Hrs
+1 
+ 
+Introduction to Networking 
+4 
+ 
+1.1 Introduction  to   computer   network,   network  application,   network 
+software and hardware components (Interconnection networking devices), 
+Network topology, protocol hierarchies, design issues for the layers, 
+connection oriented and connectionless  services 
+ 
+ 
+1.2 Reference models:  Layer details of OSI, TCP/IP models. Communication 
+between layers. 
+ 
+2 
+ 
+Physical Layer 
+3 
+ 
+2.1 Introduction to Communication Electromagnetic Spectrum 
+ 
+ 
+2.2 Guided Transmission Media: Twisted pair, Coaxial, Fiber optics.  
+ 
+3 
+ 
+Data Link Layer 
+8 
+ 
+3.1 DLL Design Issues (Services, Framing, Error Control, Flow Control),
+Error Detection and Correction(Hamming Code, CRC, Checksum) , 
+Elementary Data Link protocols , Stop and Wait, Sliding Window(Go
+Back N, Selective Repeat) 
+ 
+ 
+ 
+3.2
+Medium Access Control sublayer 
+Channel Allocation problem, Multiple access Protocol( Aloha, Carrier
+Sense Multiple Access (CSMA/CD) 
+ 
+4 
+ 
+Network layer 
+12 
+ 
+4.1 Network Layer design issues, Communication Primitives: Unicast,
+Multicast, 
+Broadcast. 
+IPv4 
+Addressing 
+(classfull 
+and 
+classless),
+Subnetting, Supernetting design problems ,IPv4 Protocol, Network
+Address Translation (NAT), IPv6 
+ 
+ 
+ 
+4.2
+Routing algorithms : Shortest Path 
+ Link state routing, 
+Distance Vector Routing 
+ 
+ 
+4.3 Protocols - ARP,RARP, ICMP, IGMP 
+ 
+ 
+4.4 Congestion control algorithms: Open loop congestion control, Closed
+loop congestion control, QoS parameters, Token & Leaky bucket algorithms
+5 
+ 
+Transport Layer 
+6 
+ 
+5.1 The Transport Service: Transport service primitives, Berkeley Sockets,
+Connection management (Handshake), UDP, TCP, TCP state transition,
+TCP timers 
+ 
+ 
+5.2 TCP Flow control (sliding Window), TCP Congestion Control: Slow Start
+ 
+6 
+ 
+Application Layer 
+6 
+ 
+6.1 DNS: Name Space, Resource Record and Types of Name Server.  HTTP,
+SMTP, Telnet, FTP, DHCP
+2025-10-14 00:49:17,178 - INFO - After preprocessing: module content hrs introduction network computer application software hardware component interconnection networking device topology protocol hierarchy design issue layer connection orient connectionless service reference model detail osi tcp ip communication physical electromagnetic spectrum guide transmission medium twisted pair coaxial fiber optic datum link dll framing error control flow detection code crc checksum elementary data stop wait slide n selective repeat access sublayer channel allocation problem multiple aloha carrier sense csma cd primitive unicast multicast broadcast address classfull classless subnette supernette translation nat routing algorithm short path state distance vector route arp rarp icmp igmp congestion open loop closed qos parameter token leaky bucket transport berkeley socket management handshake udp transition timer window slow start dns space resource record type server http smtp telnet ftp dhcp
+2025-10-14 00:51:05,528 - INFO - Emebeddings Created!
+2025-10-14 00:51:05,761 - INFO - Similarity Computed!
+2025-10-14 00:51:05,871 - INFO - Courses are ready to display!
+2025-10-14 00:51:05,871 - INFO - Courses: [{'id': 'noc25_cs15', 'title': 'Computer Networks And Internet Protocol', 'instructors': 'Prof. Soumya Kanti Ghosh\nProf. Sandip Chakraborty', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs15/preview', 'similarity': 0.6541401743888855}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.6093361377716064}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5236587524414062}, {'id': 'noc25_ee12', 'title': 'Communication Networks', 'instructors': 'Prof. Goutam Das', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee12/preview', 'similarity': 0.5195572972297668}, {'id': 'noc25_ee54', 'title': 'Network Security', 'instructors': 'Prof. Gaurav S. Kasbekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee54/preview', 'similarity': 0.5086380243301392}, {'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.5038281083106995}, {'id': 'noc25_cs44', 'title': 'Introduction To Internet Of Things', 'instructors': 'Prof. Sudip Misra', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs44/preview', 'similarity': 0.45512282848358154}, {'id': 'noc25_ee80', 'title': 'Spread Spectrum Communications And Jamming', 'instructors': 'Prof. Debarati Sen', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee80/preview', 'similarity': 0.44922178983688354}]
