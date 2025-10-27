@@ -19,7 +19,7 @@ class TutorVisionAPI:
         
         self.use_service = "groq"  
         
-        self.groq_api_key = "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"
+        self.groq_api_key = ""
         self.hf_api_key = os.environ.get("HF_API_KEY", "")
         
         print(f"\n Using API Service: {self.use_service.upper()}")
