@@ -163,7 +163,7 @@ Before you begin, ensure you have the following installed:
 UPLOAD_DIR=artifacts/question_papers
 LOG_LEVEL=INFO
 CORS_ORIGINS=http://localhost:5173
-```
+
 
 ### Backend Configuration Files
 
@@ -355,25 +355,6 @@ Display Results & Resources
 - `Results.tsx` - Displays matching courses
 - `Resources.tsx` - Shows learning resources
 - `SetQuestionPaper.tsx` - Question paper generation interface
-
-## Troubleshooting
-
-### Common Issues
-
-**Issue: "Module not found" error**
-- Solution: Ensure all dependencies are installed with `pip install -r requirements.txt`
-
-**Issue: CORS errors**
-- Solution: Check CORS configuration in `app.py` and ensure frontend URL is allowed
-
-**Issue: PDF extraction fails**
-- Solution: Ensure PyMuPDF is properly installed and the PDF is valid
-
-**Issue: Missing data files**
-- Solution: Run data preprocessing notebooks in `backend/notebooks/`
-
-**Issue: Slow embedding generation**
-- Solution: This is normal for large datasets. First run will cache embeddings in `artifacts/`
 
 ## Contributing
 
