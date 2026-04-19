@@ -3861,3 +3861,2127 @@ SMTP, Telnet, FTP, DHCP
 2025-10-14 00:51:05,761 - INFO - Similarity Computed!
 2025-10-14 00:51:05,871 - INFO - Courses are ready to display!
 2025-10-14 00:51:05,871 - INFO - Courses: [{'id': 'noc25_cs15', 'title': 'Computer Networks And Internet Protocol', 'instructors': 'Prof. Soumya Kanti Ghosh\nProf. Sandip Chakraborty', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs15/preview', 'similarity': 0.6541401743888855}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.6093361377716064}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5236587524414062}, {'id': 'noc25_ee12', 'title': 'Communication Networks', 'instructors': 'Prof. Goutam Das', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee12/preview', 'similarity': 0.5195572972297668}, {'id': 'noc25_ee54', 'title': 'Network Security', 'instructors': 'Prof. Gaurav S. Kasbekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee54/preview', 'similarity': 0.5086380243301392}, {'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.5038281083106995}, {'id': 'noc25_cs44', 'title': 'Introduction To Internet Of Things', 'instructors': 'Prof. Sudip Misra', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs44/preview', 'similarity': 0.45512282848358154}, {'id': 'noc25_ee80', 'title': 'Spread Spectrum Communications And Jamming', 'instructors': 'Prof. Debarati Sen', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee80/preview', 'similarity': 0.44922178983688354}]
+2026-04-13 20:56:49,932 - INFO - Extracted Content: 
+2026-04-13 20:56:49,936 - INFO - After preprocessing: 
+2026-04-13 20:56:53,368 - INFO - Extracted Content: 
+2026-04-13 20:56:53,369 - INFO - After preprocessing: 
+2026-04-13 20:57:45,781 - INFO - Emebeddings Created!
+2026-04-13 20:57:45,817 - INFO - Similarity Computed!
+2026-04-13 20:57:45,828 - INFO - Courses are ready to display!
+2026-04-13 20:57:45,828 - INFO - Courses: [{'id': 'noc25_ag01', 'title': 'Basics of Crop Breeding and Plant Biotechnology', 'instructors': 'Prof. Joydeep Banerjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ag01/preview', 'similarity': 1.0}, {'id': 'noc25_mg29', 'title': 'Integrated Marketing Communication', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg29/preview', 'similarity': 0.1926453411579132}, {'id': 'noc25_mg68', 'title': 'Marketing Management - II', 'instructors': 'Prof.Jayanta Chatterjee\nProf. Shashi Shekhar Mishra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg68/preview', 'similarity': 0.18397046625614166}, {'id': 'noc25_mg43', 'title': 'Management of New Products and Services', 'instructors': 'Prof. Jayanta Chatterjee', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg43/preview', 'similarity': 0.18008804321289062}, {'id': 'noc25_cs69', 'title': 'The Joy of Computing using Python', 'instructors': 'Prof. Sudarshan Iyengar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs69/preview', 'similarity': 0.17800873517990112}, {'id': 'noc25_ee44', 'title': 'Integrated Circuits, Mosfets, OP-Amps and their Applications', 'instructors': 'Prof. Hardik Jeetendra Pandya', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee44/preview', 'similarity': 0.17139506340026855}, {'id': 'noc25_mg45', 'title': 'Marketing Analytics', 'instructors': 'Prof. Swagato Chatterjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg45/preview', 'similarity': 0.16919264197349548}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.15930524468421936}]
+2026-04-13 21:20:39,084 - INFO - Extracted Content: 
+2026-04-13 21:20:39,085 - INFO - After preprocessing: 
+2026-04-13 23:34:17,528 - INFO - Extracted Content: 
+2026-04-13 23:34:17,528 - INFO - After preprocessing: 
+2026-04-13 23:35:18,328 - INFO - Emebeddings Created!
+2026-04-13 23:35:18,409 - INFO - Similarity Computed!
+2026-04-13 23:35:18,425 - INFO - Courses are ready to display!
+2026-04-13 23:35:18,426 - INFO - Courses: [{'id': 'noc25_ag01', 'title': 'Basics of Crop Breeding and Plant Biotechnology', 'instructors': 'Prof. Joydeep Banerjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ag01/preview', 'similarity': 1.0}, {'id': 'noc25_mg29', 'title': 'Integrated Marketing Communication', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg29/preview', 'similarity': 0.1926453411579132}, {'id': 'noc25_mg68', 'title': 'Marketing Management - II', 'instructors': 'Prof.Jayanta Chatterjee\nProf. Shashi Shekhar Mishra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg68/preview', 'similarity': 0.18397046625614166}, {'id': 'noc25_mg43', 'title': 'Management of New Products and Services', 'instructors': 'Prof. Jayanta Chatterjee', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg43/preview', 'similarity': 0.18008804321289062}, {'id': 'noc25_cs69', 'title': 'The Joy of Computing using Python', 'instructors': 'Prof. Sudarshan Iyengar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs69/preview', 'similarity': 0.17800873517990112}, {'id': 'noc25_ee44', 'title': 'Integrated Circuits, Mosfets, OP-Amps and their Applications', 'instructors': 'Prof. Hardik Jeetendra Pandya', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee44/preview', 'similarity': 0.17139506340026855}, {'id': 'noc25_mg45', 'title': 'Marketing Analytics', 'instructors': 'Prof. Swagato Chatterjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg45/preview', 'similarity': 0.16919264197349548}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.15930524468421936}]
+2026-04-13 23:35:18,447 - INFO - Extracted Content: 
+2026-04-13 23:35:18,448 - INFO - After preprocessing: 
+2026-04-13 23:35:54,934 - INFO - Emebeddings Created!
+2026-04-13 23:35:54,961 - INFO - Similarity Computed!
+2026-04-13 23:35:54,970 - INFO - Courses are ready to display!
+2026-04-13 23:35:54,970 - INFO - Courses: [{'id': 'noc25_ag01', 'title': 'Basics of Crop Breeding and Plant Biotechnology', 'instructors': 'Prof. Joydeep Banerjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ag01/preview', 'similarity': 1.0}, {'id': 'noc25_mg29', 'title': 'Integrated Marketing Communication', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg29/preview', 'similarity': 0.1926453411579132}, {'id': 'noc25_mg68', 'title': 'Marketing Management - II', 'instructors': 'Prof.Jayanta Chatterjee\nProf. Shashi Shekhar Mishra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg68/preview', 'similarity': 0.18397046625614166}, {'id': 'noc25_mg43', 'title': 'Management of New Products and Services', 'instructors': 'Prof. Jayanta Chatterjee', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg43/preview', 'similarity': 0.18008804321289062}, {'id': 'noc25_cs69', 'title': 'The Joy of Computing using Python', 'instructors': 'Prof. Sudarshan Iyengar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs69/preview', 'similarity': 0.17800873517990112}, {'id': 'noc25_ee44', 'title': 'Integrated Circuits, Mosfets, OP-Amps and their Applications', 'instructors': 'Prof. Hardik Jeetendra Pandya', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee44/preview', 'similarity': 0.17139506340026855}, {'id': 'noc25_mg45', 'title': 'Marketing Analytics', 'instructors': 'Prof. Swagato Chatterjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg45/preview', 'similarity': 0.16919264197349548}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.15930524468421936}]
+2026-04-14 00:06:57,273 - INFO - Extracted Content: 
+2026-04-14 00:06:57,274 - INFO - After preprocessing: 
+2026-04-14 00:06:59,795 - INFO - Extracted Content: 
+2026-04-14 00:06:59,795 - INFO - After preprocessing: 
+2026-04-14 00:08:41,778 - INFO - Emebeddings Created!
+2026-04-14 00:08:41,887 - INFO - Similarity Computed!
+2026-04-14 00:08:41,916 - INFO - Courses are ready to display!
+2026-04-14 00:08:41,916 - INFO - Courses: [{'id': 'noc25_ag01', 'title': 'Basics of Crop Breeding and Plant Biotechnology', 'instructors': 'Prof. Joydeep Banerjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ag01/preview', 'similarity': 1.0}, {'id': 'noc25_mg29', 'title': 'Integrated Marketing Communication', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg29/preview', 'similarity': 0.1926453411579132}, {'id': 'noc25_mg68', 'title': 'Marketing Management - II', 'instructors': 'Prof.Jayanta Chatterjee\nProf. Shashi Shekhar Mishra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg68/preview', 'similarity': 0.18397046625614166}, {'id': 'noc25_mg43', 'title': 'Management of New Products and Services', 'instructors': 'Prof. Jayanta Chatterjee', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg43/preview', 'similarity': 0.18008804321289062}, {'id': 'noc25_cs69', 'title': 'The Joy of Computing using Python', 'instructors': 'Prof. Sudarshan Iyengar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs69/preview', 'similarity': 0.17800873517990112}, {'id': 'noc25_ee44', 'title': 'Integrated Circuits, Mosfets, OP-Amps and their Applications', 'instructors': 'Prof. Hardik Jeetendra Pandya', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee44/preview', 'similarity': 0.17139506340026855}, {'id': 'noc25_mg45', 'title': 'Marketing Analytics', 'instructors': 'Prof. Swagato Chatterjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg45/preview', 'similarity': 0.16919264197349548}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.15930524468421936}]
+2026-04-14 01:12:44,306 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 01:12:44,589 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 01:13:55,442 - INFO - Emebeddings Created!
+2026-04-14 01:13:55,471 - INFO - Similarity Computed!
+2026-04-14 01:13:55,516 - INFO - Courses are ready to display!
+2026-04-14 01:13:55,516 - INFO - Courses: [{'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.6353897452354431}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5901263952255249}, {'id': 'noc25_cs12', 'title': 'Cloud Computing and Distributed Systems', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs12/preview', 'similarity': 0.5345965623855591}, {'id': 'noc25_ma27', 'title': 'High Performance Scientific Computing', 'instructors': 'Prof. Shivasubramanian Gopalakrishnan\nProf. Om Jadhav\nProf. S Vamshi Krishna\nProf. Ashish Kuvelkar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma27/preview', 'similarity': 0.50249183177948}, {'id': 'noc25_mg59', 'title': 'Simulation of Business Systems: An Applied Approach', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg59/preview', 'similarity': 0.5024466514587402}, {'id': 'noc25_cs75', 'title': 'Foundation of Cloud IoT Edge ML', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs75/preview', 'similarity': 0.5022459030151367}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.4948577284812927}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.4731217920780182}]
+2026-04-14 01:15:11,830 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 01:15:11,894 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 01:15:11,900 - INFO - Query being searched: type tree tolerance token task synchronization suzuki study stream software
+2026-04-14 01:57:43,215 - INFO - Extracted Content: Module 
+Detailed Content 
+Hours 
+1. 
+Social Media Analytics: An Overview 
+ 
+ 
+Core Characteristics of Social Media, Types of Social Media, Social 
+media landscape, Need for Social Media Analytics (SMA), SMA in 
+small & large organizations. 
+Purpose of Social Media Analytics, Social Media vs. Traditional 
+Business Analytics, Seven Layers of Social Media Analytics, Types 
+of Social Media Analytics, Social Media Analytics Cycle, Challenges 
+to Social Media Analytics, Social Media Analytics Tools 
+6 
+2. 
+Social Network Structure, Measures & Visualization 
+ 
+ 
+Basics of Social Network Structure - Nodes, Edges & Tie 
+Describing the Networks Measures - Degree Distribution, Density, 
+Connectivity, Centralization, Tie Strength & Trust 
+Network Visualization - Graph Layout, Visualizing Network 
+features, Scale Issues.  
+Social Media Network Analytics - Common Network Terms, 
+Common Social Media Network Types, Types of Networks, 
+Common Network Terminologies, Network Analytics Tools. 
+6 
+3. 
+Social Media Text,  Action  & Hyperlink Analytics  
+ 
+ 
+Social Media Text Analytics - Types of Social Media Text, Purpose 
+of Text Analytics, Steps in Text Analytics, Social Media Text 
+8  
+ 
+Analysis Tools 
+Social Media Action Analytics - What Is Actions Analytics? 
+Common Social Media Actions, Actions Analytics Tools 
+Social Media Hyperlink Analytics - Types of Hyperlinks, Types of 
+Hyperlink Analytics, Hyperlink Analytics Tools 
+  4. 
+Social Media Location & Search Engine Analytics  
+ 
+ 
+Location Analytics - Sources of Location Data, Categories of 
+Location Analytics, Location Analytics and Privacy Concerns, 
+Location Analytics Tools 
+Search Engine Analytics - Types of Search Engines, Search Engine 
+Analytics, Search Engine Analytics Tools 
+6  
+5. 
+Social Information Filtering 
+ 
+ 
+Social Information Filtering - Social Sharing and filtering , 
+Automated Recommendation systems, Traditional Vs social 
+Recommendation Systems 
+Understanding Social Media and Business Alignment, Social Media 
+KPI, Formulating a Social Media Strategy, Managing Social Media 
+Risks 
+6  
+6. 
+Social Media Analytics Applications and Privacy 
+ 
+ 
+Social media in public sector - Analyzing public sector social media, 
+analyzing individual users, case study. 
+Business use of Social Media - Measuring success, Interaction and 
+monitoring, case study. 
+Privacy - Privacy policies, data ownership and maintaining privacy 
+online. 
+7
+2026-04-14 01:57:43,372 - INFO - After preprocessing: module detailed content hour social medium analytic overview core characteristic type landscape need sma small large organization purpose traditional business seven layer media cycle challenge tool network structure measure visualization basic nodes edge tie describe degree distribution density connectivity centralization strength trust graph layout visualize feature scale issue common term terminology text action hyperlink step analysis location search engine source datum category privacy concern information filter filtering sharing automate recommendation system vs understand alignment kpi formulate strategy manage risk application public sector analyze individual user case study use success interaction monitoring policy ownership maintain online
+2026-04-14 01:57:43,375 - INFO - Query being searched: vs visualize visualization user use understand type trust traditional tool
+2026-04-14 01:59:13,430 - INFO - Extracted Content: Module 
+Detailed Content 
+Hours 
+1. 
+Social Media Analytics: An Overview 
+ 
+ 
+Core Characteristics of Social Media, Types of Social Media, Social 
+media landscape, Need for Social Media Analytics (SMA), SMA in 
+small & large organizations. 
+Purpose of Social Media Analytics, Social Media vs. Traditional 
+Business Analytics, Seven Layers of Social Media Analytics, Types 
+of Social Media Analytics, Social Media Analytics Cycle, Challenges 
+to Social Media Analytics, Social Media Analytics Tools 
+6 
+2. 
+Social Network Structure, Measures & Visualization 
+ 
+ 
+Basics of Social Network Structure - Nodes, Edges & Tie 
+Describing the Networks Measures - Degree Distribution, Density, 
+Connectivity, Centralization, Tie Strength & Trust 
+Network Visualization - Graph Layout, Visualizing Network 
+features, Scale Issues.  
+Social Media Network Analytics - Common Network Terms, 
+Common Social Media Network Types, Types of Networks, 
+Common Network Terminologies, Network Analytics Tools. 
+6 
+3. 
+Social Media Text,  Action  & Hyperlink Analytics  
+ 
+ 
+Social Media Text Analytics - Types of Social Media Text, Purpose 
+of Text Analytics, Steps in Text Analytics, Social Media Text 
+8  
+ 
+Analysis Tools 
+Social Media Action Analytics - What Is Actions Analytics? 
+Common Social Media Actions, Actions Analytics Tools 
+Social Media Hyperlink Analytics - Types of Hyperlinks, Types of 
+Hyperlink Analytics, Hyperlink Analytics Tools 
+  4. 
+Social Media Location & Search Engine Analytics  
+ 
+ 
+Location Analytics - Sources of Location Data, Categories of 
+Location Analytics, Location Analytics and Privacy Concerns, 
+Location Analytics Tools 
+Search Engine Analytics - Types of Search Engines, Search Engine 
+Analytics, Search Engine Analytics Tools 
+6  
+5. 
+Social Information Filtering 
+ 
+ 
+Social Information Filtering - Social Sharing and filtering , 
+Automated Recommendation systems, Traditional Vs social 
+Recommendation Systems 
+Understanding Social Media and Business Alignment, Social Media 
+KPI, Formulating a Social Media Strategy, Managing Social Media 
+Risks 
+6  
+6. 
+Social Media Analytics Applications and Privacy 
+ 
+ 
+Social media in public sector - Analyzing public sector social media, 
+analyzing individual users, case study. 
+Business use of Social Media - Measuring success, Interaction and 
+monitoring, case study. 
+Privacy - Privacy policies, data ownership and maintaining privacy 
+online. 
+7
+2026-04-14 01:59:13,539 - INFO - After preprocessing: module detailed content hour social medium analytic overview core characteristic type landscape need sma small large organization purpose traditional business seven layer media cycle challenge tool network structure measure visualization basic nodes edge tie describe degree distribution density connectivity centralization strength trust graph layout visualize feature scale issue common term terminology text action hyperlink step analysis location search engine source datum category privacy concern information filter filtering sharing automate recommendation system vs understand alignment kpi formulate strategy manage risk application public sector analyze individual user case study use success interaction monitoring policy ownership maintain online
+2026-04-14 02:02:09,113 - INFO - Emebeddings Created!
+2026-04-14 02:02:09,171 - INFO - Similarity Computed!
+2026-04-14 02:02:09,244 - INFO - Courses are ready to display!
+2026-04-14 02:02:09,245 - INFO - Courses: [{'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.6312594413757324}, {'id': 'noc25_mg13', 'title': 'Business Fundamentals for Entrepreneurs', 'instructors': 'Prof. Devdip Purkayastha', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg13/preview', 'similarity': 0.5946459770202637}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5884392857551575}, {'id': 'noc25_ge39', 'title': 'Recommender Systems', 'instructors': 'Prof. Mamata Jenamani', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge39/preview', 'similarity': 0.5301364660263062}, {'id': 'noc25_mg52', 'title': 'Principles of Management', 'instructors': 'Prof. Usha Lenka', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg52/preview', 'similarity': 0.5176618099212646}, {'id': 'noc25_mg60', 'title': 'Strategic Services Marketing', 'instructors': 'Prof. Kalpak Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg60/preview', 'similarity': 0.5135930180549622}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.5131332874298096}, {'id': 'noc25_mg28', 'title': 'Innovation in Marketing and Marketing of Innovation', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg28/preview', 'similarity': 0.5088416934013367}]
+2026-04-14 02:12:28,898 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 02:12:28,944 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 02:12:28,946 - INFO - Query being searched: type tree tolerance token task synchronization suzuki study stream software
+2026-04-14 12:29:13,637 - INFO - Extracted Content: Module 
+Detailed Contents 
+Hrs 
+01 
+Project Management Foundation: 
+Definition of a project, Project Vs Operations, Necessity of project management, 
+Triple constraints, Project life cycles (typical & atypical) Project phases and 
+stage gate process.  Role of project manager, Negotiations and resolving 
+conflicts, Project management in various organization structures, PM knowledge 
+areas as per Project Management Institute (PMI) 
+5 
+02 
+Initiating Projects: 
+How to get a project started, Selecting project strategically, Project selection 
+models (Numeric /Scoring Models and Non-numeric models), Project portfolio 
+process, Project sponsor and creating charter; Project proposal.  Effective project 
+team, Stages of team development & growth (forming, storming, norming 
+&performing), team dynamics. 
+6 
+03 
+Project Planning and Scheduling: 
+Work Breakdown structure (WBS) and linear responsibility chart,  Interface  
+Co-ordination and concurrent engineering, Project cost estimation and 
+budgeting, Top down and bottoms up budgeting, Networking and Scheduling 
+techniques. PERT, CPM, GANTT chart, Introduction to Project Management 
+Information System (PMIS).  
+8 
+04 
+Planning Projects: 
+Crashing project time, Resource loading and levelling, Goldratt's critical chain, 
+Project Stakeholders and Communication plan 
+Risk Management in projects: Risk management planning, Risk identification 
+and risk register, Qualitative and quantitative risk assessment, Probability and 
+impact matrix. Risk response strategies for  positive and negative risks 
+6 
+05 
+5.1 Executing Projects: 
+Planning monitoring and controlling cycle, Information needs and reporting, 
+engaging with all stakeholders of the  projects, Team management, 
+communication and project meetings 
+5.2 Monitoring and Controlling Projects: 
+8 
+ 
+Earned Value Management techniques for measuring value of work completed; 
+Using milestones  for measurement; change requests and scope creep, Project 
+audit 
+5.3 Project Contracting 
+Project procurement management, contracting and outsourcing, 
+06 
+6.1 Project Leadership and Ethics: 
+Introduction to project leadership, ethics in projects, Multicultural and virtual 
+projects 
+6.2 Closing the Project: 
+Customer acceptance; Reasons of  project termination, Various types of  project 
+terminations (Extinction, Addition, Integration, Starvation),  Process of project 
+termination, completing a final report; doing a lessons learned analysis; 
+acknowledging successes and failures;  Project management templates and other 
+resources; Managing without authority; Areas of further study. 
+6 
+ 
+Assessment: 
+ 
+Internal Assessment for 20 marks: 
+Consisting Two Compulsory Class Tests 
+First test based on approximately 40% of contents and second test based on remaining contents 
+(approximately 40% but excluding contents covered in Test I) 
+ 
+End Semester Examination:  
+ 
+Weightage of each module in end semester examination will be proportional to number of 
+respective lecture hours mentioned in the curriculum. 
+1. Question paper will comprise of total six questions, each carrying 20 marks 
+2. Question 1 will be compulsory and should cover maximum contents of the 
+curriculum 
+3. Remaining questions will be mixed in nature (for example if Q.2 has part (a) from 
+module 3 then  part (b) will be from any module other than module 3) 
+4. Only Four questions need to be solved 
+ 
+ 
+REFERENCES: 
+1. Project Management: A managerial approach, Jack Meredith & Samuel Mantel, 7th 
+Edition, Wiley India 
+2. A Guide to the Project Management Body of Knowledge (PMBOK® Guide), 5th Ed, 
+Project Management Institute PA, USA 
+3. Project Management,Gido Clements, Cengage Learning 
+4. Project Management,Gopalan, Wiley India 
+5. Project Management,Dennis Lock, 9th Edition, Gower Publishing England
+2026-04-14 12:29:14,030 - INFO - After preprocessing: module detailed content hrs project management foundation definition vs operation necessity triple constraint life cycle typical atypical phase stage gate process role manager negotiation resolve conflict organization structure pm knowledge area institute pmi initiate start select strategically selection model numeric non portfolio sponsor create charter proposal effective team development growth form storming norme perform dynamic planning scheduling work breakdown wbs linear responsibility chart interface co ordination concurrent engineering cost estimation budgeting bottom networking technique pert cpm gantt introduction information system pmis crash time resource loading levelling goldratt critical chain stakeholder communication plan risk identification register qualitative quantitative assessment probability impact matrix response strategy positive negative execute monitoring control need reporting engage meeting controlling earn value measure complete milestone measurement change request scope creep audit contracting procurement outsourcing leadership ethic multicultural virtual close customer acceptance reason termination type extinction addition integration starvation final report lesson learn analysis acknowledge success failure template manage authority study internal mark consist compulsory class test base approximately second remain exclude cover end semester examination weightage proportional number respective lecture hour mention curriculum question paper comprise total carry maximum mix nature example b solve reference managerial approach jack meredith samuel mantel edition wiley india guide body pmbok ed pa usa gido clements cengage gopalan dennis lock gower publishing england
+2026-04-14 12:29:54,058 - INFO - Emebeddings Created!
+2026-04-14 12:29:54,089 - INFO - Similarity Computed!
+2026-04-14 12:29:54,132 - INFO - Courses are ready to display!
+2026-04-14 12:29:54,133 - INFO - Courses: [{'id': 'noc25_mg71', 'title': 'Project Management', 'instructors': 'Prof. Ramesh Anbanandam', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg71/preview', 'similarity': 0.6659404039382935}, {'id': 'noc25_mg13', 'title': 'Business Fundamentals for Entrepreneurs', 'instructors': 'Prof. Devdip Purkayastha', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg13/preview', 'similarity': 0.6499028205871582}, {'id': 'noc25_mg64', 'title': 'Talent Acquisition and Management', 'instructors': 'Prof. Santosh Rangnekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg64/preview', 'similarity': 0.6171212196350098}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.6032547354698181}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.5966362953186035}, {'id': 'noc25_mg52', 'title': 'Principles of Management', 'instructors': 'Prof. Usha Lenka', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg52/preview', 'similarity': 0.5823562145233154}, {'id': 'noc25_mg38', 'title': 'Leadership and Team Effectiveness', 'instructors': 'Prof. Santosh Rangnekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg38/preview', 'similarity': 0.5780545473098755}, {'id': 'noc25_me59', 'title': 'Operations Management', 'instructors': 'Prof. Inderdeep Singh', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_me59/preview', 'similarity': 0.5707336664199829}]
+2026-04-14 12:30:18,798 - INFO - Extracted Content: Module 
+Detailed Contents 
+Hrs 
+01 
+Project Management Foundation: 
+Definition of a project, Project Vs Operations, Necessity of project management, 
+Triple constraints, Project life cycles (typical & atypical) Project phases and 
+stage gate process.  Role of project manager, Negotiations and resolving 
+conflicts, Project management in various organization structures, PM knowledge 
+areas as per Project Management Institute (PMI) 
+5 
+02 
+Initiating Projects: 
+How to get a project started, Selecting project strategically, Project selection 
+models (Numeric /Scoring Models and Non-numeric models), Project portfolio 
+process, Project sponsor and creating charter; Project proposal.  Effective project 
+team, Stages of team development & growth (forming, storming, norming 
+&performing), team dynamics. 
+6 
+03 
+Project Planning and Scheduling: 
+Work Breakdown structure (WBS) and linear responsibility chart,  Interface  
+Co-ordination and concurrent engineering, Project cost estimation and 
+budgeting, Top down and bottoms up budgeting, Networking and Scheduling 
+techniques. PERT, CPM, GANTT chart, Introduction to Project Management 
+Information System (PMIS).  
+8 
+04 
+Planning Projects: 
+Crashing project time, Resource loading and levelling, Goldratt's critical chain, 
+Project Stakeholders and Communication plan 
+Risk Management in projects: Risk management planning, Risk identification 
+and risk register, Qualitative and quantitative risk assessment, Probability and 
+impact matrix. Risk response strategies for  positive and negative risks 
+6 
+05 
+5.1 Executing Projects: 
+Planning monitoring and controlling cycle, Information needs and reporting, 
+engaging with all stakeholders of the  projects, Team management, 
+communication and project meetings 
+5.2 Monitoring and Controlling Projects: 
+8 
+ 
+Earned Value Management techniques for measuring value of work completed; 
+Using milestones  for measurement; change requests and scope creep, Project 
+audit 
+5.3 Project Contracting 
+Project procurement management, contracting and outsourcing, 
+06 
+6.1 Project Leadership and Ethics: 
+Introduction to project leadership, ethics in projects, Multicultural and virtual 
+projects 
+6.2 Closing the Project: 
+Customer acceptance; Reasons of  project termination, Various types of  project 
+terminations (Extinction, Addition, Integration, Starvation),  Process of project 
+termination, completing a final report; doing a lessons learned analysis; 
+acknowledging successes and failures;  Project management templates and other 
+resources; Managing without authority; Areas of further study. 
+6 
+ 
+Assessment: 
+ 
+Internal Assessment for 20 marks: 
+Consisting Two Compulsory Class Tests 
+First test based on approximately 40% of contents and second test based on remaining contents 
+(approximately 40% but excluding contents covered in Test I) 
+ 
+End Semester Examination:  
+ 
+Weightage of each module in end semester examination will be proportional to number of 
+respective lecture hours mentioned in the curriculum. 
+1. Question paper will comprise of total six questions, each carrying 20 marks 
+2. Question 1 will be compulsory and should cover maximum contents of the 
+curriculum 
+3. Remaining questions will be mixed in nature (for example if Q.2 has part (a) from 
+module 3 then  part (b) will be from any module other than module 3) 
+4. Only Four questions need to be solved 
+ 
+ 
+REFERENCES: 
+1. Project Management: A managerial approach, Jack Meredith & Samuel Mantel, 7th 
+Edition, Wiley India 
+2. A Guide to the Project Management Body of Knowledge (PMBOK® Guide), 5th Ed, 
+Project Management Institute PA, USA 
+3. Project Management,Gido Clements, Cengage Learning 
+4. Project Management,Gopalan, Wiley India 
+5. Project Management,Dennis Lock, 9th Edition, Gower Publishing England
+2026-04-14 12:30:18,879 - INFO - After preprocessing: module detailed content hrs project management foundation definition vs operation necessity triple constraint life cycle typical atypical phase stage gate process role manager negotiation resolve conflict organization structure pm knowledge area institute pmi initiate start select strategically selection model numeric non portfolio sponsor create charter proposal effective team development growth form storming norme perform dynamic planning scheduling work breakdown wbs linear responsibility chart interface co ordination concurrent engineering cost estimation budgeting bottom networking technique pert cpm gantt introduction information system pmis crash time resource loading levelling goldratt critical chain stakeholder communication plan risk identification register qualitative quantitative assessment probability impact matrix response strategy positive negative execute monitoring control need reporting engage meeting controlling earn value measure complete milestone measurement change request scope creep audit contracting procurement outsourcing leadership ethic multicultural virtual close customer acceptance reason termination type extinction addition integration starvation final report lesson learn analysis acknowledge success failure template manage authority study internal mark consist compulsory class test base approximately second remain exclude cover end semester examination weightage proportional number respective lecture hour mention curriculum question paper comprise total carry maximum mix nature example b solve reference managerial approach jack meredith samuel mantel edition wiley india guide body pmbok ed pa usa gido clements cengage gopalan dennis lock gower publishing england
+2026-04-14 12:30:18,883 - INFO - Query being searched: work wiley weightage wbs vs virtual value usa typical type
+2026-04-14 13:57:33,745 - INFO - Extracted Content: Weightage of each module in end semester examination will be proportional to number of 
+respective lecture hours mentioned in the curriculum. 
+1. Question paper will comprise of total six questions, each carrying 20 marks 
+2. Question 1 will be compulsory and should cover maximum contents of the 
+curriculum
+2026-04-14 13:57:33,783 - INFO - After preprocessing: weightage module end semester examination proportional number respective lecture hour mention curriculum question paper comprise total carry mark compulsory cover maximum content
+2026-04-14 13:58:35,505 - INFO - Emebeddings Created!
+2026-04-14 13:58:35,535 - INFO - Similarity Computed!
+2026-04-14 13:58:35,566 - INFO - Courses are ready to display!
+2026-04-14 13:58:35,567 - INFO - Courses: [{'id': 'noc25_mg34', 'title': 'Introduction to Operations Research', 'instructors': 'Prof. G. Srinivasan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg34/preview', 'similarity': 0.4502410292625427}, {'id': 'noc25_hs19', 'title': 'English language for competitive exams', 'instructors': 'Prof. Aysha Viswamohan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs19/preview', 'similarity': 0.4402392506599426}, {'id': 'noc25_mg74', 'title': 'Total Quality Management - I', 'instructors': 'Prof. Raghu Nandan Sengupta', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg74/preview', 'similarity': 0.4033067226409912}, {'id': 'noc25_ge23', 'title': 'NBA Accreditation and Teaching and learning in Engineering (NATE)', 'instructors': 'Prof. N J Rao\nProf. K Rajanikanth', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge23/preview', 'similarity': 0.3748892545700073}, {'id': 'noc25_hs13', 'title': 'Educational Technology and ICT', 'instructors': 'Prof. Sarita Anand', 'duration': '12 weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs13/preview', 'similarity': 0.37485307455062866}, {'id': 'noc25_ge08', 'title': 'Designing Learner-Centric MOOCs', 'instructors': 'Prof. Sahana Murthy\nProf. Jayakrishnan M\nProf. Sameer Sahasrabudhe', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge08/preview', 'similarity': 0.3740871846675873}, {'id': 'noc25_ge09', 'title': 'Effective Engineering Teaching In Practice', 'instructors': 'Prof. G. K. Suraishkumar\nProf. Edamana Prasad \nProf. Richa Verma', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge09/preview', 'similarity': 0.3570936918258667}, {'id': 'noc25_cs40', 'title': 'Introduction to Database Systems', 'instructors': 'Prof. Sreenivasa Kumar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs40/preview', 'similarity': 0.3554321825504303}]
+2026-04-14 13:59:29,449 - INFO - Extracted Content: Module 
+ 
+Detailed Content 
+Hours 
+1 
+ 
+Introduction to Data Science 
+2 
+ 
+1.1 
+Introduction to Data Science, Data Science Process 
+ 
+ 
+1.2 
+Motivation to use Data Science Techniques: Volume, Dimensions and   
+Complexity, Data Science Tasks and Examples 
+ 
+ 
+1.3 
+Overview of Data Preparation, Modeling, Difference between data 
+science  and data analytics  
+ 
+2 
+ 
+Data Exploration 
+8 
+ 
+2.1 
+Types of data, Properties of data 
+Descriptive Statistics:  
+Univariate Exploration: Measure of Central Tendency, Measure of 
+Spread, Symmetry, Skewness: Karl Pearson Coefficient of skewness, 
+Bowley’s Coefficient, Kurtosis 
+Multivariate Exploration: Central Data Point, Correlation, Different 
+forms of correlation,  Karl Pearson Correlation Coefficient for bivariate 
+distribution 
+ 
+ 
+ 
+2.2 
+Inferential Statistics:   
+Overview of Various forms of distributions: Normal, Poisson, Test 
+Hypothesis, Central limit theorem, Confidence Interval, Z-test, t-test, 
+Type-I, Type-II Errors, ANOVA 
+ 
+3 
+ 
+Methodology and Data Visualization  
+06 
+ 
+3.1 Methodology:  Overview of model building, Cross Validation, K-
+fold cross validation, leave-1 out, Bootstrapping 
+ 
+ 
+3.2 
+Data Visualization 
+Univariate Visualization: Histogram, Quartile, Distribution Chart 
+Multivariate Visualization: Scatter Plot, Scatter Matrix, Bubble chart, 
+Density Chart 
+Roadmap for Data Exploration 
+ 
+ 
+3.3 
+Self-Learning Topics: Visualizing high dimensional data: Parallel 
+chart, Deviation chart, Andrews Curves.  
+ 
+4 
+ 
+Anomaly Detection 
+06 
+ 
+4.1 
+Outliers, Causes of Outliers, Anomaly detection techniques, Outlier 
+Detection using Statistics  
+ 
+ 
+4.2 
+Outlier Detection using Distance based method, Outlier detection using 
+density-based methods,  SMOTE  
+ 
+5 
+ 
+Time Series Forecasting  
+4 
+ 
+5.1 
+Taxonomy of Time Series Forecasting methods, Time Series 
+Decomposition 
+ 
+ 
+5.2 
+Smoothening Methods: Average method, Moving Average smoothing, 
+Time series analysis using linear regression, ARIMA Model, 
+Performance Evaluation: Mean Absolute Error, Root Mean Square 
+Error, Mean Absolute Percentage Error, Mean Absolute Scaled Error 
+ 
+ 
+5.3 
+Self-Learning Topics: Evaluation parameters for Classification, 
+regression and clustering. 
+ 
+6 
+ 
+Applications of Data Science 
+4 
+ 
+ 
+Predictive Modeling: House price prediction, Fraud Detection 
+Clustering: Customer Segmentation 
+Time series forecasting: Weather Forecasting 
+Recommendation engines: Product recommendation
+2026-04-14 13:59:29,601 - INFO - After preprocessing: module detailed content hour introduction datum science process motivation use technique volume dimension complexity task example overview preparation modeling difference data analytic exploration type property descriptive statistic univariate measure central tendency spread symmetry skewness karl pearson coefficient bowley kurtosis multivariate point correlation different form bivariate distribution inferential normal poisson test hypothesis limit theorem confidence interval z t ii error anova methodology visualization model building cross validation fold bootstrappe histogram quartile chart scatter plot matrix bubble density roadmap self learn topic visualize high dimensional parallel deviation andrew curve anomaly detection outlier cause outli distance base method smite time series forecasting taxonomy decomposition smoothen average move smoothing analysis linear regression arima performance evaluation mean absolute root square percentage scale parameter classification clustering application predictive house price prediction fraud cluster customer segmentation weather forecast recommendation engine product
+2026-04-14 14:00:08,045 - INFO - Emebeddings Created!
+2026-04-14 14:00:08,073 - INFO - Similarity Computed!
+2026-04-14 14:00:08,083 - INFO - Courses are ready to display!
+2026-04-14 14:00:08,083 - INFO - Courses: [{'id': 'noc25_ma40', 'title': 'Multivariate Procedures with R (in Hindi Language)', 'instructors': 'Prof. Shalabh', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma40/preview', 'similarity': 0.6094374060630798}, {'id': 'noc25_hs06', 'title': 'Computer Aided Decision Systems - Industrial practices using Big Analytics', 'instructors': 'Prof. Deepu Philip\nProf. Amandeep Singh Oberoi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs06/preview', 'similarity': 0.6042154431343079}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5923738479614258}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.591935932636261}, {'id': 'noc25_mg49', 'title': 'Multivariate Procedures with R (in English language)', 'instructors': 'Prof. Shalabh', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg49/preview', 'similarity': 0.5738860368728638}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.5729213356971741}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5722998380661011}, {'id': 'noc25_mg66', 'title': 'Business Forecasting', 'instructors': 'Prof. Pankaj Dutta', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg66/preview', 'similarity': 0.5675161480903625}]
+2026-04-14 14:01:47,551 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 14:01:47,643 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 14:02:29,015 - INFO - Emebeddings Created!
+2026-04-14 14:02:29,049 - INFO - Similarity Computed!
+2026-04-14 14:02:29,058 - INFO - Courses are ready to display!
+2026-04-14 14:02:29,058 - INFO - Courses: [{'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.6353897452354431}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5901263952255249}, {'id': 'noc25_cs12', 'title': 'Cloud Computing and Distributed Systems', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs12/preview', 'similarity': 0.5345965623855591}, {'id': 'noc25_ma27', 'title': 'High Performance Scientific Computing', 'instructors': 'Prof. Shivasubramanian Gopalakrishnan\nProf. Om Jadhav\nProf. S Vamshi Krishna\nProf. Ashish Kuvelkar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma27/preview', 'similarity': 0.50249183177948}, {'id': 'noc25_mg59', 'title': 'Simulation of Business Systems: An Applied Approach', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg59/preview', 'similarity': 0.5024466514587402}, {'id': 'noc25_cs75', 'title': 'Foundation of Cloud IoT Edge ML', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs75/preview', 'similarity': 0.5022459030151367}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.4948577284812927}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.4731217920780182}]
+2026-04-14 14:03:17,547 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 14:03:17,636 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 14:03:17,640 - INFO - Query being searched: type tree tolerance token task synchronization suzuki study stream software
+2026-04-14 16:07:23,532 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 16:07:23,583 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 16:08:26,920 - INFO - Emebeddings Created!
+2026-04-14 16:08:26,946 - INFO - Similarity Computed!
+2026-04-14 16:08:26,956 - INFO - Courses are ready to display!
+2026-04-14 16:08:26,956 - INFO - Courses: [{'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.6353897452354431}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5901263952255249}, {'id': 'noc25_cs12', 'title': 'Cloud Computing and Distributed Systems', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs12/preview', 'similarity': 0.5345965623855591}, {'id': 'noc25_ma27', 'title': 'High Performance Scientific Computing', 'instructors': 'Prof. Shivasubramanian Gopalakrishnan\nProf. Om Jadhav\nProf. S Vamshi Krishna\nProf. Ashish Kuvelkar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma27/preview', 'similarity': 0.50249183177948}, {'id': 'noc25_mg59', 'title': 'Simulation of Business Systems: An Applied Approach', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg59/preview', 'similarity': 0.5024466514587402}, {'id': 'noc25_cs75', 'title': 'Foundation of Cloud IoT Edge ML', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs75/preview', 'similarity': 0.5022459030151367}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.4948577284812927}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.4731217920780182}]
+2026-04-14 18:12:30,414 - INFO - Extracted Content: Module 
+ 
+Detailed Content 
+Hours 
+1 
+ 
+Introduction to Data Science 
+2 
+ 
+1.1 
+Introduction to Data Science, Data Science Process 
+ 
+ 
+1.2 
+Motivation to use Data Science Techniques: Volume, Dimensions and   
+Complexity, Data Science Tasks and Examples 
+ 
+ 
+1.3 
+Overview of Data Preparation, Modeling, Difference between data 
+science  and data analytics  
+ 
+2 
+ 
+Data Exploration 
+8 
+ 
+2.1 
+Types of data, Properties of data 
+Descriptive Statistics:  
+Univariate Exploration: Measure of Central Tendency, Measure of 
+Spread, Symmetry, Skewness: Karl Pearson Coefficient of skewness, 
+Bowley’s Coefficient, Kurtosis 
+Multivariate Exploration: Central Data Point, Correlation, Different 
+forms of correlation,  Karl Pearson Correlation Coefficient for bivariate 
+distribution 
+ 
+ 
+ 
+2.2 
+Inferential Statistics:   
+Overview of Various forms of distributions: Normal, Poisson, Test 
+Hypothesis, Central limit theorem, Confidence Interval, Z-test, t-test, 
+Type-I, Type-II Errors, ANOVA 
+ 
+3 
+ 
+Methodology and Data Visualization  
+06 
+ 
+3.1 Methodology:  Overview of model building, Cross Validation, K-
+fold cross validation, leave-1 out, Bootstrapping 
+ 
+ 
+3.2 
+Data Visualization 
+Univariate Visualization: Histogram, Quartile, Distribution Chart 
+Multivariate Visualization: Scatter Plot, Scatter Matrix, Bubble chart, 
+Density Chart 
+Roadmap for Data Exploration 
+ 
+ 
+3.3 
+Self-Learning Topics: Visualizing high dimensional data: Parallel 
+chart, Deviation chart, Andrews Curves.  
+ 
+4 
+ 
+Anomaly Detection 
+06 
+ 
+4.1 
+Outliers, Causes of Outliers, Anomaly detection techniques, Outlier 
+Detection using Statistics  
+ 
+ 
+4.2 
+Outlier Detection using Distance based method, Outlier detection using 
+density-based methods,  SMOTE  
+ 
+5 
+ 
+Time Series Forecasting  
+4 
+ 
+5.1 
+Taxonomy of Time Series Forecasting methods, Time Series 
+Decomposition 
+ 
+ 
+5.2 
+Smoothening Methods: Average method, Moving Average smoothing, 
+Time series analysis using linear regression, ARIMA Model, 
+Performance Evaluation: Mean Absolute Error, Root Mean Square 
+Error, Mean Absolute Percentage Error, Mean Absolute Scaled Error 
+ 
+ 
+5.3 
+Self-Learning Topics: Evaluation parameters for Classification, 
+regression and clustering. 
+ 
+6 
+ 
+Applications of Data Science 
+4 
+ 
+ 
+Predictive Modeling: House price prediction, Fraud Detection 
+Clustering: Customer Segmentation 
+Time series forecasting: Weather Forecasting 
+Recommendation engines: Product recommendation
+2026-04-14 18:12:30,479 - INFO - After preprocessing: module detailed content hour introduction datum science process motivation use technique volume dimension complexity task example overview preparation modeling difference data analytic exploration type property descriptive statistic univariate measure central tendency spread symmetry skewness karl pearson coefficient bowley kurtosis multivariate point correlation different form bivariate distribution inferential normal poisson test hypothesis limit theorem confidence interval z t ii error anova methodology visualization model building cross validation fold bootstrappe histogram quartile chart scatter plot matrix bubble density roadmap self learn topic visualize high dimensional parallel deviation andrew curve anomaly detection outlier cause outli distance base method smite time series forecasting taxonomy decomposition smoothen average move smoothing analysis linear regression arima performance evaluation mean absolute root square percentage scale parameter classification clustering application predictive house price prediction fraud cluster customer segmentation weather forecast recommendation engine product
+2026-04-14 18:13:08,604 - INFO - Emebeddings Created!
+2026-04-14 18:13:08,636 - INFO - Similarity Computed!
+2026-04-14 18:13:08,647 - INFO - Courses are ready to display!
+2026-04-14 18:13:08,647 - INFO - Courses: [{'id': 'noc25_ma40', 'title': 'Multivariate Procedures with R (in Hindi Language)', 'instructors': 'Prof. Shalabh', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma40/preview', 'similarity': 0.6094374060630798}, {'id': 'noc25_hs06', 'title': 'Computer Aided Decision Systems - Industrial practices using Big Analytics', 'instructors': 'Prof. Deepu Philip\nProf. Amandeep Singh Oberoi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs06/preview', 'similarity': 0.6042154431343079}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5923738479614258}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.591935932636261}, {'id': 'noc25_mg49', 'title': 'Multivariate Procedures with R (in English language)', 'instructors': 'Prof. Shalabh', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg49/preview', 'similarity': 0.5738860368728638}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.5729213356971741}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5722998380661011}, {'id': 'noc25_mg66', 'title': 'Business Forecasting', 'instructors': 'Prof. Pankaj Dutta', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg66/preview', 'similarity': 0.5675161480903625}]
+2026-04-14 18:18:22,824 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+ 
+Introduction to Machine Learning 
+04 
+ 
+1.1 
+Machine Learning, Types of Machine Learning, Issues in Machine 
+Learning, Application of Machine Learning, Steps in developing a 
+Machine Learning Application.  
+ 
+ 
+1.2 
+Training Error, Generalization error, Overfitting, Underfitting, Bias-
+Variance trade-off.  
+ 
+2 
+ 
+Learning with Regression and Trees 
+09 
+ 
+2.1 
+Learning with Regression: Linear Regression, Multivariate Linear 
+Regression, Logistic Regression.  
+ 
+ 
+2.2 
+Learning with Trees: Decision Trees, Constructing Decision Trees using 
+Gini Index (Regression), Classification and Regression Trees (CART)  
+ 
+ 
+2.3 
+Performance Metrics: Confusion Matrix, [Kappa Statistics], Sensitivity, 
+Specificity, Precision, Recall, F-measure, ROC curve 
+ 
+3 
+ 
+Ensemble Learning 
+06 
+ 
+3.1 
+Understanding Ensembles,  K-fold cross validation, Boosting, Stumping, 
+XGBoost 
+ 
+ 
+3.2 
+Bagging, Subagging, Random Forest, Comparison with Boosting, 
+Different ways to combine classifiers 
+ 
+4 
+ 
+Learning with Classification  
+08 
+ 
+4.1 
+Support Vector Machine 
+Constrained Optimization, Optimal decision boundary, Margins and 
+support vectors, SVM as constrained optimization problem, Quadratic 
+Programming, SVM for linear and nonlinear classification, Basics of 
+ 
+ 
+Kernel trick. 
+ 
+4.2 
+ Support Vector Regression, Multiclass Classification 
+ 
+5 
+ 
+ Learning with Clustering 
+07 
+ 
+5.1 
+Introduction to clustering with overview of distance metrics and major 
+clustering approaches. 
+ 
+ 
+5.2 
+Graph Based Clustering: Clustering with minimal spanning tree  
+Model based Clustering: Expectation Maximization Algorithm,  
+Density Based Clustering: DBSCAN 
+ 
+6 
+ 
+Dimensionality Reduction 
+05 
+ 
+6.1 
+Dimensionality Reduction Techniques, Principal Component Analysis, 
+Linear Discriminant Analysis, Singular Valued Decomposition. 
+ 
+Total 39
+2026-04-14 18:18:22,908 - INFO - After preprocessing: module content hrs introduction machine learn learning type issue application step develop training error generalization overfitte underfitting variance trade regression tree linear multivariate logistic decision construct gini index classification cart performance metric confusion matrix kappa statistic sensitivity specificity precision recall f measure roc curve ensemble understanding k fold cross validation boost stumping xgboost bagging subagging random forest comparison different way combine classifier support vector constrain optimization optimal boundary margin svm constrained problem quadratic programming nonlinear basic kernel trick multiclass cluster overview distance major clustering approach graph base minimal spanning model expectation maximization algorithm density dbscan dimensionality reduction technique principal component analysis discriminant singular value decomposition total
+2026-04-14 18:19:49,185 - INFO - Emebeddings Created!
+2026-04-14 18:19:49,212 - INFO - Similarity Computed!
+2026-04-14 18:19:49,224 - INFO - Courses are ready to display!
+2026-04-14 18:19:49,224 - INFO - Courses: [{'id': 'noc25_cs46', 'title': 'Introduction to Machine Learning', 'instructors': 'Prof. Balaraman Ravindran', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs46/preview', 'similarity': 0.6484782099723816}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5791749954223633}, {'id': 'noc25_cs47', 'title': 'Introduction to Machine Learning (Tamil)', 'instructors': 'Prof. Arun Rajkumar', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs47/preview', 'similarity': 0.5734096765518188}, {'id': 'noc25_cs20', 'title': 'Data Science for Engineers', 'instructors': 'Prof. Ragunathan Rengasamy\nProf. Shankar Narasimhan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs20/preview', 'similarity': 0.5625836849212646}, {'id': 'noc25_cs19', 'title': 'Data Mining', 'instructors': 'Prof. Pabitra Mitra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs19/preview', 'similarity': 0.549796462059021}, {'id': 'noc25_cs49', 'title': 'Machine Learning for Engineering and science applications', 'instructors': 'Prof. Balaji Srinivasan\nProf. Ganapathy Krishnamurthi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs49/preview', 'similarity': 0.5280596017837524}, {'id': 'noc25_ma11', 'title': 'Applied Linear Algebra in AI and ML', 'instructors': 'Prof. Swanand Khare', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma11/preview', 'similarity': 0.5174212455749512}, {'id': 'noc25_ge39', 'title': 'Recommender Systems', 'instructors': 'Prof. Mamata Jenamani', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge39/preview', 'similarity': 0.4918213486671448}]
+2026-04-14 18:20:12,610 - INFO - Extracted Content: 
+2026-04-14 18:20:12,610 - INFO - After preprocessing: 
+2026-04-14 18:20:52,336 - INFO - Emebeddings Created!
+2026-04-14 18:20:52,363 - INFO - Similarity Computed!
+2026-04-14 18:20:52,374 - INFO - Courses are ready to display!
+2026-04-14 18:20:52,374 - INFO - Courses: [{'id': 'noc25_ag01', 'title': 'Basics of Crop Breeding and Plant Biotechnology', 'instructors': 'Prof. Joydeep Banerjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ag01/preview', 'similarity': 1.0}, {'id': 'noc25_mg29', 'title': 'Integrated Marketing Communication', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg29/preview', 'similarity': 0.1926453411579132}, {'id': 'noc25_mg68', 'title': 'Marketing Management - II', 'instructors': 'Prof.Jayanta Chatterjee\nProf. Shashi Shekhar Mishra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg68/preview', 'similarity': 0.18397046625614166}, {'id': 'noc25_mg43', 'title': 'Management of New Products and Services', 'instructors': 'Prof. Jayanta Chatterjee', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg43/preview', 'similarity': 0.18008804321289062}, {'id': 'noc25_cs69', 'title': 'The Joy of Computing using Python', 'instructors': 'Prof. Sudarshan Iyengar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs69/preview', 'similarity': 0.17800873517990112}, {'id': 'noc25_ee44', 'title': 'Integrated Circuits, Mosfets, OP-Amps and their Applications', 'instructors': 'Prof. Hardik Jeetendra Pandya', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee44/preview', 'similarity': 0.17139506340026855}, {'id': 'noc25_mg45', 'title': 'Marketing Analytics', 'instructors': 'Prof. Swagato Chatterjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg45/preview', 'similarity': 0.16919264197349548}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.15930524468421936}]
+2026-04-14 18:22:34,297 - INFO - Extracted Content: Module 
+ 
+Detailed Content 
+Hours 
+1 
+1.1 
+Introduction to NLP 
+3 
+ 
+ 
+Origin & History of  NLP; Language, Knowledge and Grammar in 
+language processing; Stages in NLP;Ambiguities and its types in 
+English and Indian Regional Llanguages; Challenges of 
+NLP;Applications of  NLP 
+ 
+ 
+1.2 
+Self-Learning topics: Variety types of tools for regional languages 
+pre-processing and other functionalities 
+ 
+2 
+2.1 
+Word Level Analysis 
+9 
+ 
+ 
+Basic Terms: Tokenization, Stemming, Lemmatization; Survey of 
+English Morphology, Inflectional Morphology, Derivational 
+Morphology; Regular expression with types; 
+Morphological Models: Dictionary lookup, finite state morphology; 
+Morphological parsing with FST (Finite State  Transducer);Lexicon 
+free FST Porter Stemmer algorithm; Grams and its variation: Bigram, 
+Trigram; Simple (Unsmoothed) N-grams; 
+N-gram Sensitivity to the Training Corpus; Unknown Words: Open 
+versus closed vocabulary tasks; Evaluating N-grams: Perplexity; 
+ 
+ 
+Smoothing: Laplace Smoothing, Good-Turing Discounting; 
+ 
+2.2 
+Self-Learning topics: Noisy channel models, various edit distance, 
+Advance Issues in Language Modelling 
+ 
+3 
+3.1 
+Syntax analysis 
+10 
+ 
+ 
+Part-Of-Speech tagging(POS); Tag set for English (Upenn Treebank); 
+Difficulties /Challenges in POS tagging; Rule-based, Stochastic and 
+Transformation-based tagging; Generative Model: Hidden Markov 
+Model (HMM Viterbi) for POS tagging; 
+Issues in HMM POS tagging; Discriminative Model: Maximum 
+Entropy model, Conditional random Field (CRF);Parsers: Top down 
+and Bottom up; Modelling constituency; Bottom Up Parser: CYK, 
+PCFG (Probabilistic Context Free Grammar), Shift Reduce Parser; Top 
+Down Parser: Early Parser, Predictive Parser 
+ 
+ 
+3.2 
+Self-Learning topics: Evaluating parsers, Parsers based language 
+modelling, Regional languages POS tree banks 
+ 
+4 
+4.1 
+Semantic Analysis 
+7 
+ 
+ 
+Introduction, meaning representation; Lexical Semantics; Corpus 
+study; Study of Various language dictionaries like WorldNet, Babelnet; 
+Relations among lexemes & their senses –Homonymy, Polysemy, 
+Synonymy, Hyponymy; Semantic Ambiguity; 
+Word Sense Disambiguation (WSD); Knowledge based approach( 
+Lesk’s Algorithm), Supervised (Naïve Bayes, Decision 
+List),Introduction to Semi-supervised method (Yarowsky) 
+Unsupervised (Hyperlex) 
+ 
+ 
+4.2 
+Self-Learning topics: Dictionaries for regional languages, 
+Distributional Semantics, Topic Models 
+ 
+5 
+5.1 
+Pragmatic  & Discourse Processing 
+5 
+ 
+ 
+Discourse: Reference Resolution, Reference Phenomena, Syntactic & 
+Semantic constraint on coherence; Anaphora Resolution using Hobbs 
+and Cantering Algorithm 
+ 
+ 
+5.2 
+Self-Learning topics: Discourse segmentation, Conference resolution 
+ 
+6 
+6.1 
+Applications of NLP 
+5 
+ 
+ 
+Case studies on (preferable in regional language):Machine 
+translation; Text Summarization; Sentiment analysis; Information 
+retrieval; Question Answering system 
+ 
+ 
+6.2 
+Self-Learning topics: Applications based on Deep Neural 
+Network with NLP such as LSTM network, Recurrent Neural 
+network etc.
+2026-04-14 18:22:34,376 - INFO - After preprocessing: module detailed content hour introduction nlp origin history language knowledge grammar processing stage type english indian regional llanguage challenge self learn topic variety tool pre functionality word level analysis basic term tokenization stemming lemmatization survey morphology inflectional derivational regular expression morphological model dictionary lookup finite state parsing fst free porter stemmer algorithm gram variation bigram trigram simple unsmoothed n sensitivity training corpus unknown open versus closed vocabulary task evaluate perplexity smoothing laplace good ture discounting noisy channel edit distance advance issue syntax speech tag set upenn treebank difficulty pos tagging rule base stochastic transformation generative hide markov hmm viterbi discriminative maximum entropy conditional random field constituency parser cyk pcfg probabilistic context shift reduce early predictive modelling tree bank semantic mean representation lexical study like worldnet babelnet relation lexeme sense homonymy polysemy synonymy hyponymy ambiguity disambiguation wsd approach lesk supervise naïve baye decision semi supervised method yarowsky unsupervise hyperlex distributional pragmatic discourse reference resolution phenomenon syntactic constraint coherence anaphora hobb canter segmentation conference application case preferable translation text summarization sentiment information retrieval question answer system deep neural network lstm recurrent etc
+2026-04-14 18:23:13,742 - INFO - Emebeddings Created!
+2026-04-14 18:23:13,770 - INFO - Similarity Computed!
+2026-04-14 18:23:13,780 - INFO - Courses are ready to display!
+2026-04-14 18:23:13,780 - INFO - Courses: [{'id': 'noc25_cs22', 'title': 'Deep Learning for Natural Language Processing', 'instructors': 'Prof. Pawan Goyal', 'duration': '12 weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs22/preview', 'similarity': 0.6343810558319092}, {'id': 'noc25_hs04', 'title': 'Basics of language Science', 'instructors': 'Prof. Rajesh Kumar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs04/preview', 'similarity': 0.6310245394706726}, {'id': 'noc25_cs45', 'title': 'Introduction to Large Language Models (LLMs)', 'instructors': 'Prof. Tanmoy Chakraborty\nProf. Soumen Chakraborti', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs45/preview', 'similarity': 0.6254218816757202}, {'id': 'noc25_hs95', 'title': 'Language and Mind', 'instructors': 'Prof. Rajesh Kumar', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs95/preview', 'similarity': 0.5877888798713684}, {'id': 'noc25_hs01', 'title': 'Advanced Level of Spoken Sanskrit', 'instructors': 'Prof. Anuradha Choudry', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs01/preview', 'similarity': 0.5698107481002808}, {'id': 'noc25_hs96', 'title': 'Mastering Speaking and Presentations: A case Based Approach', 'instructors': 'Prof. Seema Singh', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs96/preview', 'similarity': 0.5611785650253296}, {'id': 'noc25_cs13', 'title': 'Compiler Design', 'instructors': 'Prof. Santanu Chattopadhyay', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs13/preview', 'similarity': 0.56108558177948}, {'id': 'noc25_hs27', 'title': 'German - III', 'instructors': 'Prof. Milind Brahme', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs27/preview', 'similarity': 0.5408552885055542}]
+2026-04-14 19:10:26,416 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+ 
+Introduction to Machine Learning 
+04 
+ 
+1.1 
+Machine Learning, Types of Machine Learning, Issues in Machine 
+Learning, Application of Machine Learning, Steps in developing a 
+Machine Learning Application.  
+ 
+ 
+1.2 
+Training Error, Generalization error, Overfitting, Underfitting, Bias-
+Variance trade-off.  
+ 
+2 
+ 
+Learning with Regression and Trees 
+09 
+ 
+2.1 
+Learning with Regression: Linear Regression, Multivariate Linear 
+Regression, Logistic Regression.  
+ 
+ 
+2.2 
+Learning with Trees: Decision Trees, Constructing Decision Trees using 
+Gini Index (Regression), Classification and Regression Trees (CART)  
+ 
+ 
+2.3 
+Performance Metrics: Confusion Matrix, [Kappa Statistics], Sensitivity, 
+Specificity, Precision, Recall, F-measure, ROC curve 
+ 
+3 
+ 
+Ensemble Learning 
+06 
+ 
+3.1 
+Understanding Ensembles,  K-fold cross validation, Boosting, Stumping, 
+XGBoost 
+ 
+ 
+3.2 
+Bagging, Subagging, Random Forest, Comparison with Boosting, 
+Different ways to combine classifiers 
+ 
+4 
+ 
+Learning with Classification  
+08 
+ 
+4.1 
+Support Vector Machine 
+Constrained Optimization, Optimal decision boundary, Margins and 
+support vectors, SVM as constrained optimization problem, Quadratic 
+Programming, SVM for linear and nonlinear classification, Basics of 
+ 
+ 
+Kernel trick. 
+ 
+4.2 
+ Support Vector Regression, Multiclass Classification 
+ 
+5 
+ 
+ Learning with Clustering 
+07 
+ 
+5.1 
+Introduction to clustering with overview of distance metrics and major 
+clustering approaches. 
+ 
+ 
+5.2 
+Graph Based Clustering: Clustering with minimal spanning tree  
+Model based Clustering: Expectation Maximization Algorithm,  
+Density Based Clustering: DBSCAN 
+ 
+6 
+ 
+Dimensionality Reduction 
+05 
+ 
+6.1 
+Dimensionality Reduction Techniques, Principal Component Analysis, 
+Linear Discriminant Analysis, Singular Valued Decomposition. 
+ 
+Total 39
+2026-04-14 19:10:26,522 - INFO - After preprocessing: module content hrs introduction machine learn learning type issue application step develop training error generalization overfitte underfitting variance trade regression tree linear multivariate logistic decision construct gini index classification cart performance metric confusion matrix kappa statistic sensitivity specificity precision recall f measure roc curve ensemble understanding k fold cross validation boost stumping xgboost bagging subagging random forest comparison different way combine classifier support vector constrain optimization optimal boundary margin svm constrained problem quadratic programming nonlinear basic kernel trick multiclass cluster overview distance major clustering approach graph base minimal spanning model expectation maximization algorithm density dbscan dimensionality reduction technique principal component analysis discriminant singular value decomposition total
+2026-04-14 19:12:27,048 - INFO - Emebeddings Created!
+2026-04-14 19:12:27,155 - INFO - Similarity Computed!
+2026-04-14 19:12:27,207 - INFO - Courses are ready to display!
+2026-04-14 19:12:27,207 - INFO - Courses: [{'id': 'noc25_cs46', 'title': 'Introduction to Machine Learning', 'instructors': 'Prof. Balaraman Ravindran', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs46/preview', 'similarity': 0.6484782099723816}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5791749954223633}, {'id': 'noc25_cs47', 'title': 'Introduction to Machine Learning (Tamil)', 'instructors': 'Prof. Arun Rajkumar', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs47/preview', 'similarity': 0.5734096765518188}, {'id': 'noc25_cs20', 'title': 'Data Science for Engineers', 'instructors': 'Prof. Ragunathan Rengasamy\nProf. Shankar Narasimhan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs20/preview', 'similarity': 0.5625836849212646}, {'id': 'noc25_cs19', 'title': 'Data Mining', 'instructors': 'Prof. Pabitra Mitra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs19/preview', 'similarity': 0.549796462059021}, {'id': 'noc25_cs49', 'title': 'Machine Learning for Engineering and science applications', 'instructors': 'Prof. Balaji Srinivasan\nProf. Ganapathy Krishnamurthi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs49/preview', 'similarity': 0.5280596017837524}, {'id': 'noc25_ma11', 'title': 'Applied Linear Algebra in AI and ML', 'instructors': 'Prof. Swanand Khare', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma11/preview', 'similarity': 0.5174212455749512}, {'id': 'noc25_ge39', 'title': 'Recommender Systems', 'instructors': 'Prof. Mamata Jenamani', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge39/preview', 'similarity': 0.4918213486671448}]
+2026-04-14 19:23:37,937 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+ 
+Introduction to Machine Learning 
+04 
+ 
+1.1 
+Machine Learning, Types of Machine Learning, Issues in Machine 
+Learning, Application of Machine Learning, Steps in developing a 
+Machine Learning Application.  
+ 
+ 
+1.2 
+Training Error, Generalization error, Overfitting, Underfitting, Bias-
+Variance trade-off.  
+ 
+2 
+ 
+Learning with Regression and Trees 
+09 
+ 
+2.1 
+Learning with Regression: Linear Regression, Multivariate Linear 
+Regression, Logistic Regression.  
+ 
+ 
+2.2 
+Learning with Trees: Decision Trees, Constructing Decision Trees using 
+Gini Index (Regression), Classification and Regression Trees (CART)  
+ 
+ 
+2.3 
+Performance Metrics: Confusion Matrix, [Kappa Statistics], Sensitivity, 
+Specificity, Precision, Recall, F-measure, ROC curve 
+ 
+3 
+ 
+Ensemble Learning 
+06 
+ 
+3.1 
+Understanding Ensembles,  K-fold cross validation, Boosting, Stumping, 
+XGBoost 
+ 
+ 
+3.2 
+Bagging, Subagging, Random Forest, Comparison with Boosting, 
+Different ways to combine classifiers 
+ 
+4 
+ 
+Learning with Classification  
+08 
+ 
+4.1 
+Support Vector Machine 
+Constrained Optimization, Optimal decision boundary, Margins and 
+support vectors, SVM as constrained optimization problem, Quadratic 
+Programming, SVM for linear and nonlinear classification, Basics of 
+ 
+ 
+Kernel trick. 
+ 
+4.2 
+ Support Vector Regression, Multiclass Classification 
+ 
+5 
+ 
+ Learning with Clustering 
+07 
+ 
+5.1 
+Introduction to clustering with overview of distance metrics and major 
+clustering approaches. 
+ 
+ 
+5.2 
+Graph Based Clustering: Clustering with minimal spanning tree  
+Model based Clustering: Expectation Maximization Algorithm,  
+Density Based Clustering: DBSCAN 
+ 
+6 
+ 
+Dimensionality Reduction 
+05 
+ 
+6.1 
+Dimensionality Reduction Techniques, Principal Component Analysis, 
+Linear Discriminant Analysis, Singular Valued Decomposition. 
+ 
+Total 39
+2026-04-14 19:23:38,058 - INFO - After preprocessing: module content hrs introduction machine learn learning type issue application step develop training error generalization overfitte underfitting variance trade regression tree linear multivariate logistic decision construct gini index classification cart performance metric confusion matrix kappa statistic sensitivity specificity precision recall f measure roc curve ensemble understanding k fold cross validation boost stumping xgboost bagging subagging random forest comparison different way combine classifier support vector constrain optimization optimal boundary margin svm constrained problem quadratic programming nonlinear basic kernel trick multiclass cluster overview distance major clustering approach graph base minimal spanning model expectation maximization algorithm density dbscan dimensionality reduction technique principal component analysis discriminant singular value decomposition total
+2026-04-14 19:25:50,762 - INFO - Emebeddings Created!
+2026-04-14 19:25:50,869 - INFO - Similarity Computed!
+2026-04-14 19:25:50,889 - INFO - Courses are ready to display!
+2026-04-14 19:25:50,889 - INFO - Courses: [{'id': 'noc25_cs46', 'title': 'Introduction to Machine Learning', 'instructors': 'Prof. Balaraman Ravindran', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs46/preview', 'similarity': 0.6484782099723816}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5791749954223633}, {'id': 'noc25_cs47', 'title': 'Introduction to Machine Learning (Tamil)', 'instructors': 'Prof. Arun Rajkumar', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs47/preview', 'similarity': 0.5734096765518188}, {'id': 'noc25_cs20', 'title': 'Data Science for Engineers', 'instructors': 'Prof. Ragunathan Rengasamy\nProf. Shankar Narasimhan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs20/preview', 'similarity': 0.5625836849212646}, {'id': 'noc25_cs19', 'title': 'Data Mining', 'instructors': 'Prof. Pabitra Mitra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs19/preview', 'similarity': 0.549796462059021}, {'id': 'noc25_cs49', 'title': 'Machine Learning for Engineering and science applications', 'instructors': 'Prof. Balaji Srinivasan\nProf. Ganapathy Krishnamurthi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs49/preview', 'similarity': 0.5280596017837524}, {'id': 'noc25_ma11', 'title': 'Applied Linear Algebra in AI and ML', 'instructors': 'Prof. Swanand Khare', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma11/preview', 'similarity': 0.5174212455749512}, {'id': 'noc25_ge39', 'title': 'Recommender Systems', 'instructors': 'Prof. Mamata Jenamani', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge39/preview', 'similarity': 0.4918213486671448}]
+2026-04-14 19:27:16,353 - INFO - Extracted Content: Module  
+ 
+Content 
+Hrs 
+1 
+  
+Introduction to Blockchain  
+6 
+ 
+1.1 
+What is a blockchain, Origin of blockchain (cryptographically secure 
+hash functions), Foundation of blockchain: Merkle trees 
+  
+ 
+1.2 
+Components of blockchain, Block in blockchain, Types: Public, 
+Private, and Consortium, Consensus Protocol, Limitations and 
+Challenges of blockchain 
+  
+2 
+ 
+Cryptocurrency 
+6 
+ 
+2.1 
+Cryptocurrency: Bitcoin, Altcoin, and Tokens (Utility and Security), 
+Cryptocurrency wallets: Hot and cold wallets, Cryptocurrency usage, 
+Transactions in Blockchain, UTXO and double spending problem 
+ 
+ 
+2.2 
+Bitcoin blockchain: Consensus in Bitcoin, Proof-of-Work (PoW), 
+Proof-of-Burn (PoB), Proof-of-Stake (PoS), and Proof-of-Elapsed 
+Time (PoET), Life of a miner, Mining difficulty, Mining pool and its 
+methods 
+ 
+3 
+ 
+Programming for Blockchain 
+8 
+ 
+3.1 
+Introduction to Smart Contracts, Types of Smart Contracts, Structure 
+of a Smart Contract, Smart Contract Approaches,  Limitations of 
+Smart Contracts 
+ 
+ 
+3.2 
+Introduction to Programming: Solidity Programming – Basics, 
+functions, Visibility and Activity Qualifiers, Address and Address 
+Payable, Bytes and Enums, Arrays-Fixed and Dynamic Arrays, 
+Special Arrays-Bytes and strings, Struct, Mapping, Inheritance, Error 
+handling 
+ 
+ 
+3.3 
+Case Study – Voting Contract App, Preparing for smart contract 
+development 
+ 
+ 
+4 
+ 
+Public Blockchain 
+8 
+ 
+ 
+Introduction to Public Blockchain, Ethereum and its Components, 
+Mining in Ethereum, Ethereum Virtual Machine (EVM), Transaction, 
+Accounts, Architecture and Workflow, Comparison between Bitcoin 
+and Ethereum 
+ 
+ 
+ 
+Types of test-networks used in Ethereum, Transferring Ethers using 
+Metamask, Mist Wallet, Ethereum frameworks, Case study of 
+Ganache for Ethereum blockchain. Exploring etherscan.io and ether 
+block structure 
+ 
+5 
+ 
+Private Blockchain 
+8 
+ 
+5.1 
+Introduction, Key characteristics, Need of Private Blockchain, Smart 
+Contract in a Private Environment, State Machine Replication, 
+Consensus Algorithms for Private Blockchain - PAXOS and RAFT, 
+Byzantine Faults: Byzantine Fault Tolerant (BFT) and Practical BFT   
+ 
+ 
+5.2 
+Introduction to Hyperledger, Tools and Frameworks, Hyperledger 
+Fabric, 
+Comparison 
+between 
+Hyperledger 
+Fabric 
+& 
+Other 
+Technologies 
+ 
+ 
+5.3 
+Hyperledger Fabric Architecture, Components of Hyperledger Fabric: 
+MSP, Chain Codes, Transaction Flow, Working of Hyperledger 
+Fabric, Creating Hyperledger Network, Case Study of Supply Chain 
+Management using Hyperledger 
+ 
+6 
+ 
+Tools and Applications of Blockchain 
+3 
+ 
+ 
+Corda, Ripple, Quorum and other Emerging Blockchain Platforms, 
+Blockchain in DeFi: Case Study on any of the Blockchain Platforms.
+2026-04-14 19:27:16,512 - INFO - After preprocessing: module content hrs introduction blockchain origin cryptographically secure hash function foundation merkle tree component block type public private consortium consensus protocol limitation challenge cryptocurrency bitcoin altcoin tokens utility security wallet hot cold usage transaction utxo double spending problem proof work pow burn pob stake pos elapse time poet life miner mining difficulty pool method programming smart contract structure approach solidity basic visibility activity qualifier address payable byte enum arrays fix dynamic array special string struct mapping inheritance error handle case study vote app prepare development ethereum virtual machine evm account architecture workflow comparison test network transfer ether metamask mist framework ganache explore key characteristic need environment state replication algorithm paxos raft byzantine fault tolerant bft practical hyperledger tool fabric technology msp chain code flow create supply management application corda ripple quorum emerge platform defi
+2026-04-14 19:27:24,898 - INFO - Embeddings Ready!
+2026-04-14 19:27:25,239 - INFO - Similarity Computed!
+2026-04-14 19:27:25,321 - INFO - Courses are ready to display!
+2026-04-14 19:27:25,321 - INFO - Courses: [{'id': 'noc25_cs08', 'title': 'Blockchain and its Applications', 'instructors': 'Prof. Sandip Chakraborty\nProf. Shamik Sural', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs08/preview', 'similarity': 0.5814386010169983}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5724645853042603}, {'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.544427216053009}, {'id': 'noc25_cs34', 'title': 'Fundamentals of Object Oriented Programming', 'instructors': 'Prof. Balasubramanian Raman', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs34/preview', 'similarity': 0.5135992765426636}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.5108391046524048}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.4861147701740265}, {'id': 'noc25_mg62', 'title': 'Supply Chain Digitization', 'instructors': 'Prof. Priyanka Verma\nProf. Sushmita Narayana\nProf. Debabrata Das', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg62/preview', 'similarity': 0.48594653606414795}, {'id': 'noc25_cs31', 'title': 'Foundations of Cryptography', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs31/preview', 'similarity': 0.48213425278663635}]
+2026-04-14 19:28:32,603 - INFO - Extracted Content: 
+2026-04-14 19:28:32,603 - INFO - After preprocessing: 
+2026-04-14 19:28:38,311 - INFO - Embeddings Ready!
+2026-04-14 19:28:38,393 - INFO - Similarity Computed!
+2026-04-14 19:28:38,403 - INFO - Courses are ready to display!
+2026-04-14 19:28:38,403 - INFO - Courses: [{'id': 'noc25_ag01', 'title': 'Basics of Crop Breeding and Plant Biotechnology', 'instructors': 'Prof. Joydeep Banerjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ag01/preview', 'similarity': 1.0}, {'id': 'noc25_mg29', 'title': 'Integrated Marketing Communication', 'instructors': 'Prof. Vinay Sharma', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg29/preview', 'similarity': 0.1926453411579132}, {'id': 'noc25_mg68', 'title': 'Marketing Management - II', 'instructors': 'Prof.Jayanta Chatterjee\nProf. Shashi Shekhar Mishra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg68/preview', 'similarity': 0.18397046625614166}, {'id': 'noc25_mg43', 'title': 'Management of New Products and Services', 'instructors': 'Prof. Jayanta Chatterjee', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg43/preview', 'similarity': 0.18008804321289062}, {'id': 'noc25_cs69', 'title': 'The Joy of Computing using Python', 'instructors': 'Prof. Sudarshan Iyengar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs69/preview', 'similarity': 0.17800873517990112}, {'id': 'noc25_ee44', 'title': 'Integrated Circuits, Mosfets, OP-Amps and their Applications', 'instructors': 'Prof. Hardik Jeetendra Pandya', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee44/preview', 'similarity': 0.17139506340026855}, {'id': 'noc25_mg45', 'title': 'Marketing Analytics', 'instructors': 'Prof. Swagato Chatterjee', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg45/preview', 'similarity': 0.16919264197349548}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.15930524468421936}]
+2026-04-14 19:28:47,943 - INFO - Extracted Content: Module 
+ 
+Detailed Content 
+Hours 
+1 
+ 
+Introduction to Big Data and Hadoop 
+2 
+ 
+1.1 Introduction to Big Data - Big Data characteristics and Types of Big Data 
+ 
+ 
+1.2 Traditional vs. Big Data business approach 
+ 
+ 
+1.3 Case Study of Big Data Solutions 
+ 
+ 
+1.4 Concept of Hadoop, Core Hadoop Components; Hadoop Ecosystem 
+ 
+2 
+ 
+Hadoop HDFS and MapReduce 
+8 
+ 
+2.1 Distributed File Systems: Physical Organization of Compute Nodes, Large-
+Scale File-System Organization. 
+ 
+ 
+2.2 MapReduce: The Map Tasks, Grouping by Key,  The Reduce Tasks, 
+Combiners, Details of MapReduce Execution, Coping With Node Failures. 
+ 
+ 
+2.3 
+Algorithms Using MapReduce: Matrix-Vector Multiplication by MapReduce, 
+Relational-Algebra Operations, Computing Selections by MapReduce, 
+Computing Projections by MapReduce, Union ,Intersection, 
+and Difference by MapReduce 
+ 
+ 
+ 
+2.4 Hadoop Limitations 
+ 
+3 
+ 
+NoSQL 
+10 
+ 
+3.1 Introduction to NoSQL, NoSQL Business Drivers 
+ 
+ 
+3.2 
+NoSQL Data Architecture Patterns: Key-value stores, Graph stores, Column 
+family (Bigtable)stores, Document stores, Variations of NoSQL architectural 
+patterns, NoSQL Case Study 
+ 
+ 
+3.3 
+NoSQL solution for big data, Understanding the types of big data problems; 
+Analyzing big data with a shared-nothing architecture; Choosing distribution 
+models: master-slave versus peer-to-peer; NoSQL systems to handle big data 
+problems. 
+ 
+4 
+ 
+Mining Data Streams 
+11 
+ 
+4.1 The Stream Data Model: A Data-Stream-Management System, Examples of 
+Stream Sources, Stream Queries, Issues in Stream Processing. 
+ 
+ 
+4.2 Sampling Data techniques in a Stream 
+ 
+ 
+4.3 Filtering Streams: Bloom Filter with Analysis. 
+ 
+ 
+4.4 
+Counting 
+Distinct 
+Elements 
+in 
+a 
+Stream,Count-
+Distinct 
+Problem, Flajolet-Martin Algorithm, Combining Estimates, 
+Space Requirements 
+ 
+ 
+4.5 
+Counting Ones in a Window: The Cost of Exact Counts,The 
+Datar-Gionis-Indyk-Motwani Algorithm, Query Answering in theDGIM 
+Algorithm, Decaying Windows. 
+ 
+5 
+ 
+Real-Time Big Data Models 
+4 
+ 
+5.1 A Model for Recommendation Systems, Content-Based Recommendations, 
+Collaborative Filtering 
+ 
+ 
+5.2 Case Study: Product Recommendation 
+ 
+ 
+5.3 Social Networks as Graphs, Clustering of Social-Network Graphs, Direct 
+Discovery of Communities in a social graph 
+ 
+6 
+Data Analytics with R 
+4 
+ 
+6.1 
+Exploring Basic features of R, Exploring RGUI, Exploring RStudio, Handling 
+Basic Expressions in R, Variables in R, Working with Vectors, Storing and 
+Calculating Values in R, Creating and using Objects, Interacting with users, 
+Handling data in R workspace, Executing Scripts, Creating Plots, 
+Accessing help and documentation in R 
+ 
+ 
+6.2 
+Reading datasets and Exporting data from R, Manipulating and Processing 
+Data in R, Using functions instead of script, built-in functions in R 
+ 
+ 
+6.3 
+Data Visualization: Types, Applications
+2026-04-14 19:28:48,045 - INFO - After preprocessing: module detailed content hour introduction big datum hadoop data characteristic type traditional business approach case study solution concept core component ecosystem hdfs mapreduce distribute file system physical organization compute nodes scale map task group key reduce combiner detail execution cope node failure algorithm matrix vector multiplication relational algebra operation selection computing projection union intersection difference limitation nosql driver architecture pattern value store graph column family document variation architectural understand problem analyze share choose distribution model master slave versus peer handle mining stream management example source query issue processing sample technique filtering bloom filter analysis count distinct element flajolet martin combine estimate space requirement one window cost exact datar gionis indyk motwani answer thedgim decay real time recommendation base collaborative product social network cluster direct discovery community analytic r explore basic feature rgui rstudio expression variable work calculate create object interact user workspace execute script plot access help documentation reading dataset export manipulating function instead build visualization application
+2026-04-14 19:28:53,516 - INFO - Embeddings Ready!
+2026-04-14 19:28:53,580 - INFO - Similarity Computed!
+2026-04-14 19:28:53,599 - INFO - Courses are ready to display!
+2026-04-14 19:28:53,600 - INFO - Courses: [{'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.578317403793335}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5673487186431885}, {'id': 'noc25_cs23', 'title': 'Design and analysis of algorithms', 'instructors': 'Prof. Madhavan Mukund', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs23/preview', 'similarity': 0.5634801387786865}, {'id': 'noc25_hs06', 'title': 'Computer Aided Decision Systems - Industrial practices using Big Analytics', 'instructors': 'Prof. Deepu Philip\nProf. Amandeep Singh Oberoi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs06/preview', 'similarity': 0.5574445724487305}, {'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.5144033432006836}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.49428972601890564}, {'id': 'noc25_cs59', 'title': 'Programming, Data Structures And Algorithms Using Python', 'instructors': 'Prof. Madhavan Mukund', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs59/preview', 'similarity': 0.48007020354270935}, {'id': 'noc25_cs40', 'title': 'Introduction to Database Systems', 'instructors': 'Prof. Sreenivasa Kumar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs40/preview', 'similarity': 0.47041964530944824}]
+2026-04-14 19:29:10,190 - INFO - Extracted Content: Module 
+ 
+Detailed Content 
+Hours 
+1 
+1.1 
+Introduction to NLP 
+3 
+ 
+ 
+Origin & History of  NLP; Language, Knowledge and Grammar in 
+language processing; Stages in NLP;Ambiguities and its types in 
+English and Indian Regional Llanguages; Challenges of 
+NLP;Applications of  NLP 
+ 
+ 
+1.2 
+Self-Learning topics: Variety types of tools for regional languages 
+pre-processing and other functionalities 
+ 
+2 
+2.1 
+Word Level Analysis 
+9 
+ 
+ 
+Basic Terms: Tokenization, Stemming, Lemmatization; Survey of 
+English Morphology, Inflectional Morphology, Derivational 
+Morphology; Regular expression with types; 
+Morphological Models: Dictionary lookup, finite state morphology; 
+Morphological parsing with FST (Finite State  Transducer);Lexicon 
+free FST Porter Stemmer algorithm; Grams and its variation: Bigram, 
+Trigram; Simple (Unsmoothed) N-grams; 
+N-gram Sensitivity to the Training Corpus; Unknown Words: Open 
+versus closed vocabulary tasks; Evaluating N-grams: Perplexity; 
+ 
+ 
+Smoothing: Laplace Smoothing, Good-Turing Discounting; 
+ 
+2.2 
+Self-Learning topics: Noisy channel models, various edit distance, 
+Advance Issues in Language Modelling 
+ 
+3 
+3.1 
+Syntax analysis 
+10 
+ 
+ 
+Part-Of-Speech tagging(POS); Tag set for English (Upenn Treebank); 
+Difficulties /Challenges in POS tagging; Rule-based, Stochastic and 
+Transformation-based tagging; Generative Model: Hidden Markov 
+Model (HMM Viterbi) for POS tagging; 
+Issues in HMM POS tagging; Discriminative Model: Maximum 
+Entropy model, Conditional random Field (CRF);Parsers: Top down 
+and Bottom up; Modelling constituency; Bottom Up Parser: CYK, 
+PCFG (Probabilistic Context Free Grammar), Shift Reduce Parser; Top 
+Down Parser: Early Parser, Predictive Parser 
+ 
+ 
+3.2 
+Self-Learning topics: Evaluating parsers, Parsers based language 
+modelling, Regional languages POS tree banks 
+ 
+4 
+4.1 
+Semantic Analysis 
+7 
+ 
+ 
+Introduction, meaning representation; Lexical Semantics; Corpus 
+study; Study of Various language dictionaries like WorldNet, Babelnet; 
+Relations among lexemes & their senses –Homonymy, Polysemy, 
+Synonymy, Hyponymy; Semantic Ambiguity; 
+Word Sense Disambiguation (WSD); Knowledge based approach( 
+Lesk’s Algorithm), Supervised (Naïve Bayes, Decision 
+List),Introduction to Semi-supervised method (Yarowsky) 
+Unsupervised (Hyperlex) 
+ 
+ 
+4.2 
+Self-Learning topics: Dictionaries for regional languages, 
+Distributional Semantics, Topic Models 
+ 
+5 
+5.1 
+Pragmatic  & Discourse Processing 
+5 
+ 
+ 
+Discourse: Reference Resolution, Reference Phenomena, Syntactic & 
+Semantic constraint on coherence; Anaphora Resolution using Hobbs 
+and Cantering Algorithm 
+ 
+ 
+5.2 
+Self-Learning topics: Discourse segmentation, Conference resolution 
+ 
+6 
+6.1 
+Applications of NLP 
+5 
+ 
+ 
+Case studies on (preferable in regional language):Machine 
+translation; Text Summarization; Sentiment analysis; Information 
+retrieval; Question Answering system 
+ 
+ 
+6.2 
+Self-Learning topics: Applications based on Deep Neural 
+Network with NLP such as LSTM network, Recurrent Neural 
+network etc.
+2026-04-14 19:29:10,273 - INFO - After preprocessing: module detailed content hour introduction nlp origin history language knowledge grammar processing stage type english indian regional llanguage challenge self learn topic variety tool pre functionality word level analysis basic term tokenization stemming lemmatization survey morphology inflectional derivational regular expression morphological model dictionary lookup finite state parsing fst free porter stemmer algorithm gram variation bigram trigram simple unsmoothed n sensitivity training corpus unknown open versus closed vocabulary task evaluate perplexity smoothing laplace good ture discounting noisy channel edit distance advance issue syntax speech tag set upenn treebank difficulty pos tagging rule base stochastic transformation generative hide markov hmm viterbi discriminative maximum entropy conditional random field constituency parser cyk pcfg probabilistic context shift reduce early predictive modelling tree bank semantic mean representation lexical study like worldnet babelnet relation lexeme sense homonymy polysemy synonymy hyponymy ambiguity disambiguation wsd approach lesk supervise naïve baye decision semi supervised method yarowsky unsupervise hyperlex distributional pragmatic discourse reference resolution phenomenon syntactic constraint coherence anaphora hobb canter segmentation conference application case preferable translation text summarization sentiment information retrieval question answer system deep neural network lstm recurrent etc
+2026-04-14 19:29:16,209 - INFO - Embeddings Ready!
+2026-04-14 19:29:16,275 - INFO - Similarity Computed!
+2026-04-14 19:29:16,285 - INFO - Courses are ready to display!
+2026-04-14 19:29:16,285 - INFO - Courses: [{'id': 'noc25_cs22', 'title': 'Deep Learning for Natural Language Processing', 'instructors': 'Prof. Pawan Goyal', 'duration': '12 weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs22/preview', 'similarity': 0.6343810558319092}, {'id': 'noc25_hs04', 'title': 'Basics of language Science', 'instructors': 'Prof. Rajesh Kumar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs04/preview', 'similarity': 0.6310245394706726}, {'id': 'noc25_cs45', 'title': 'Introduction to Large Language Models (LLMs)', 'instructors': 'Prof. Tanmoy Chakraborty\nProf. Soumen Chakraborti', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs45/preview', 'similarity': 0.6254218816757202}, {'id': 'noc25_hs95', 'title': 'Language and Mind', 'instructors': 'Prof. Rajesh Kumar', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs95/preview', 'similarity': 0.5877888798713684}, {'id': 'noc25_hs01', 'title': 'Advanced Level of Spoken Sanskrit', 'instructors': 'Prof. Anuradha Choudry', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs01/preview', 'similarity': 0.5698107481002808}, {'id': 'noc25_hs96', 'title': 'Mastering Speaking and Presentations: A case Based Approach', 'instructors': 'Prof. Seema Singh', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs96/preview', 'similarity': 0.5611785650253296}, {'id': 'noc25_cs13', 'title': 'Compiler Design', 'instructors': 'Prof. Santanu Chattopadhyay', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs13/preview', 'similarity': 0.56108558177948}, {'id': 'noc25_hs27', 'title': 'German - III', 'instructors': 'Prof. Milind Brahme', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs27/preview', 'similarity': 0.5408552885055542}]
+2026-04-14 19:45:50,754 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+ 
+Introduction to Machine Learning 
+04 
+ 
+1.1 
+Machine Learning, Types of Machine Learning, Issues in Machine 
+Learning, Application of Machine Learning, Steps in developing a 
+Machine Learning Application.  
+ 
+ 
+1.2 
+Training Error, Generalization error, Overfitting, Underfitting, Bias-
+Variance trade-off.  
+ 
+2 
+ 
+Learning with Regression and Trees 
+09 
+ 
+2.1 
+Learning with Regression: Linear Regression, Multivariate Linear 
+Regression, Logistic Regression.  
+ 
+ 
+2.2 
+Learning with Trees: Decision Trees, Constructing Decision Trees using 
+Gini Index (Regression), Classification and Regression Trees (CART)  
+ 
+ 
+2.3 
+Performance Metrics: Confusion Matrix, [Kappa Statistics], Sensitivity, 
+Specificity, Precision, Recall, F-measure, ROC curve 
+ 
+3 
+ 
+Ensemble Learning 
+06 
+ 
+3.1 
+Understanding Ensembles,  K-fold cross validation, Boosting, Stumping, 
+XGBoost 
+ 
+ 
+3.2 
+Bagging, Subagging, Random Forest, Comparison with Boosting, 
+Different ways to combine classifiers 
+ 
+4 
+ 
+Learning with Classification  
+08 
+ 
+4.1 
+Support Vector Machine 
+Constrained Optimization, Optimal decision boundary, Margins and 
+support vectors, SVM as constrained optimization problem, Quadratic 
+Programming, SVM for linear and nonlinear classification, Basics of 
+ 
+ 
+Kernel trick. 
+ 
+4.2 
+ Support Vector Regression, Multiclass Classification 
+ 
+5 
+ 
+ Learning with Clustering 
+07 
+ 
+5.1 
+Introduction to clustering with overview of distance metrics and major 
+clustering approaches. 
+ 
+ 
+5.2 
+Graph Based Clustering: Clustering with minimal spanning tree  
+Model based Clustering: Expectation Maximization Algorithm,  
+Density Based Clustering: DBSCAN 
+ 
+6 
+ 
+Dimensionality Reduction 
+05 
+ 
+6.1 
+Dimensionality Reduction Techniques, Principal Component Analysis, 
+Linear Discriminant Analysis, Singular Valued Decomposition. 
+ 
+Total 39
+2026-04-14 19:45:50,818 - INFO - After preprocessing: module content hrs introduction machine learn learning type issue application step develop training error generalization overfitte underfitting variance trade regression tree linear multivariate logistic decision construct gini index classification cart performance metric confusion matrix kappa statistic sensitivity specificity precision recall f measure roc curve ensemble understanding k fold cross validation boost stumping xgboost bagging subagging random forest comparison different way combine classifier support vector constrain optimization optimal boundary margin svm constrained problem quadratic programming nonlinear basic kernel trick multiclass cluster overview distance major clustering approach graph base minimal spanning model expectation maximization algorithm density dbscan dimensionality reduction technique principal component analysis discriminant singular value decomposition total
+2026-04-14 19:45:51,027 - INFO - Embeddings Ready!
+2026-04-14 19:45:51,102 - INFO - Similarity Computed!
+2026-04-14 19:45:51,114 - INFO - Courses are ready to display!
+2026-04-14 19:45:51,114 - INFO - Courses: [{'id': 'noc25_cs46', 'title': 'Introduction to Machine Learning', 'instructors': 'Prof. Balaraman Ravindran', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs46/preview', 'similarity': 0.6484782099723816}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5791749954223633}, {'id': 'noc25_cs47', 'title': 'Introduction to Machine Learning (Tamil)', 'instructors': 'Prof. Arun Rajkumar', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs47/preview', 'similarity': 0.5734096765518188}, {'id': 'noc25_cs20', 'title': 'Data Science for Engineers', 'instructors': 'Prof. Ragunathan Rengasamy\nProf. Shankar Narasimhan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs20/preview', 'similarity': 0.5625836849212646}, {'id': 'noc25_cs19', 'title': 'Data Mining', 'instructors': 'Prof. Pabitra Mitra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs19/preview', 'similarity': 0.549796462059021}, {'id': 'noc25_cs49', 'title': 'Machine Learning for Engineering and science applications', 'instructors': 'Prof. Balaji Srinivasan\nProf. Ganapathy Krishnamurthi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs49/preview', 'similarity': 0.5280596017837524}, {'id': 'noc25_ma11', 'title': 'Applied Linear Algebra in AI and ML', 'instructors': 'Prof. Swanand Khare', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma11/preview', 'similarity': 0.5174212455749512}, {'id': 'noc25_ge39', 'title': 'Recommender Systems', 'instructors': 'Prof. Mamata Jenamani', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge39/preview', 'similarity': 0.4918213486671448}]
+2026-04-14 21:06:11,675 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 21:06:11,727 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 21:06:11,942 - INFO - Embeddings Ready!
+2026-04-14 21:06:12,019 - INFO - Similarity Computed!
+2026-04-14 21:06:12,034 - INFO - Courses are ready to display!
+2026-04-14 21:06:12,034 - INFO - Courses: [{'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.6353897452354431}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5901263952255249}, {'id': 'noc25_cs12', 'title': 'Cloud Computing and Distributed Systems', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs12/preview', 'similarity': 0.5345965623855591}, {'id': 'noc25_ma27', 'title': 'High Performance Scientific Computing', 'instructors': 'Prof. Shivasubramanian Gopalakrishnan\nProf. Om Jadhav\nProf. S Vamshi Krishna\nProf. Ashish Kuvelkar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma27/preview', 'similarity': 0.50249183177948}, {'id': 'noc25_mg59', 'title': 'Simulation of Business Systems: An Applied Approach', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg59/preview', 'similarity': 0.5024466514587402}, {'id': 'noc25_cs75', 'title': 'Foundation of Cloud IoT Edge ML', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs75/preview', 'similarity': 0.5022459030151367}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.4948577284812927}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.4731217920780182}]
+2026-04-14 21:06:27,612 - INFO - Extracted Content: Module 
+Content 
+Hrs 
+1 
+Introduction to Distributed Systems 
+4 
+1.1 
+Characterization of Distributed Systems: Issues, Goals, Types of distributed 
+systems, Grid and Cluster computing Models, Hardware and Software Concepts: 
+NOS, DOS. 
+ 
+1.2 
+Middleware: Models of middleware, Services offered by middleware. 
+ 
+2 
+Communication 
+4 
+2.1 
+Interprocess communication (IPC): Remote Procedure Call (RPC), Remote 
+Method Invocation (RMI). 
+ 
+2.2 
+Message-Oriented Communication, Stream Oriented Communication, Group 
+Communication. 
+ 
+3 
+Synchronization 
+10 
+3.1 
+Clock Synchronization: Physical clock, Logical Clocks, Election Algorithms 
+ 
+3.2 
+Distributed Mutual Exclusion, Requirements of Mutual Exclusion Algorithms and 
+Performance measures. 
+Non- token Based Algorithms: Lamport, Ricart–Agrawala‘s and Maekawa‘s 
+Algorithms; Token-based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms 
+and Raymond‘s Tree-based Algorithm; and Comparative Performance Analysis. 
+ 
+ 
+3.3 
+Deadlock: Introduction, Deadlock Detection: Centralized approach, Chandy -
+Misra_Hass Algorithm. 
+ 
+4 
+Resource and Process Management 
+7 
+4.1 
+Desirable Features of Global Scheduling algorithm, Task assignment approach, 
+Load balancing approach and load sharing approach.  
+ 
+4.2 
+Introduction to Process Management, Process Migration, Code Migration. 
+ 
+5 
+Replication, Consistency and Fault Tolerance 
+5.1 
+Distributed Shared Memory: Architecture, design issues. 
+8 
+5.2 
+Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management. 
+ 
+5.3 
+Fault Tolerance: Introduction, Process resilience, Recovery. 
+ 
+6 
+Distributed File Systems  
+6 
+6.1 
+Introduction and features of DFS, File models, File Accessing models, File-
+Caching Schemes, File Replication, Case Study: Network File System (NFS). 
+ 
+6.2 
+Designing Distributed Systems: Google Case Study.
+2026-04-14 21:06:27,655 - INFO - After preprocessing: module content hrs introduction distribute system characterization issue goal type grid cluster computing model hardware software concept nos dos middleware service offer communication interprocess ipc remote procedure rpc method invocation rmi message orient stream group synchronization clock physical logical election algorithm mutual exclusion requirement performance measure token base lamport ricart suzuki broadcast tree comparative analysis deadlock detection centralized approach chandy resource process management desirable feature global scheduling task assignment load balance sharing migration code replication consistency fault tolerance share memory architecture design data centric client replica resilience recovery file dfs accessing cache scheme case study network nfs designing google
+2026-04-14 21:06:27,831 - INFO - Embeddings Ready!
+2026-04-14 21:06:27,904 - INFO - Similarity Computed!
+2026-04-14 21:06:27,915 - INFO - Courses are ready to display!
+2026-04-14 21:06:27,916 - INFO - Courses: [{'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.6353897452354431}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5901263952255249}, {'id': 'noc25_cs12', 'title': 'Cloud Computing and Distributed Systems', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs12/preview', 'similarity': 0.5345965623855591}, {'id': 'noc25_ma27', 'title': 'High Performance Scientific Computing', 'instructors': 'Prof. Shivasubramanian Gopalakrishnan\nProf. Om Jadhav\nProf. S Vamshi Krishna\nProf. Ashish Kuvelkar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ma27/preview', 'similarity': 0.50249183177948}, {'id': 'noc25_mg59', 'title': 'Simulation of Business Systems: An Applied Approach', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg59/preview', 'similarity': 0.5024466514587402}, {'id': 'noc25_cs75', 'title': 'Foundation of Cloud IoT Edge ML', 'instructors': 'Prof. Rajiv Misra', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs75/preview', 'similarity': 0.5022459030151367}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.4948577284812927}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.4731217920780182}]

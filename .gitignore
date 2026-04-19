@@ -292,3 +292,38 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# ============================================
+# TutorVision Project-Specific
+# ============================================
+
+# Generated output files
+backend/artifacts/generated/
+backend/artifacts/question_papers/*.pdf
+backend/artifacts/question_papers/threshold.txt
+backend/artifacts/similarity_scores.json
+backend/artifacts/nptel_course_embeddings.json
+backend/artifacts/College_Course_Syllabus.pdf
+backend/artifacts/*.pdf
+
+# Logs
+backend/logs/
+backend/backend.log
+backend/*.log
+
+# Output JSON
+backend/output_paper_api.json
+output_paper_api.json
+
+# Test / scratch files
+backend/scratch/
+backend/test_*.py
+backend/list_gemini_models.py
+
+# Frontend build & backup
+frontend/dist/
+frontend/src/aurora_recovery_backup/
+frontend/src/backup_dark_theme/
+
+# VS Code
+.vscode/

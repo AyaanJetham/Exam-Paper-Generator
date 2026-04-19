@@ -106,39 +106,28 @@ Before you begin, ensure you have the following installed:
 
 ## Quick Setup Guide
 
-### Backend Setup
+### The "One-Click" Setup (For Team Members on Windows)
 
-1. **Navigate to the backend directory:**
-   ```bash
-   cd backend
-   ```
+1. **Run the Setup Script**
+   Double-click `setup_windows.bat` in the root folder.
+   This script will automatically:
+   - Create a Python virtual environment
+   - Install all backend requirements
+   - Download necessary NLP models
+   - Copy `.env.example` to `backend/.env`
+   - Install all React frontend dependencies
 
-2. **Create a Python virtual environment (recommended):**
-   ```bash
-   # On Windows
-   python -m venv venv
-   venv\Scripts\activate
+2. **Add API Keys**
+   Open `backend/.env` and add your free API keys for the LLMs.
+   (Links to get them are included inside the `.env` file).
 
-   # On macOS/Linux
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
+3. **Resources Folder**
+   Place your standard syllabuses in `resources/syllabuses/` and Past Year Question (PYQ) papers in `resources/pyqs/`. This keeps them handy whenever you want to upload and run the code.
 
-3. **Install Python dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+4. **Start the App**
+   Double-click `start_tutorvision.bat` to launch both backend and frontend servers automatically!
 
-4. **Download required NLP models:**
-   ```bash
-   python -m spacy download en_core_web_sm
-   python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
-   ```
-
-5. **Verify the data files exist:**
-   - Ensure `data/processed/final_data.csv` exists
-   - Ensure `data_scrape/cleaned_scraped.json` exists
-   - If missing, you may need to run data preprocessing scripts from the `notebooks/` folder
+### Manual Setup (For Reference/Other OS)
 
 ### Frontend Setup
 

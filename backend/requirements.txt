@@ -1,6 +1,20 @@
+fastapi
+uvicorn
 pydantic<2.0
-pip install --upgrade pip setuptools wheel
-pip uninstall spacy thinc numpy -y
-pip install numpy==1.26.4
-pip install spacy==3.7.4 thinc==8.2.3
-python -m spacy download en_core_web_sm
+fpdf
+python-docx
+numpy==1.26.4
+spacy==3.7.4
+thinc==8.2.3
+sentence-transformers
+pandas
+nltk
+requests
+python-dotenv
+PyMuPDF
+PyPDF2
+scikit-learn
+chart_studio
+matplotlib
+python-multipart
+werkzeug
