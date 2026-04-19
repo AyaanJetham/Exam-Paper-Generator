@@ -1,356 +1,123 @@
-# Tutor Vision
+# TutorVision - Academic Academic Exam & Resource Engine
 
-An intelligent exam paper generator and course recommendation system that analyzes your syllabus and matches it with relevant NPTEL courses while providing learning resources and generating practice question papers.
+An intelligent, AI-powered exam paper generator and course recommendation system. TutorVision analyzes academic syllabuses along with past year questions (PYQs) to automatically curate university-level exam papers, MCQ quizzes, study question banks, and map relevant NPTEL courses.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
+- [Project Overview & Architecture](#project-overview--architecture)
 - [Prerequisites](#prerequisites)
-- [Quick Setup Guide](#quick-setup-guide)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Usage Guide](#usage-guide)
-- [Project Architecture](#project-architecture)
-- [Contributing](#contributing)
-- [License](#license)
+- [Quick Setup (For PC / Team Members)](#quick-setup-for-pc--team-members)
+- [Using the Generator](#using-the-generator)
+- [Troubleshooting & API Failover](#troubleshooting--api-failover)
+
+---
 
 ## Features
 
-✨ **Core Features:**
-- 📄 **PDF Syllabus Upload** - Upload course syllabuses in PDF format
-- 🤖 **Course Matching** - Intelligent matching with NPTEL courses using embeddings and similarity scoring
-- 📚 **Learning Resources** - Automatic extraction of keywords and relevant learning resources from Google
-- 📝 **Question Paper Generation** - Generate practice question papers based on syllabus content
-- 🎯 **Course Recommendations** - Get top 8 most relevant courses with similarity scores
-- 📊 **NLP Processing** - Advanced text preprocessing and keyword extraction
+✨ **Core Capabilities:**
+- 📄 **Smart Exam Paper Generation:** Upload a Syllabus PDF and past exam papers, pick your repetition threshold, and instantly generate a formatted 80-mark university question paper (accessible in PDF & DOCX).
+- 🧩 **MCQ Generator:** Quickly derive exactly 40 highly-relevant Multiple Choice Questions referencing specific past patterns.
+- 📚 **Syllabus & Question Bank Tracking:** Automatically curates a targeted question bank organized by modules for extensive exam prep.
+- 📉 **Course & Trend Analysis:** Visually analyze the syllabus-to-PYQ correlation to discover which modules represent the highest weightage for study efficiency.
+- 🤖 **Resilient Multi-LLM Processing:** Built-in failover logic iterates over multiple top-tier providers (Groq, Together AI, Cerebras, Hugging Face, Gemini) to avoid rate limits and minimize setup costs. 
 
-## Project Overview
-
-Tutor Vision is designed to help educators and students:
-1. **Analyze Syllabuses** - Extract and process course content from PDF documents
-2. **Find Relevant Courses** - Discover similar NPTEL courses using AI-powered matching
-3. **Resource Discovery** - Automatically find supplementary learning materials
-4. **Assessment Creation** - Generate practice question papers for exams
+---
 
 ## Tech Stack
 
 **Backend:**
-- FastAPI - Fast web framework for APIs
-- Python 3.x
-- NLTK - Natural Language Toolkit for text processing
-- spaCy - Industrial-strength NLP library
-- PyMuPDF - PDF text extraction
-- scikit-learn - Machine learning and similarity computation
+- **FastAPI** - High-performance web framework for APIs routing.
+- **Python 3.10+** - Core data processing.
+- **PyMuPDF & PyPDF2** - High-fidelity text extraction.
+- **FPDF & Python-Docx** - Exporting final document renders securely.
 
 **Frontend:**
-- React 18.3 - UI library
-- Vite - Fast build tool and dev server
-- Tailwind CSS - Utility-first CSS framework
-- Axios - HTTP client
-- Framer Motion - Animation library
-- React Dropzone - File upload component
+- **React.js 18** - Responsive user interface.
+- **Vite** - Lightning-fast build tool and dev server.
+- **Tailwind CSS** - Clean, modern, responsive aesthetics.
+- **Framer Motion** - Smooth UI component transitions.
 
-**Data:**
-- NPTEL course dataset (JSON format)
-- Course metadata (CSV format)
-- Similarity scores caching
+---
 
-## Project Structure
+## Project Overview & Architecture
 
-```
+**How it works seamlessly:** 
+1. **User Provides Data:** You place generic standard resources into `resources/pyqs/` and `resources/syllabuses/` so they remain continuously available to use.
+2. **Text Extractions:** When uploaded inside the web-app, PyMuPDF extracts rich text efficiently.
+3. **Prompt Construction:** The extracted data is formatted precisely according to current rules to dictate part sub-structures, instruction types, and answer key inclusion. 
+4. **Resilient AI Execution:** The `generate_paper.py` backend class iteratively connects to active AI models until it finds a reliable connection to compute your paper. 
+5. **Formatted Output:** Results manifest instantly on the UI — where an explicit Python endpoint generates secure Document downloads.
+
+```text
 Exam-Paper-Generator/
-├── backend/                          # FastAPI backend
-│   ├── src/
-│   │   ├── app.py                   # Main FastAPI application
-│   │   ├── data_preprocessing/      # Text preprocessing utilities
-│   │   ├── generating_embeddings/   # Embedding generation for courses & users
-│   │   ├── similarity/              # Similarity matching algorithms
-│   │   ├── user_syllabus_processing/ # PDF extraction & processing
-│   │   ├── getResources/            # Resource search & ranking
-│   │   └── utils/                   # Utility functions
-│   ├── data/                         # Dataset files
-│   │   ├── raw/                     # Original NPTEL course data
-│   │   └── processed/               # Processed datasets
-│   ├── data_scrape/                 # Web scraping scripts
-│   ├── artifacts/                   # Generated outputs
-│   ├── logs/                        # Application logs
-│   └── requirements.txt             # Python dependencies
-│
-├── frontend/                         # React frontend
-│   ├── src/
-│   │   ├── components/              # React components
-│   │   ├── services/                # API service layer
-│   │   ├── types/                   # TypeScript type definitions
-│   │   └── App.tsx                  # Main App component
-│   ├── public/                      # Static assets
-│   ├── package.json                 # NPM dependencies
-│   └── vite.config.js               # Vite configuration
-│
-└── README.md                         # This file
+├── backend/                  # FastAPI backend
+│   ├── artifacts/            # Output processing area (Logs, thresholds limit cache)
+│   ├── src/                  
+│   │   ├── app.py            # Primary endpoints defined here
+│   │   └── utils/            # Essential generators (PDF layout, docx formatting, logic)
+│   └── .env.example          # Template API configurations!
+├── frontend/                 # React UI Client
+│   ├── src/components/       # Isolated React generators (SetQuestionPaper, MCQPaper, etc)
+│   └── package.json          # Dependency definitions
+├── resources/                # Storage base for static papers (Not committed securely)
+│   ├── pyqs/                 
+│   └── syllabuses/          
+├── setup_windows.bat         # Single-click setup script 
+└── start_tutorvision.bat     # Single-click launch script
 ```
+
+---
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before continuing, you merely need:
+- **Python 3.10+** (Added directly to system PATH)
+- **Node.js 18+**
 
-- **Python 3.8+** - [Download Python](https://www.python.org/downloads/)
-- **Node.js 16+** - [Download Node.js](https://nodejs.org/)
-- **pip** - Python package manager (comes with Python)
-- **npm** - Node package manager (comes with Node.js)
+---
 
-## Quick Setup Guide
+## Quick Setup (For PC / Team Members)
 
-### The "One-Click" Setup (For Team Members on Windows)
+We've automated the entire virtual environment assembly and module configurations using Windows batch scripts!
 
-1. **Run the Setup Script**
-   Double-click `setup_windows.bat` in the root folder.
-   This script will automatically:
-   - Create a Python virtual environment
-   - Install all backend requirements
-   - Download necessary NLP models
-   - Copy `.env.example` to `backend/.env`
-   - Install all React frontend dependencies
+### 1. Run the Install Script
+Double-click `setup_windows.bat` in the root folder. 
+This script will automatically do all of the heavy lifting:
+- Provision a Python virtual environment (`backend/venv`).
+- Install all backend requirements & necessary spaCy NLP models.
+- Download all React frontend dependencies (`node_modules`).
+- Seed a baseline configuration (`.env`).
 
-2. **Add API Keys**
-   Open `backend/.env` and add your free API keys for the LLMs.
-   (Links to get them are included inside the `.env` file).
+### 2. Enter API Keys
+Open up the new `backend/.env` file. You need AT LEAST ONE key to run backend data processing. Link references to free key panels are already inside that `.env` file waiting for you.
 
-3. **Resources Folder**
-   Place your standard syllabuses in `resources/syllabuses/` and Past Year Question (PYQ) papers in `resources/pyqs/`. This keeps them handy whenever you want to upload and run the code.
+### 3. Load Up Useful Resources
+Store common course documents in `resources/syllabuses/` and Past Year Question (PYQ) papers in `resources/pyqs/`. This keeps them handy whenever you want to upload test materials rapidly!
 
-4. **Start the App**
-   Double-click `start_tutorvision.bat` to launch both backend and frontend servers automatically!
+### 4. Start the Environment
+Double-click `start_tutorvision.bat` to launch!
+It will spawn **both** the FastAPI python server and the Vite React server simultaneously in separate windows. 
+Access the user interface immediately at `http://localhost:5173`.
 
-### Manual Setup (For Reference/Other OS)
+---
 
-### Frontend Setup
+## Using the Generator
 
-1. **Navigate to the frontend directory:**
-   ```bash
-   cd frontend
-   ```
+1. **Upload Syllabus & Papers:** Utilize the `Set Question Paper` tab to pick standard `.pdf` course files. 
+2. **Tune Difficulty & Thresholds:** Target repetition boundaries so past papers are properly respected alongside newer AI-inferences!
+3. **Wait for Backend Compilation:** You'll see the loading indicator spin. Behind the scenes, the model attempts generations, sanitizes malicious JSON formatting mismatches, and compiles answers.
+4. **Download Material:** Retrieve your output smoothly in either precise PDF formats, or Word Documents (`.docx`) for extra localized editing!
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+---
 
-3. **Verify installation:**
-   ```bash
-   npm list
-   ```
+## Troubleshooting & API Failover 
 
-## Configuration
+During extremely prominent usage (or large PDF contexts), free-tier AI APIs easily rate-limit operations. 
+TutorVision was distinctly configured with a **Failover Loop mechanism**:
 
-# Backend Configuration
-UPLOAD_DIR=artifacts/question_papers
-LOG_LEVEL=INFO
-CORS_ORIGINS=http://localhost:5173
+- **If an Engine Fails:** It instantly captures the rate-limit errors and swaps seamlessly to the next defined fallback engine (i.e. From Groq → HuggingFace → Together...).
+- **Malformed Outputs:** Sometimes models forget how to write explicit JSON syntax. TutorVision deploys an aggressive 6-step fallback parser that automatically sanitizes, strips out malicious markdown quotes, patches dangling bracket structures, and perfectly restores fragmented responses. 
 
-
-### Backend Configuration Files
-
-- `backend/artifacts/` - Upload and output directory
-- `backend/logs/` - Application logs
-- `backend/data/processed/` - Processed course datasets
-
-### Frontend Configuration
-
-Update API endpoint in `frontend/src/services/api.tsx` if running on a different host:
-
-```typescript
-const API_BASE_URL = 'http://localhost:8000'; 
-```
-
-## Running the Application
-
-### Start the Backend Server
-
-1. Navigate to backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Activate virtual environment:
-   ```bash
-   # Windows
-   venv\Scripts\activate
-   # macOS/Linux
-   source venv/bin/activate
-   ```
-
-3. Start FastAPI server:
-   ```bash
-   python -m uvicorn src.app:app --reload --host 0.0.0.0 --port 8000
-   ```
-
-   The API will be available at: `http://localhost:8000`
-   - API Documentation: `http://localhost:8000/docs`
-   - ReDoc: `http://localhost:8000/redoc`
-
-### Start the Frontend Server
-
-1. In a new terminal, navigate to frontend directory:
-   ```bash
-   cd frontend
-   ```
-
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-   The application will be available at: `http://localhost:5173`
-
-## API Endpoints
-
-### Upload Syllabus
-
-**POST** `/upload`
-
-Upload a PDF syllabus file.
-
-**Request:**
-```
-Content-Type: multipart/form-data
-Body: { file: <PDF File> }
-```
-
-**Response:**
-```json
-{
-  "message": "File 'syllabus.pdf' uploaded successfully.",
-  "file_path": "artifacts/syllabus.pdf"
-}
-```
-
-### Get Course Recommendations
-
-**POST** `/get_courses`
-
-Get top 8 NPTEL courses matched with the uploaded syllabus.
-
-**Response:**
-```json
-[
-  {
-    "id": "course_001",
-    "title": "Course Name",
-    "instructors": ["Prof. Name"],
-    "duration": "12 weeks",
-    "url": "https://nptel.ac.in/course/...",
-    "similarity": 0.87
-  }
-]
-```
-
-### Get Learning Resources
-
-**POST** `/get_resources`
-
-Extract keywords and get relevant learning resources.
-
-**Response:**
-```json
-{
-  "keywords": ["keyword1", "keyword2", ...],
-  "resources": [
-    {
-      "title": "Resource Title",
-      "url": "https://example.com",
-      "relevance_score": 0.95
-    }
-  ]
-}
-```
-
-### Generate Question Paper
-
-**POST** `/generate_paper`
-
-Generate a practice question paper based on the syllabus.
-
-**Response:**
-```json
-{
-  "questions": [...],
-  "paper_id": "paper_123",
-  "file_path": "artifacts/question_papers/paper_123.pdf"
-}
-```
-
-## Usage Guide
-
-1. **Open the Application**
-   - Visit `http://localhost:5173` in your browser
-
-2. **Upload Syllabus**
-   - Click the upload area or drag-and-drop a PDF file
-   - Wait for the file to be processed
-
-3. **View Recommended Courses**
-   - See the top 8 matching NPTEL courses with similarity scores
-   - Click course links to visit NPTEL
-
-4. **Explore Learning Resources**
-   - View extracted keywords from your syllabus
-   - Access recommended learning materials
-   - Sort by relevance
-
-5. **Generate Question Papers**
-   - Generate practice exams based on syllabus content
-   - Download generated papers in PDF format
-
-## Project Architecture
-
-### Data Flow
-
-```
-PDF Upload
-    ↓
-PDF Text Extraction
-    ↓
-Text Preprocessing & Cleaning
-    ↓
-Keyword & Embedding Generation
-    ↓
-Similarity Matching with NPTEL Courses
-    ↓
-Ranking & Filtering (Top 8 Courses)
-    ↓
-Display Results & Resources
-```
-
-### Key Components
-
-**Backend:**
-- `extract_from_pdf.py` - Extracts text from PDFs
-- `preprocessing.py` - Text cleaning and normalization
-- `course_embedding.py` - Generates embeddings for courses
-- `user_embedding.py` - Generates embeddings for user syllabuses
-- `matching.py` - Computes similarity scores
-- `ranking.py` - Ranks courses by relevance
-- `search.py` - Searches for learning resources
-- `generate_paper.py` - Creates question papers
-
-**Frontend:**
-- `FileUpload.tsx` - Handles PDF uploads
-- `Results.tsx` - Displays matching courses
-- `Resources.tsx` - Shows learning resources
-- `SetQuestionPaper.tsx` - Question paper generation interface
-
-## Contributing
-
-Contributions are welcome! Please feel free to:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests
-
-
-**For questions or support, please open an issue on the repository.**
+Enjoy creating your test papers effortlessly! 
