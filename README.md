@@ -1,4 +1,42 @@
-# TutorVision - Academic Academic Exam & Resource Engine
+# TutorVision: AI-Powered Intelligent Exam Paper Generator
+
+> **Abstract** : TutorVision is an AI-powered intelligent exam paper generator designed to assist educators in creating customized, balanced, and syllabus-aligned examination papers with minimal effort. Leveraging Natural Language Processing (NLP) and machine learning techniques, the system analyzes course material, question banks, and difficulty levels to generate diverse question sets—ranging from MCQs to descriptive questions—tailored to specific learning outcomes. TutorVision ensures coverage of Bloom’s Taxonomy, maintains topic weightage, and avoids redundancy through smart filtering. With an intuitive interface and automated formatting, it significantly reduces manual workload while enhancing the quality and fairness of assessments in educational institutions.
+
+### Project Members
+1. JETHAM AYAAN RIYAZ  [ Team Leader ] 
+2. SAYYED MOHAMMED ZAID GULSHER ALAM 
+3. NOMANI TAHA RAHIL 
+4. KHAN RAMSHA AYUB AHMED 
+
+### Project Guides
+1. PROF. ANUPAM CHOUDHARY  [ Primary Guide ] 
+
+### Deployment Steps
+Please follow the below steps to run this project.
+1. **Run the Install Script**: Double-click `setup_windows.bat` in the root folder to install backend and frontend dependencies.
+2. **Configure Environment**: Open the generated `backend/.env` file and enter your required API Keys.
+3. **Load Resources**: Place your syllabus PDFs in `resources/syllabuses/` and Past Year Question papers in `resources/pyqs/`.
+4. **Start Application**: Double-click `start_tutorvision.bat` to launch both the backend server and frontend UI.
+
+### Subject Details
+- Class : BE (COMP) Div A - 2025-2026
+- Subject : Major Project 1 (MajPrj-1)
+- Project Type : Major Project
+
+### Platform, Libraries and Frameworks used
+1. [Python 3.10+](https://www.python.org)
+2. [FastAPI](https://fastapi.tiangolo.com)
+3. [ReactJS 18](https://reactjs.org)
+4. [Vite](https://vitejs.dev/)
+5. [TailwindCSS](https://tailwindcss.com/)
+6. [PyMuPDF](https://pymupdf.readthedocs.io/)
+
+### Dataset Used
+1. Custom University Syllabus & Past Year Question Paper (PYQ) PDFs
+
+---
+
+## Project Description
 
 An intelligent, AI-powered exam paper generator and course recommendation system. TutorVision analyzes academic syllabuses along with past year questions (PYQs) to automatically curate university-level exam papers, MCQ quizzes, study question banks, and map relevant NPTEL courses.
 
